@@ -1,0 +1,2189 @@
+speaker,text,act,conv_id,topic,topic_ldaconv,topic_ldautt
+0,"Hey, could you help me find some sons similar to music by Rebelution? I especially like their album Count Me In.",27,687,-1,-1,-1
+1,I have 1 idea I think you'll definitely like. How about Roots Reggae Music by Rebelution? Actually that song is even from the album Count Me In.,9,687,-1,-1,-1
+0,"Sounds interesting. What's the genre, anyway?",5,687,-1,-1,-1
+1,The song's genre is Reggae.,6,687,-1,-1,-1
+0,Sounds perfect! Can you go ahead and play the song on my kitchen speaker?,25,687,-1,-1,-1
+1,"You want to listen to Roots Reggae Music on the Kitchen Speaker, right?",11,687,-1,-1,-1
+0,"Yep, exactly.",20,687,-1,-1,-1
+1,Okay I'm playing it now!,21,687,-1,-1,-1
+0,Thanks for the help.,22,687,-1,-1,-1
+1,Anything else that I can do?,23,687,-1,-1,-1
+0,"No, that's all, thanks!",24,687,-1,-1,-1
+1,Okay have a good day then.,15,687,-1,-1,-1
+0,Please book me a restaurant in Cotati.,27,84,-1,-1,-1
+1,"What kind of food would you like to eat? Perhaps Chinese, American, or another?",2,84,-1,-1,-1
+0,"I would like to eat tacos, if available.",3,84,-1,-1,-1
+1,There is a restaurant called Mi Pueblo in Cotati that has good tacos.,4,84,-1,-1,-1
+0,Can you find me another restaurant in Cotati with live music?,8,84,-1,-1,-1
+1,There's 1 restaurant in Cotati that fits your criteria. It is called Mi Ranchito.,9,84,-1,-1,-1
+0,Please tell me the address of the restaurant and their general prices.,5,84,-1,-1,-1
+1,Their address is 7600 Commerce Boulevard and their prices are moderate.,6,84,-1,-1,-1
+0,That seems like a good fit.,16,84,-1,-1,-1
+1,Please indicate whether or not you wish to reserve a table.,17,84,-1,-1,-1
+0,I would like to reserve a table for two people tonight.,18,84,-1,-1,-1
+1,What time would you like to make the reservation for?,2,84,-1,-1,-1
+0,I would like to reserve a table at half past 6 in the evening.,3,84,-1,-1,-1
+1,Please verify the following details. You would like to reserve a table for 2 today at 6:30 pm at Mi Ranchito in Cotati.,11,84,-1,-1,-1
+0,"Yes, I confirm those details.",20,84,-1,-1,-1
+1,The reservation has been successfully made.,21,84,-1,-1,-1
+0,"Can you tell me if they serve alcohol, and their phone number?",5,84,-1,-1,-1
+1,Their phone number is 707-795-7600 and they do not serve alcohol.,6,84,-1,-1,-1
+0,Thank you for your assistance.,14,84,-1,-1,-1
+1,Enjoy the rest of your day.,15,84,-1,-1,-1
+0,"Hey, can you help me look for some songs?",1,549,-1,-1,-1
+1,There's a song called Yottabyte by Martin Garrix from the album The Martin Garrix Experience.,4,549,-1,-1,-1
+0,Can you tell me what kind of song it is?,5,549,-1,-1,-1
+1,It's from the House genre.,6,549,-1,-1,-1
+0,"Do you have anything else? I'm an Alan Walker fan, and I also really like Pop Songs.",8,549,-1,-1,-1
+1,"There are 2 songs you might enjoy. There's Alone by Alan Walker from the album Different World, how about that?",9,549,-1,-1,-1
+0,That sounds really good.,16,549,-1,-1,-1
+1,Would you like me to play the song?,17,549,-1,-1,-1
+0,"Yeah, put the song on the kitchen speaker please.",18,549,-1,-1,-1
+1,"You'd like me to play Alone on the kitchen speaker, is that right?",11,549,-1,-1,-1
+0,"On second thought, no. Please play it on the bedroom speaker.",19,549,-1,-1,-1
+1,"You'd like me to play Alone on the bedroom speaker, is that right?",11,549,-1,-1,-1
+0,"Yeah, that is right.",20,549,-1,-1,-1
+1,The song has started.,21,549,-1,-1,-1
+0,Thanks so much.,22,549,-1,-1,-1
+1,Can I help you out with anything else?,23,549,-1,-1,-1
+0,"No, thanks again.",24,549,-1,-1,-1
+1,"Alright, have a good day.",15,549,-1,-1,-1
+0,I am new to this city. Where can I find a list of events?,1,1301,-1,-1,-1
+1,"In which city should I look, and what types of activities should I look for?",2,1301,-1,-1,-1
+0,I am looking for a concert list for the city of Berkeley.,3,1301,-1,-1,-1
+1,There are 7 musical events being held soon. The one you might like the most is the Berkeley World Music Festival at 2500 Durant Ave.,9,1301,-1,-1,-1
+0,That sounds like what I'm looking for.,16,1301,-1,-1,-1
+1,Do you want to attend the concert? You will need to buy tickets.,17,1301,-1,-1,-1
+0,Not now. I want to find the dates of other events.,33,1301,-1,-1,-1
+1,It took me 4 days to find an event you would like. It takes place today and is the Berkeley World Music Festival at 2500 Durant Ave.,9,1301,-1,-1,-1
+0,I am interested in buying 2 tickets for the music festival.,25,1301,-1,-1,-1
+1,Let me make sure--you want 2 tickets for the Berkeley World Music Festival today in Berkeley.,11,1301,-1,-1,-1
+0,"Yes, that's right. Where is the concert being held?",12,1301,-1,-1,-1
+1,"The concert will be at 2500 Durant Avenue, and your reservation has been made.",13,1301,-1,-1,-1
+0,At what time does the music festival begin?,5,1301,-1,-1,-1
+1,The music festival starts at 7:30 pm.,6,1301,-1,-1,-1
+0,Thank you for your assistance.,22,1301,-1,-1,-1
+1,My pleasure; is there anything else I can help you with?,23,1301,-1,-1,-1
+0,"No, thank you. I appreciate your help.",24,1301,-1,-1,-1
+1,I'm happy to help; enjoy your day!,15,1301,-1,-1,-1
+0,I'm looking for a place to eat.,1,4,-1,-1,-1
+1,Which city should I search in? What kind of food are you looking for?,2,4,-1,-1,-1
+0,Some Freshwater fish kind of food in Palo Alto would be perfect.,3,4,-1,-1,-1
+1,I found 4 restaurants. Odori Japanese Cuisine is a nice restaurant in Palo Alto.,9,4,-1,-1,-1
+0,Could you suggest any other restaurant?,7,4,-1,-1,-1
+1,P.f. Chang's is another nice restaurant in Palo Alto.,4,4,-1,-1,-1
+0,"Yes, that works for me.",16,4,-1,-1,-1
+1,Would you like to reserve a table here?,17,4,-1,-1,-1
+0,"Yes, I want to make a reservation for one. Make it at half past 6 in the evening.",18,4,-1,-1,-1
+1,Please confirm: Booking a table for 1 at P.f. Chang's at 6:30 pm today in Palo Alto.,11,4,-1,-1,-1
+0,"Yes, that works for me. How pricey are they? What is their contact number?",12,4,-1,-1,-1
+1,Your reservation is successful. Their price range is moderate and their phone number is 650-330-1782.,13,4,-1,-1,-1
+0,Thank you very much.,22,4,-1,-1,-1
+1,Can I help you with anything else?,23,4,-1,-1,-1
+0,"No, thank you very much.",24,4,-1,-1,-1
+1,Have a good day.,15,4,-1,-1,-1
+0,I want to listen to some music.,1,766,-1,-1,-1
+1,I've found 10 songs you might want to hear. How about Bohemian Rhapsody by Billy Watman from his album Cryptic?,9,766,-1,-1,-1
+0,That sounds good.,16,766,-1,-1,-1
+1,Should I play it now?,17,766,-1,-1,-1
+0,"Yes, please. Go ahead.",29,766,-1,-1,-1
+1,"Okay. Just to make sure, I'm going to play Bohemian Rhapsody on the TV.",11,766,-1,-1,-1
+0,"Actually, no. Please play it on the kitchen device.",19,766,-1,-1,-1
+1,Sure. I'll play Bohemian Rhapsody on the kitchen speaker.,11,766,-1,-1,-1
+0,Yes. That is right.,20,766,-1,-1,-1
+1,Starting the song now.,21,766,-1,-1,-1
+0,Thanks. That's all for now.,14,766,-1,-1,-1
+1,Have a great day!,15,766,-1,-1,-1
+0,I want to make a reservation for this evening 7.,27,303,-1,-1,-1
+1,At which restaurant would you like to make this reservation?,2,303,-1,-1,-1
+0,"Make it at Mister Jiu's in SFO. Also, it should be noted the reservation is only for 1 person.",3,303,-1,-1,-1
+1,Please confirm the following: Book a table for 1 person at Mister Jiu's in San Francisco at 7 pm today.,11,303,-1,-1,-1
+0,"Yes, I don't necessarily need a whole table but I think they will understand.",20,303,-1,-1,-1
+1,I'm sorry to say that I was unable to make a reservation at Mister Jiu's for 1 person at that time. Shall I make the reservation for today at 6:30 pm instead?,31,303,-1,-1,-1
+0,"Yeah, I guess that will work.",20,303,-1,-1,-1
+1,"Your reservation has been successfully made, enjoy your meal.",21,303,-1,-1,-1
+0,I will. Thank you very much.,14,303,-1,-1,-1
+1,You're welcome.,15,303,-1,-1,-1
+0,I feel like watching a movie. How about Mary Magdalene?,27,222,-1,-1,-1
+1,"Okay, I'll play Mary Magdalene with no captions. Sound good?",11,222,-1,-1,-1
+0,Sure does. What kind of flick is it anyway?,12,222,-1,-1,-1
+1,The genre of this film is Drama. I'll start playing it now.,13,222,-1,-1,-1
+0,What's the name of the director.,5,222,-1,-1,-1
+1,Garth Davis directed this one.,6,222,-1,-1,-1
+0,"Alright, thank you. I'm set.",14,222,-1,-1,-1
+1,Great. Enjoy your movie.,15,222,-1,-1,-1
+0,Could you find me some songs? There are many good ones in the album Battleground!,27,641,-1,-1,-1
+1,I think I just found 1 song you'd like. What do you think about Glad You Came by The Wanted in their album Battleground?,9,641,-1,-1,-1
+0,That is great!,16,641,-1,-1,-1
+1,Do you want to play it now?,17,641,-1,-1,-1
+0,"Yeah, play it on the kitchen speaker!",18,641,-1,-1,-1
+1,Do you really want to play Glad You Came on kitchen speaker?,11,641,-1,-1,-1
+0,Yes! I want it to play on the kitchen speaker.,20,641,-1,-1,-1
+1,Playing the song.,21,641,-1,-1,-1
+0,Thank you very much.,22,641,-1,-1,-1
+1,What else can I help?,23,641,-1,-1,-1
+0,Nothing. Thank you.,24,641,-1,-1,-1
+1,Have a good day!,15,641,-1,-1,-1
+0,I'd like to look for events.,1,1196,-1,-1,-1
+1,Is there any metropolis you prefer me to search in? What are you intrigued about?,2,1196,-1,-1,-1
+0,I'm searching for a Concert event in San Diego.,3,1196,-1,-1,-1
+1,I discovered 10 events complying with your preference. There is an Alejandro Sanz event held at the Cal Coast Credit Union Amphitheater.,9,1196,-1,-1,-1
+0,"What type of event is it, and what is its location?",5,1196,-1,-1,-1
+1,"The event is an International one, and it will be held at 5500 Campanile Drive.",6,1196,-1,-1,-1
+0,That's perfect for me. I'm interested in finding the dates for the events.,10,1196,-1,-1,-1
+1,The Alejandro Sanz event will be held on Next Monday at the Cal Coast Credit Union Amphitheater.,4,1196,-1,-1,-1
+0,That's perfect for me. I'd like to purchase 4 tickets to the event.,25,1196,-1,-1,-1
+1,Please verify the following information: 4 tickets for the Alejandro Sanz event taking place in San Diego on next Monday.,11,1196,-1,-1,-1
+0,"Yes, that's perfect for me.",20,1196,-1,-1,-1
+1,Your booking was successful.,21,1196,-1,-1,-1
+0,Thank you for your assistance.,22,1196,-1,-1,-1
+1,Is there anything else I can assist you with?,23,1196,-1,-1,-1
+0,Nope; thank you for your assistance.,24,1196,-1,-1,-1
+1,Have a pleasant afternoon.,15,1196,-1,-1,-1
+0,I want to watch a movie.,1,205,-1,-1,-1
+1,Which movie do you want to watch?,2,205,-1,-1,-1
+0,I would love to watch Dr. Strangelove.,3,205,-1,-1,-1
+1,Do you want to play Dr. Strangelove without subtitles?,11,205,-1,-1,-1
+0,"No, I changed my mind, I want to watch Upside.",19,205,-1,-1,-1
+1,Do you want to play The Upside without subtitles?,11,205,-1,-1,-1
+0,"Yes, that would be amazing.",20,205,-1,-1,-1
+1,Started playing the movie. Please enjoy the movie.,21,205,-1,-1,-1
+0,Thank you very much.,22,205,-1,-1,-1
+1,Can I help with anything else?,23,205,-1,-1,-1
+0,"No. That would be all, thank you.",24,205,-1,-1,-1
+1,Have a great day!,15,205,-1,-1,-1
+0,I am looking for somewhere to eat Lobster.,27,186,-1,-1,-1
+1,Which city?,2,186,-1,-1,-1
+0,I want to eat in Hayward.,3,186,-1,-1,-1
+1,I found Sapporo Restaurant in Hayward.,4,186,-1,-1,-1
+0,"Yes, that will work for me. Please make me a reservation for 5 in the evening.",25,186,-1,-1,-1
+1,I have a reservation for Sapporo Restaurant in Hayward at 5 pm for 2 people today.,11,186,-1,-1,-1
+0,Yes perfect. Do they serve liquor or have live music?,12,186,-1,-1,-1
+1,Sorry I was unable to make a reservation. The do not have live music or serve alcohol at Sapporo Restaurant. Shall I Try to make a reservation for 2 people today at 5:30 pm?,28,186,-1,-1,-1
+0,That would be great.,20,186,-1,-1,-1
+1,Your reservation is made.,21,186,-1,-1,-1
+0,Thank you!,22,186,-1,-1,-1
+1,May I help you with anything more?,23,186,-1,-1,-1
+0,"No, thank you.",24,186,-1,-1,-1
+1,Have a wonderful day!,15,186,-1,-1,-1
+0,I want to hear some music.,1,720,-1,-1,-1
+1,Would you like to hear the song How Deep Is Your Love on the album Tomahawk Technique by Sean Paul?,4,720,-1,-1,-1
+0,Could you suggest something else?,7,720,-1,-1,-1
+1,How about Blue Tacoma on the album Yours by Russell Dickerson?,4,720,-1,-1,-1
+0,"Yeah, that one will work.",10,720,-1,-1,-1
+1,Please confirm the following: Play Blue Tacoma on the album Yours by Russell Dickerson on TV.,11,720,-1,-1,-1
+0,"Yes, that's what I want.",20,720,-1,-1,-1
+1,The song is beginning.,21,720,-1,-1,-1
+0,"Thanks, that's all.",14,720,-1,-1,-1
+1,You're welcome. Enjoy the music.,15,720,-1,-1,-1
+0,I am looking for some songs. Can you look for songs in the album A Star Is Born Soundtrack.,27,572,-1,-1,-1
+1,How about Alibi by Bradley Cooper from the album A Star Is Born Soundtrack.,4,572,-1,-1,-1
+0,Anything else you can suggest?,7,572,-1,-1,-1
+1,How about Always Remember Us This Way by Lady Gaga from the album A Star is Born Soundtrack.,4,572,-1,-1,-1
+0,What else?,7,572,-1,-1,-1
+1,Maybe you'd like Before I Cry by Lady Gaga from the album A Star Is Born Soundtrack.,4,572,-1,-1,-1
+0,"That one is great, I want to play it.",10,572,-1,-1,-1
+1,Please confirm that you want to play Before I Cry on TV.,11,572,-1,-1,-1
+0,"Yes, play it.",20,572,-1,-1,-1
+1,Song is playing.,21,572,-1,-1,-1
+0,What is the genre.,5,572,-1,-1,-1
+1,Its genre is Soundtracks.,6,572,-1,-1,-1
+0,"Thank you, that was all.",14,572,-1,-1,-1
+1,Have a nice day.,15,572,-1,-1,-1
+0,"I'd like to listen to a song, it doesn't matter who sings it.",27,548,-1,-1,-1
+1,I've found 10 songs for you. How about High Horse by Kacey Musgraves from the album Golden Hour. Would you like to listen to it?,9,548,-1,-1,-1
+0,Please find a different song to listen to.,7,548,-1,-1,-1
+1,How about the song Carnivore by Starset off of the album Transmissions. Would you like to listen to it?,4,548,-1,-1,-1
+0,What genre is that song?,5,548,-1,-1,-1
+1,That song is a Rock song.,6,548,-1,-1,-1
+0,"Good, I'd like to listen to that song. Please play it on the kitchen speaker.",25,548,-1,-1,-1
+1,Please verify the following details. You'd like to hear Carnivore on the kitchen speaker. Is that correct?,11,548,-1,-1,-1
+0,"Yes, that is right.",20,548,-1,-1,-1
+1,I've started the song. Enjoy.,21,548,-1,-1,-1
+0,"Thanks, that's all.",14,548,-1,-1,-1
+1,Enjoy the rest of your day.,15,548,-1,-1,-1
+0,I am searching for a place to eat.,1,163,-1,-1,-1
+1,"What kind of food are you looking for? For example, you can say American, Indian, or anything else. And what city should I search in?",2,163,-1,-1,-1
+0,"I want to order food in San Jose, specifically Spicy Indian food which would be perfect.",3,163,-1,-1,-1
+1,There is a nice restaurant named 8elements in San Jose.,4,163,-1,-1,-1
+0,What other restaurants are available?,7,163,-1,-1,-1
+1,There is another nice restaurant in San Jose called Amber India.,4,163,-1,-1,-1
+0,I am looking for a suggestion for a restaurant with moderate pricing.,8,163,-1,-1,-1
+1,"There are 4 restaurants In San Jose, one of them being a nice restaurant called Caspian Village.",9,163,-1,-1,-1
+0,The address is what?,5,163,-1,-1,-1
+1,2881 The Villages Parkway is the correct address.,6,163,-1,-1,-1
+0,What number can they be reached at?,5,163,-1,-1,-1
+1,They can be reached at 408-528-8500,6,163,-1,-1,-1
+0,"That works, I would like to book a reservation.",10,163,-1,-1,-1
+1,The reservation is for what time?,2,163,-1,-1,-1
+0,"I would like it on March 11th, morning 11.",3,163,-1,-1,-1
+1,The following details need to be confirmed. I am booking a table at Caspian Village in San Jose. It is for 2 people on March 11th at 11 am.,11,163,-1,-1,-1
+0,That works for me.,20,163,-1,-1,-1
+1,You reservation has been successfully placed.,21,163,-1,-1,-1
+0,"That is all I needed, thank you very much.",14,163,-1,-1,-1
+1,Have a good day.,15,163,-1,-1,-1
+0,I'm so bored! Is anything interesting happening around here?,1,1117,-1,-1,-1
+1,What city do you want to check out the happenings of?,2,1117,-1,-1,-1
+0,I'd like to see what's going on in DC.,3,1117,-1,-1,-1
+1,"Is there a specific event that suits your fancy, like music or sports?",2,1117,-1,-1,-1
+0,I'd like to see if there's a match happening around there.,3,1117,-1,-1,-1
+1,"I found 10 events relevant to your critera. One of them is a DC United vs Revolution match, hosted at Audi Field.",9,1117,-1,-1,-1
+0,What specific sport is this match?,5,1117,-1,-1,-1
+1,It is a soccer match.,6,1117,-1,-1,-1
+0,Sounds great to me.,16,1117,-1,-1,-1
+1,Would you like to get a ticket right now?,17,1117,-1,-1,-1
+0,Not at the moment. I'll think about it.,34,1117,-1,-1,-1
+1,How else can I help you out?,23,1117,-1,-1,-1
+0,I'd like to learn when that match happens.,1,1117,-1,-1,-1
+1,"The DC United vs Revolution match at Audi Field? It happens on 8 days, the soonest being tomorrow.",9,1117,-1,-1,-1
+0,Sounds good. I'll go ahead and get the tickets.,10,1117,-1,-1,-1
+1,How many tickets do you want?,2,1117,-1,-1,-1
+0,4 sounds good.,3,1117,-1,-1,-1
+1,"Okay then, so you want 4 tickets for the DC United Vs Revolution soccer match that takes place in Washington D.C. tomorrow?",11,1117,-1,-1,-1
+0,Wait a second. Two of the people I had in mind don't like soccer. I'll get two tickets instead.,19,1117,-1,-1,-1
+1,"You want 2 tickets for the DC United vs Revolution match, then?",11,1117,-1,-1,-1
+0,That is correct.,20,1117,-1,-1,-1
+1,I have reserved the tickets for you.,21,1117,-1,-1,-1
+0,Thanks for arranging that.,22,1117,-1,-1,-1
+1,Can I help you any further?,23,1117,-1,-1,-1
+0,Not now. Many thanks for getting me the tickets.,24,1117,-1,-1,-1
+1,I hope it's a great game. Enjoy your day.,15,1117,-1,-1,-1
+0,Are there any upcoming events in the District of Columbia?,27,409,-1,-1,-1
+1,What kind of event are you looking for?,2,409,-1,-1,-1
+0,Something like the Nationals Vs Orioles.,3,409,-1,-1,-1
+1,"The Nationals Vs Orioles has 3 upcoming dates, with the next one being next Monday at the Nationals Park.",9,409,-1,-1,-1
+0,When and where is it?,5,409,-1,-1,-1
+1,The event starts at 5 pm at 1500 South Capitol Street Southeast.,6,409,-1,-1,-1
+0,Does the event have any other date?,7,409,-1,-1,-1
+1,"Yes, Nationals Vs Orioles is also happening on March 12th at Nationals Park.",4,409,-1,-1,-1
+0,"Hmm, any other date?",7,409,-1,-1,-1
+1,"Yes, Nationals Vs Orioles is also happening on March 13th at Nationals Park.",4,409,-1,-1,-1
+0,"Ok, that sounds good",16,409,-1,-1,-1
+1,Would you like to buy tickets?,17,409,-1,-1,-1
+0,"Yeah, get me 3.",18,409,-1,-1,-1
+1,"Ok, I'll buy 3 tickets for Nationals Vs Orioles on March 13th in Washington D.C.",11,409,-1,-1,-1
+0,Yes that's perfect.,20,409,-1,-1,-1
+1,Your tickets have been purchased.,21,409,-1,-1,-1
+0,Thanks for the help,22,409,-1,-1,-1
+1,No problem. May i assist you with anything else?,23,409,-1,-1,-1
+0,"No, that's all thanks.",24,409,-1,-1,-1
+1,Have a great day.,15,409,-1,-1,-1
+0,Can you play some pop songs? I especially like Ciara.,27,595,-1,-1,-1
+1,I located 1 song for you. Would you like to listen to Ciara's Thinkin Bout You from the album Beauty Marks?,9,595,-1,-1,-1
+0,"Perfect, thank you.",16,595,-1,-1,-1
+1,Should I play it now?,17,595,-1,-1,-1
+0,"Yes, right now.",29,595,-1,-1,-1
+1,Play Thinkin Bout You on TV.,11,595,-1,-1,-1
+0,Actually I want to listen to it on the kitchen speaker.,19,595,-1,-1,-1
+1,Play Thinkin Bout You on kitchen speaker.,11,595,-1,-1,-1
+0,"Never mind, I want it on the speaker in the bedroom.",19,595,-1,-1,-1
+1,Playing Thinkin Bout You on bedroom speaker.,11,595,-1,-1,-1
+0,That is right.,20,595,-1,-1,-1
+1,Song is playing.,21,595,-1,-1,-1
+0,Thanks very much.,22,595,-1,-1,-1
+1,Do you need anything else?,23,595,-1,-1,-1
+0,"Not right now, thanks.",24,595,-1,-1,-1
+1,Then take care.,15,595,-1,-1,-1
+0,"I am interested in an event, specifically a concert.",27,1179,-1,-1,-1
+1,Which city are you interested in?,2,1179,-1,-1,-1
+0,In San Francisco please.,3,1179,-1,-1,-1
+1,Allan Rayman is playing at August Hall.,4,1179,-1,-1,-1
+0,Is there anything else? Something that is on March 9th.,8,1179,-1,-1,-1
+1,"There are 6 events, Carmina Burana is at San Francisco Symphony.",9,1179,-1,-1,-1
+0,Actually can you find me events in Chicago instead?,8,1179,-1,-1,-1
+1,"There are 2 events, New Found Glory is on at Concord Music Hall?",9,1179,-1,-1,-1
+0,Where is Concord Music Hall?,5,1179,-1,-1,-1
+1,It is at 2047 North Milwaukee Avenue.,6,1179,-1,-1,-1
+0,Thats sounds perfect.,16,1179,-1,-1,-1
+1,Would you like me to purchase tickets for you?,17,1179,-1,-1,-1
+0,"Not now, maybe later.",34,1179,-1,-1,-1
+1,Can I assist with anything else?,23,1179,-1,-1,-1
+0,More dates for events.,1,1179,-1,-1,-1
+1,"I found the event on 1 day, March 9th the event is New Found Glory at Concord Music Hall.",9,1179,-1,-1,-1
+0,When does it start and where is the venue?,5,1179,-1,-1,-1
+1,It is at 2047 North Milwaukee Avenue and starts at 6:30 pm.,6,1179,-1,-1,-1
+0,"That sounds good, can you get me four tickets?",25,1179,-1,-1,-1
+1,To confirm then you want 4 tickets for New Found Glory on March 9th in Chicago?,11,1179,-1,-1,-1
+0,Sorry actually change that to 2 tickets.,19,1179,-1,-1,-1
+1,So 2 tickets for the Chicago event.,11,1179,-1,-1,-1
+0,Yes that's correct.,20,1179,-1,-1,-1
+1,Your booking is confirmed.,21,1179,-1,-1,-1
+0,Thanks for helping me.,22,1179,-1,-1,-1
+1,Do you need anything else?,23,1179,-1,-1,-1
+0,No that is everything thanks.,24,1179,-1,-1,-1
+1,have a lovely day.,15,1179,-1,-1,-1
+0,I need to make a reservation for a date on the 2nd.,27,353,-1,-1,-1
+1,Okay. Which restaurant and what city should it be in?,2,353,-1,-1,-1
+0,I'm looking for a reservation to Amami in San Bruno.,3,353,-1,-1,-1
+1,What time do you wish for this reservation?,2,353,-1,-1,-1
+0,It should be around 5:30 in the evening.,3,353,-1,-1,-1
+1,Let me double check. This is a reservation for a table at Amami Sushi in San Bruno at 5:30 pm tomorrow for 2 people.,11,353,-1,-1,-1
+0,Scratch that. Make it the 8th of March.,19,353,-1,-1,-1
+1,"So, it's next Friday for 2 people?",11,353,-1,-1,-1
+0,Yeah. Do they serve Pizza and Pasta styles of food? Is the price range lavish?,12,353,-1,-1,-1
+1,Your reservation has been accepted. They serve Seafood and their price range is quite moderate.,13,353,-1,-1,-1
+0,Thank you for all your help. That's all.,14,353,-1,-1,-1
+1,Have a wonderful day!,15,353,-1,-1,-1
+0,Can you help me to find an affordable place to eat out?,27,164,-1,-1,-1
+1,Any particular city?,2,164,-1,-1,-1
+0,I want to go to El Cerrito.,3,164,-1,-1,-1
+1,"What kind of food do you fancy? Chinese, Mexican, anything else?",2,164,-1,-1,-1
+0,I'd like to try some Korean food.,3,164,-1,-1,-1
+1,I found 1 option- Ancient Szechuan in El Cerrito.,9,164,-1,-1,-1
+0,Can you tell me the contact number and address?,5,164,-1,-1,-1
+1,"The phone number is 510-524-8772, the address is 10675 San Pablo Avenue.",6,164,-1,-1,-1
+0,That sounds good.,16,164,-1,-1,-1
+1,Shall I reserve a table?,17,164,-1,-1,-1
+0,"Yes please, make it at 12:45.",18,164,-1,-1,-1
+1,"So I'll book a table for 2 people at Ancient Szechuan in El Cerrito, for 12:45 pm today. Is that okay?",11,164,-1,-1,-1
+0,"Yes, that sounds good.",20,164,-1,-1,-1
+1,The reservation was successful!,21,164,-1,-1,-1
+0,"Thanks a lot, that's all for now.",14,164,-1,-1,-1
+1,Have a good day!,15,164,-1,-1,-1
+0,Help me find a good restaurant.,1,3,-1,-1,-1
+1,In which city are you looking for the restaurant and do you have any preferred cuisine?,2,3,-1,-1,-1
+0,Find me Ethiopian cuisine in Berkeley.,3,3,-1,-1,-1
+1,"Of the 4 Ethiopian restaurants in Berkeley, Addis Restaurant is a good one.",9,3,-1,-1,-1
+0,Do they have live music?,5,3,-1,-1,-1
+1,I'm sorry. They do not have live music.,6,3,-1,-1,-1
+0,That's okay. I'd like to reserve a table for the 4th.,25,3,-1,-1,-1
+1,At what time will you be arriving at the restaurant?,2,3,-1,-1,-1
+0,Reserve the table for the 2nd of this month at 17:15.,3,3,-1,-1,-1
+1,Please confirm that you want to reserve a table for 2 at the Addis Restaurant in Berkeley for tomorrow at 5:15 pm.,11,3,-1,-1,-1
+0,That's right. Do they serve alcohol? And how expensive is the place?,12,3,-1,-1,-1
+1,Sorry the reservation was not successful. Is there anything else I can assist you with?,26,3,-1,-1,-1
+0,Can you check if a table is available at 17:30?,27,3,-1,-1,-1
+1,Okay.Please confirm that you want to reserve a table for 2 at the Addis Restaurant in Berkeley for tomorrow at 5:30 pm.,11,3,-1,-1,-1
+0,That's correct.,20,3,-1,-1,-1
+1,Your table has been reserved.,21,3,-1,-1,-1
+0,Thank you. That's all I need for now.,14,3,-1,-1,-1
+1,Have a great day!,15,3,-1,-1,-1
+0,Can you play a song from the album Anesthetic?,27,924,-1,-1,-1
+1,Do you like Cross Off by Mark Morton from the album Anesthetic?,4,924,-1,-1,-1
+0,"Yes, that is the one.",16,924,-1,-1,-1
+1,Would you like to play this song?,17,924,-1,-1,-1
+0,"Yes, play the Cross Off.",29,924,-1,-1,-1
+1,The Cross Off to play on the TV.,11,924,-1,-1,-1
+0,Is it from seven years back? What is the genre?,12,924,-1,-1,-1
+1,It's from 2019 and it's a Metal song.,13,924,-1,-1,-1
+0,Thank you for your assistance.,14,924,-1,-1,-1
+1,Have a good day.,15,924,-1,-1,-1
+0,I want to find out more about event dates.,1,537,-1,-1,-1
+1,Is there a specific city I should look in?,2,537,-1,-1,-1
+0,Phoenix please.,3,537,-1,-1,-1
+1,Is there an event you're interested in?,2,537,-1,-1,-1
+0,"Yes, I want to Styx in Vancouver, BC.",3,537,-1,-1,-1
+1,I found the event on 8 days. Styx will be performing today at PNE Amphitheatre.,9,537,-1,-1,-1
+0,Works for me.,16,537,-1,-1,-1
+1,May I buy tickets?,17,537,-1,-1,-1
+0,Yes please.,29,537,-1,-1,-1
+1,How many shall I purchase?,2,537,-1,-1,-1
+0,4 please.,3,537,-1,-1,-1
+1,Please confirm the following details: 4 tickets for the Styx concert that takes place today in Vancouver.,11,537,-1,-1,-1
+0,"Yep, works for me.",20,537,-1,-1,-1
+1,Your purchase is complete.,21,537,-1,-1,-1
+0,When does it start and where is the venue?,5,537,-1,-1,-1
+1,It starts at 7:30 pm and the venue is located at 2901 East Hastings Street.,6,537,-1,-1,-1
+0,Thank you for the help.,22,537,-1,-1,-1
+1,May I help you with something else?,23,537,-1,-1,-1
+0,No thanks.,24,537,-1,-1,-1
+1,Enjoy the rest of your day.,15,537,-1,-1,-1
+0,I would like to find an event to attend. Please search for an event the day after tomorrow.,27,1143,-1,-1,-1
+1,"What type of event would you like to attend. Perhaps a Sports event, or a Music event? Also, please specify a location at which you would like to attend this event.",2,1143,-1,-1,-1
+0,"I am looking for an event in LAX, and I would like a Games event.",3,1143,-1,-1,-1
+1,There are 5 events that match your criteria. One event is a Dodgers Vs Diamondbacks at Dodger Stadium.,9,1143,-1,-1,-1
+0,Please tell me what kind of game this is and where it is located.,5,1143,-1,-1,-1
+1,This is a baseball game located at 1000 Vin Scully Ave.,6,1143,-1,-1,-1
+0,I am interested in this events. Please find me dates and tickets.,10,1143,-1,-1,-1
+1,The Dodgers Vs Diamondbacks is the day after tomorrow at the Dodger Stadium.,4,1143,-1,-1,-1
+0,When does the game start? What's the address that the game is at?,5,1143,-1,-1,-1
+1,The game starts at 7 pm and is located at 1000 Vin Scully Ave.,6,1143,-1,-1,-1
+0,"I'm available, please purchase a ticket to the event.",10,1143,-1,-1,-1
+1,How many tickets would you like?,2,1143,-1,-1,-1
+0,I want to purchase one ticket.,3,1143,-1,-1,-1
+1,Please verify the following details are correct. You wish to purchase 1 ticket to the Dodgers Vs Diamondbacks game the day after tomorrow in Los Angeles.,11,1143,-1,-1,-1
+0,"Yes, please purchase the ticket.",20,1143,-1,-1,-1
+1,I have reserved you a ticket.,21,1143,-1,-1,-1
+0,Thank you for your help.,14,1143,-1,-1,-1
+1,Enjoy the rest of your day.,15,1143,-1,-1,-1
+0,Can you find me some Country music? I love it.,27,664,-1,-1,-1
+1,How do you rate A Little Bit Stronger in Stronger album by Sara Evans?,4,664,-1,-1,-1
+0,I would like you to search for something else.,7,664,-1,-1,-1
+1,Give me your opinion of Devin Dawson song All on Me in album Dark Horse,4,664,-1,-1,-1
+0,Can you find songs by Jimmie Allen for me?,8,664,-1,-1,-1
+1,I like Jimmie Allen song Best Shot from Mercury Lane album. How about you?,4,664,-1,-1,-1
+0,I like it.,16,664,-1,-1,-1
+1,I want to hear the music now.,17,664,-1,-1,-1
+0,There you go.,29,664,-1,-1,-1
+1,I have Best Shot playing on TV. Would you like to hear it?,11,664,-1,-1,-1
+0,That's the one.,20,664,-1,-1,-1
+1,"Now playing,",21,664,-1,-1,-1
+0,Thanks. I need nothing else by now.,14,664,-1,-1,-1
+1,Talk to you later.,15,664,-1,-1,-1
+0,Want something to do. Find me some events? I have friends coming in from out of town.,1,1094,-1,-1,-1
+1,Do you have a preferred city?,2,1094,-1,-1,-1
+0,"Seattle, WA is where I want to look.",3,1094,-1,-1,-1
+1,What interests you?,2,1094,-1,-1,-1
+0,"I am looking for Games on the 4th, preferably.",3,1094,-1,-1,-1
+1,I found 8 events you would like. One is Huskies Vs Warriors at Husky Stadium.,9,1094,-1,-1,-1
+0,Where is it? When does it start?,5,1094,-1,-1,-1
+1,5:30 pm at 3800 Montlake Boulevard Northeast.,6,1094,-1,-1,-1
+0,Sounds good!,16,1094,-1,-1,-1
+1,Do you want tickets for this?,17,1094,-1,-1,-1
+0,"Yes, I want 2 tickets.",18,1094,-1,-1,-1
+1,Please confirm: Huskies Vs Warriors in Seattle. 2 tickets for next Monday.,11,1094,-1,-1,-1
+0,Nevermind. I want four tickets.,19,1094,-1,-1,-1
+1,Please confirm: 4 tickets for Huskies Vs Warriors.,11,1094,-1,-1,-1
+0,"That works, yes.",20,1094,-1,-1,-1
+1,Reservation is done.,21,1094,-1,-1,-1
+0,Thanks so much for your help!,22,1094,-1,-1,-1
+1,Anything else you need help with today?,23,1094,-1,-1,-1
+0,No thank you. Thank you so much for your help.,24,1094,-1,-1,-1
+1,You are welcome. Have a great day!,15,1094,-1,-1,-1
+0,Can you play me some music? I'm thinking Sabaton tonight.,27,770,-1,-1,-1
+1,"I found 5 songs for you. How about Sabaton 's Night Witches, from the album Heroes",9,770,-1,-1,-1
+0,Anything else?,7,770,-1,-1,-1
+1,"Maybe Sabaton 's No Bullets Fly, also from the album Heroes?",4,770,-1,-1,-1
+0,What genre is it?,5,770,-1,-1,-1
+1,That's a Metal song,6,770,-1,-1,-1
+0,"Ok, let's play it.",10,770,-1,-1,-1
+1,Please confirm: playing No Bullets Fly on TV,11,770,-1,-1,-1
+0,No make it the speaker in kitchen instead,19,770,-1,-1,-1
+1,Please confirm: playing No Bullets Fly on the kitchen speaker,11,770,-1,-1,-1
+0,Yes do that,20,770,-1,-1,-1
+1,Your music is playing,21,770,-1,-1,-1
+0,Thanks.,14,770,-1,-1,-1
+1,Anytime.,15,770,-1,-1,-1
+0,I am looking for something to do this weekend. I think I can find an event for Prettymuch.,27,531,-1,-1,-1
+1,Where will you be this weekend?,2,531,-1,-1,-1
+0,I will be in SD.,3,531,-1,-1,-1
+1,"Well, if you're going to be there next Wednesday, Prettymuch will be at the Cal Coast Credit Union Amphitheater.",4,531,-1,-1,-1
+0,Where is that? What time will it start?,5,531,-1,-1,-1
+1,It's at 5500 Campanile Drive. It starts at 7:30 pm.,6,531,-1,-1,-1
+0,"Hey, that sounds good!",16,531,-1,-1,-1
+1,Would you like to buy tickets to see Prettymuch?,17,531,-1,-1,-1
+0,"Yes, I would like one ticket.",18,531,-1,-1,-1
+1,"Okay, just to confirm: You want 1 ticket to see Prettymuch, on next Wednesday, in San Diego.",11,531,-1,-1,-1
+0,"No, I'll have friends with me. I will need four tickets.",19,531,-1,-1,-1
+1,Let's confirm then. You will need 4 tickets for Prettymuch in San Diego.,11,531,-1,-1,-1
+0,"Yes, that's what I want.",20,531,-1,-1,-1
+1,"Okay, your seats are reserved.",21,531,-1,-1,-1
+0,Thanks for your help!,22,531,-1,-1,-1
+1,Is there anything else I can help you with?,23,531,-1,-1,-1
+0,No. That's it for now. Thanks again.,24,531,-1,-1,-1
+1,"Have a good day, and I hope you enjoy the concert.",15,531,-1,-1,-1
+0,Can you help me look for some interesting events to go to? I really like Match events.,27,999,-1,-1,-1
+1,Sure. Do you have a city in mind?,2,999,-1,-1,-1
+0,I'm looking for something in the San Fran area. I would prefer a baseball match if possible.,3,999,-1,-1,-1
+1,There is a Giants vs Brewers baseball match in Oracle Park. It is scheduled for next Tuesday at 7 pm.,4,999,-1,-1,-1
+0,That sounds great. Can you please reserve 4 tickets to the event?,25,999,-1,-1,-1
+1,"Sure. Please confirm the following details: The event will be Giants vs Brewers scheduled for next Tuesday in Oracle Park, San Francisco. There will be a total of 4 tickets in your reservation.",11,999,-1,-1,-1
+0,That sounds great.,20,999,-1,-1,-1
+1,Your reservation has been confirmed. Have a great time!,21,999,-1,-1,-1
+0,Thank you so much for your help.,22,999,-1,-1,-1
+1,You are very welcome. Is there anything else I can hep you with today?,23,999,-1,-1,-1
+0,"No, that is all. Thanks again.",24,999,-1,-1,-1
+1,It is my pleasure. Have a great day.,15,999,-1,-1,-1
+0,I would like to make a reservation.,1,367,-1,-1,-1
+1,What restaurant and time?,2,367,-1,-1,-1
+0,Evening 7:15 at Mcdonald's.,3,367,-1,-1,-1
+1,What city?,2,367,-1,-1,-1
+0,Hayward.,3,367,-1,-1,-1
+1,Please confirm a 7:15 pm reservation at Mcdonald's in Hayward today for 2 people.,11,367,-1,-1,-1
+0,Great.,20,367,-1,-1,-1
+1,I was unable to make that reservation at Mcdonald's. Is today at 7:30 pm for 2 people okay?,31,367,-1,-1,-1
+0,"No, thanks.",32,367,-1,-1,-1
+1,Anything else?,23,367,-1,-1,-1
+0,"No, that's all for now.",24,367,-1,-1,-1
+1,Have a great day.,15,367,-1,-1,-1
+0,I wanna search for events,1,1098,-1,-1,-1
+1,You can say music or sports or anything for preferred types of events.,2,1098,-1,-1,-1
+0,I am searching for events in NYC and a Concert,3,1098,-1,-1,-1
+1,The event is Amber Run Brooklyn and it;s in Warsaw,4,1098,-1,-1,-1
+0,I want the event on March 14th,8,1098,-1,-1,-1
+1,The event is Blowout Music Festival and it's in Knockdown Center,4,1098,-1,-1,-1
+0,Where is that venue?,5,1098,-1,-1,-1
+1,"The venue is at 52-19 Flushing Avenue, Maspeth",6,1098,-1,-1,-1
+0,Can you locate other vents please?,7,1098,-1,-1,-1
+1,The event is Jason Isbell and it's at Prospect Park Bandshell.,4,1098,-1,-1,-1
+0,where is the venue?,5,1098,-1,-1,-1
+1,"The venue is at 141 Prospect Park West, Brooklyn",6,1098,-1,-1,-1
+0,That sounds nice.,16,1098,-1,-1,-1
+1,wanna get tickets for the event?,17,1098,-1,-1,-1
+0,I wanna buy 4 event tickets,18,1098,-1,-1,-1
+1,Conform Jason Isbell and 4 tickets for March 14th event in New York.,11,1098,-1,-1,-1
+0,Yes that works and when does the event start?,12,1098,-1,-1,-1
+1,The event starts at 5:30 pm,13,1098,-1,-1,-1
+0,Thanks that is all I need,14,1098,-1,-1,-1
+1,Have a good day,15,1098,-1,-1,-1
+0,Could you find me some songs on the album The Gaza Don by Dancehall?,27,731,-1,-1,-1
+1,I found 1 song called Summer Time by Vybz Kartel on The Gaza Don. What do you think?,9,731,-1,-1,-1
+0,That's great!,16,731,-1,-1,-1
+1,Anything else I can help with?,23,731,-1,-1,-1
+0,Play that song on the speaker in kitchen.,27,731,-1,-1,-1
+1,Do you want to listen to Summer Time on the kitchen speaker?,11,731,-1,-1,-1
+0,"No, play it on the speaker in the bedroom.",19,731,-1,-1,-1
+1,Do you want to listen to Summer Time on the bedroom Speaker?,11,731,-1,-1,-1
+0,Yes.,20,731,-1,-1,-1
+1,Here you go.,21,731,-1,-1,-1
+0,Thanks.,22,731,-1,-1,-1
+1,Anything else I can help with?,23,731,-1,-1,-1
+0,"No, thanks.",24,731,-1,-1,-1
+1,You're welcome. Have a good day!,15,731,-1,-1,-1
+0,I am looking for events.,1,1200,-1,-1,-1
+1,"What type of event are you looking for? You can say Music or sports or anything else do. Also, is there a preference on the city?",2,1200,-1,-1,-1
+0,I am looking for games in Chi-town.,3,1200,-1,-1,-1
+1,How about the Cubs Vs Brewers at Wrigley Field?,4,1200,-1,-1,-1
+0,Can you please find some other events?,7,1200,-1,-1,-1
+1,Sure! How about the Cubs Vs Giants at Wrigley Field?,4,1200,-1,-1,-1
+0,Where is Wrigley Field located?,5,1200,-1,-1,-1
+1,1060 West Addison Street.,6,1200,-1,-1,-1
+0,What kind of event is this and what time does it start?,5,1200,-1,-1,-1
+1,It is baseball. The game starts at 7:30 pm.,6,1200,-1,-1,-1
+0,That sounds good.,16,1200,-1,-1,-1
+1,Do you want to purchase tickets?,17,1200,-1,-1,-1
+0,"Maybe later, I am just looking at dates for events.",33,1200,-1,-1,-1
+1,"The Cubs Vs Giants game is at Wrigley Field, the day after tomorrow.",4,1200,-1,-1,-1
+0,What time does it start?,5,1200,-1,-1,-1
+1,It starts at 7:30 pm.,6,1200,-1,-1,-1
+0,"Great, I want two tickets.",25,1200,-1,-1,-1
+1,Please confirm the following: 2 tickets for the Cubs Vs Giants in Chicago the day after tomorrow.,11,1200,-1,-1,-1
+0,"No, make it four tickets.",19,1200,-1,-1,-1
+1,Please confirm the following: 4 tickets for the Cubs Vs Giants in Chicago the day after tomorrow.,11,1200,-1,-1,-1
+0,"Yes, that works.",20,1200,-1,-1,-1
+1,Your reservation has been made.,21,1200,-1,-1,-1
+0,"Thank you, that is all I need.",14,1200,-1,-1,-1
+1,"You are welcome, have a great day!",15,1200,-1,-1,-1
+0,I am looking for a restaurant in San Ramon.,27,397,-1,-1,-1
+1,For what time?,2,397,-1,-1,-1
+0,For the 4th of March at 18:45 in the restaurant Yayume.,3,397,-1,-1,-1
+1,Can you confirm the following reservation at Yayume Sushi in San Ramon. Next Monday at 6:45 pm for 2 people.,11,397,-1,-1,-1
+0,"Yes, that's good. Are they pricey?",12,397,-1,-1,-1
+1,I booked your reservation. Their prices are moderate.,13,397,-1,-1,-1
+0,Does the restaurant also serve Szcheuan food?,5,397,-1,-1,-1
+1,They have sushi.,6,397,-1,-1,-1
+0,Thank you.,22,397,-1,-1,-1
+1,Anything else i can help you with?,23,397,-1,-1,-1
+0,"No. That was it, thanks.",24,397,-1,-1,-1
+1,Have a nice day.,15,397,-1,-1,-1
+0,"I am in a nice mood and I would like to listen some nice songs, I need you to search for the good one.",1,835,-1,-1,-1
+1,How about a song from the Album Genesis which name is Kara Kul by Mark Petrie?,4,835,-1,-1,-1
+0,"Yes, I like it.",16,835,-1,-1,-1
+1,"Okay, How can I help you further?",23,835,-1,-1,-1
+0,"I like to hear the song now, can you play for me in my Kitchen device?",27,835,-1,-1,-1
+1,"Yes, give me your confirmation to play Kara Kul on Kitchen speaker.",11,835,-1,-1,-1
+0,"No, I have to go to bedroom now, please play it on the speaker in the bedroom.",19,835,-1,-1,-1
+1,"Okay, please confirm to play Kara Kul on bedroom speaker.",11,835,-1,-1,-1
+0,"Yes, that is correct, continue.",20,835,-1,-1,-1
+1,Song started playing and enjoy your day,21,835,-1,-1,-1
+0,Thanks a lot for your help,22,835,-1,-1,-1
+1,Any more help you need?,23,835,-1,-1,-1
+0,"No, that's all for me.",24,835,-1,-1,-1
+1,Have a great day.,15,835,-1,-1,-1
+0,I'd like to book a spot at a diner. I'd like to have it on the 8th of this month for 1 person.,27,301,-1,-1,-1
+1,"What metropolis do you want me to look in, and when do you want the booking?",2,301,-1,-1,-1
+0,I'd like to have it in Milpitas at 1:30 in the afternoon.,3,301,-1,-1,-1
+1,Is there a diner you prefer?,2,301,-1,-1,-1
+0,The diner is Darda.,3,301,-1,-1,-1
+1,Please verify the following information: A reservation at Darda Seafood in Milpitas at next Friday 1:30 pm for 1 person.,11,301,-1,-1,-1
+0,"Yeah, that's perfect for me. Do they offer alcohol and Spicy Indian food?",12,301,-1,-1,-1
+1,"Your booking is complete. They don't offer liquor, but they do offer Halal food.",13,301,-1,-1,-1
+0,Thank you for your assistance; that's all.,14,301,-1,-1,-1
+1,Have a pleasant afternoon.,15,301,-1,-1,-1
+0,I'd like to make a booking at a restaurant.,1,304,-1,-1,-1
+1,"Sure, where are you eating? Is there a preferred restaurant? And what time shall we book for?",2,304,-1,-1,-1
+0,I want to book a table at Khana Peena in Berkeley at afternoon 1:30.,3,304,-1,-1,-1
+1,"Okay, please confirm that you'd like to make a booking for 2 people today at Khana Peena in Berkeley at 1:30 pm.",11,304,-1,-1,-1
+0,Yeah that's perfect. Where is the restaurant? What type of food do they serve?,12,304,-1,-1,-1
+1,Your reservation is complete. They serve Indian food and you can find them at 1889 Solano Avenue.,13,304,-1,-1,-1
+0,"Thanks a lot, that'll be all.",14,304,-1,-1,-1
+1,"Okay, have a nice day.",15,304,-1,-1,-1
+0,"I'm looking for some cool events around the Phoenix, AZ area.",27,1013,-1,-1,-1
+1,"Music, sports, or any other category?",2,1013,-1,-1,-1
+0,I'm looking for music events. I like pop music.,3,1013,-1,-1,-1
+1,There is an event taking place next Wednesday at 6:30 pm at The Van Buren called Dodie.,4,1013,-1,-1,-1
+0,Can you tell me the address?,5,1013,-1,-1,-1
+1,The address of the venue is 401 West Van Buren Street.,6,1013,-1,-1,-1
+0,Sounds good to me.,16,1013,-1,-1,-1
+1,Would you like to purchase tickets for the event?,17,1013,-1,-1,-1
+0,"Yes, I want to purchase tickets.",29,1013,-1,-1,-1
+1,How many tickets are you purchasing?,2,1013,-1,-1,-1
+0,I would like to buy 4 tickets.,3,1013,-1,-1,-1
+1,"Please confirm: 4 tickets for Dodie, next Wednesday in Phoenix.",11,1013,-1,-1,-1
+0,"Actually, I only want one ticket.",19,1013,-1,-1,-1
+1,Please confirm: 1 ticket for the event in Phoenix.,11,1013,-1,-1,-1
+0,"Yes, that sounds good.",20,1013,-1,-1,-1
+1,Your reservation was successfully made. Enjoy!,21,1013,-1,-1,-1
+0,Thank you. That is all.,14,1013,-1,-1,-1
+1,Have a good day.,15,1013,-1,-1,-1
+0,"I would like to eat at outside, can you find some nice place?",1,74,-1,-1,-1
+1,"Do you like any particular kind of food like Italian, Chinese or any other?",2,74,-1,-1,-1
+0,"Yes, some salad type food with low-cost will be perfect. Also I need live music there.",3,74,-1,-1,-1
+1,"Any preferred City , do I search for?",2,74,-1,-1,-1
+0,If I got any place in San Jose then it will be nice for me.,3,74,-1,-1,-1
+1,"found 1 result, a restaurant in San Jose and its name is Mcdonald's.",9,74,-1,-1,-1
+0,What is the address of that restaurant?,5,74,-1,-1,-1
+1,It is 777 story Road.,6,74,-1,-1,-1
+0,Do they have any liquor supply?,5,74,-1,-1,-1
+1,"No, they do not.",6,74,-1,-1,-1
+0,"That's okay, can you make me a reservation at this restaurant for day after tomorrow.",25,74,-1,-1,-1
+1,at what time?,2,74,-1,-1,-1
+0,11:30 in the morning will be perfect.,3,74,-1,-1,-1
+1,Please confirm to book a table for 2 persons at Mcdonald's in San Jose at 11:30 am on day after tomorrow.,11,74,-1,-1,-1
+0,Make it for one person.,19,74,-1,-1,-1
+1,Please confirm to book the table for 1 person in San Jose.,11,74,-1,-1,-1
+0,"Sorry, please change it to 3 persons and the date will be 2nd of March.",19,74,-1,-1,-1
+1,Please confirm to book the table for 3 persons on tomorrow.,11,74,-1,-1,-1
+0,"Yes, that is correct. continue.",20,74,-1,-1,-1
+1,Your booking was confirmed.,21,74,-1,-1,-1
+0,"Thanks, that's all I want.",14,74,-1,-1,-1
+1,Have a great day.,15,74,-1,-1,-1
+0,I am planning to go out for dinner. Can you find me restaurants nearby?,1,40,-1,-1,-1
+1,Do you have a specific area in mind where you would like to eat.,2,40,-1,-1,-1
+0,I would like to eat in Milpitas and the restaurant should be in the moderate price range.,3,40,-1,-1,-1
+1,Is there a particular cuisine you would like?,2,40,-1,-1,-1
+0,I am looking for restaurants that offer Take-out.,3,40,-1,-1,-1
+1,There are 2 restaurants in Milpitas I have found. The Olive Garden Italian Restaurant meets your criteria.,9,40,-1,-1,-1
+0,What is the other restaurant you mentioned?,7,40,-1,-1,-1
+1,The other restaurant in Milpitas is Red Chillies The Malabar Cuisine.,4,40,-1,-1,-1
+0,Where are they located?,5,40,-1,-1,-1
+1,They are located at 167 South Main Street.,6,40,-1,-1,-1
+0,I like that location. I would like to make a reservation at Red Chillies The Malabar Cuisine.,10,40,-1,-1,-1
+1,At what time would you like the reservation?,2,40,-1,-1,-1
+0,The reservation needs to be at 11 am.,3,40,-1,-1,-1
+1,The reservation is for today at Red Chillies The Malabar Cuisine at 11 am in Milpitas. The reservation is for 2 people. Is this correct?,11,40,-1,-1,-1
+0,The reservation should be for March 14th.,19,40,-1,-1,-1
+1,The reservation is in Milpitas on March 14th. Is this correct?,11,40,-1,-1,-1
+0,Please make the reservation for 18:00.,19,40,-1,-1,-1
+1,The reservation is for March 14th and 6 pm. Is this correct?,11,40,-1,-1,-1
+0,"Yes, that is correct.",20,40,-1,-1,-1
+1,Your reservation has been made.,21,40,-1,-1,-1
+0,Does the restaurant have any live entertainment? Is their contact information available?,5,40,-1,-1,-1
+1,They do not have live entertainment. The restaurant's phone number is 669-213-9385.,6,40,-1,-1,-1
+0,I greatly appreciate your time.,22,40,-1,-1,-1
+1,May I assist you with anything else?,23,40,-1,-1,-1
+0,No. Thank you again.,24,40,-1,-1,-1
+1,Enjoy the rest of your day.,15,40,-1,-1,-1
+0,I would like to find events for Match,27,1292,-1,-1,-1
+1,Is there any city preference ?,2,1292,-1,-1,-1
+0,I like Baseball events in New York.,3,1292,-1,-1,-1
+1,I found 10 events which suits you. The event is Mets Vs Braves at Citi Field.,9,1292,-1,-1,-1
+0,can you search me some other events?,7,1292,-1,-1,-1
+1,The event is Mets Vs Cubs at Citi Field,4,1292,-1,-1,-1
+0,Thats so perfect for me. I like to find dates for the event.,10,1292,-1,-1,-1
+1,"The event is on today, at Citi Field. The event name is Mets Vs Cubs.",4,1292,-1,-1,-1
+0,Thats great. I would like to buy tickets for 3 people for the event,25,1292,-1,-1,-1
+1,Please confirm this : The event is Mets Vs Cubs for 3 tickets on today in New York.,11,1292,-1,-1,-1
+0,No I want it for four tickets.,19,1292,-1,-1,-1
+1,Please confirm this : The event is in New York and the number of tickets is 4,11,1292,-1,-1,-1
+0,Yes thats perfect for me. Where is it located?,12,1292,-1,-1,-1
+1,The venue is at 123-01 Roosevelt Avenue. Your booking is successful,13,1292,-1,-1,-1
+0,Thanks a lot for the help. Thats all for now,14,1292,-1,-1,-1
+1,Have a good day,15,1292,-1,-1,-1
+0,I am feeling hungry so I need to find a place to eat and also for the place to be serving alcohol.,27,197,-1,-1,-1
+1,Do you have a specific city in mind where you would like for the place to be?,2,197,-1,-1,-1
+0,I will be walking around Healdsburg so I want for it to be there.,3,197,-1,-1,-1
+1,Can you tell me the type of food you would like for the place to have?,2,197,-1,-1,-1
+0,I like eating Ramen sometimes so that kind of food would be nice.,3,197,-1,-1,-1
+1,I see that 1 restaurant fits with what you want called The Taste of Tea. The restaurant can be found in Healdsburg.,9,197,-1,-1,-1
+0,Can you tell me the phone number which I can use to contact them?,5,197,-1,-1,-1
+1,If you want to phone them you can through 707-431-1995.,6,197,-1,-1,-1
+0,Can you tell me if they feature live music there? How much do the things cost in general there?,5,197,-1,-1,-1
+1,The price of the products they offer is moderate. Unfortunately I see that they do not have a live music.,6,197,-1,-1,-1
+0,"Alright, that is nice for me.",16,197,-1,-1,-1
+1,Do you want to book a table at this restaurant?,17,197,-1,-1,-1
+0,"Yes, I would like to eat there, so I want to make a reservation for afternoon 1:15.",18,197,-1,-1,-1
+1,Can you please confirm to me that you want to make a reservation for 2 people at The Taste Of Tea in Healdsburg? You want the reservation to be for today at 1:15 pm ?,11,197,-1,-1,-1
+0,That's not what I want. I forgot about a couple that will join us so the reservation should be for four people and on the 8th.,19,197,-1,-1,-1
+1,"Can you confirm again to me that you want the booking of table at the restaurant to be for 4 people, and for next Friday.",11,197,-1,-1,-1
+0,It's wrong. I would like to eat there in evening 7:15.,19,197,-1,-1,-1
+1,"Consider the following updated details and confirm to me that your reservation is for 7:15 pm, and it is for next Friday.",11,197,-1,-1,-1
+0,That suits me well.,20,197,-1,-1,-1
+1,Your booking has been made without errors.,21,197,-1,-1,-1
+0,I appreciate it very much. That would be all.,14,197,-1,-1,-1
+1,Have a good time!,15,197,-1,-1,-1
+0,"Can you find me things to do in Anaheim, CA?",27,1029,-1,-1,-1
+1,Of course. Any preference for what type of event? Maybe music or sports?,2,1029,-1,-1,-1
+0,Any games I can go see?,3,1029,-1,-1,-1
+1,What about Angels vs Astros at Angel Stadium of Anaheim,4,1029,-1,-1,-1
+0,Yeah a baseball game sounds fun. Can you buy me tickets for next Thursday?,25,1029,-1,-1,-1
+1,How many tickets do you need?,2,1029,-1,-1,-1
+0,Make it 4 tickets,3,1029,-1,-1,-1
+1,Please confirm: 4 tickets for Angels vs Astros next Thursday in Anaheim,11,1029,-1,-1,-1
+0,Yes that's right,20,1029,-1,-1,-1
+1,Your tickets have been purchased,21,1029,-1,-1,-1
+0,Thank you,14,1029,-1,-1,-1
+1,Always here to help,15,1029,-1,-1,-1
+0,"Hi, i need a help, I like listening songs, I like the song in album When Was The Last time by Darius Rucker",27,667,-1,-1,-1
+1,"Sure, i will help you, I found 1 song for you, do you like If I Told you by darius Rucker in the album When Was The Last time?",9,667,-1,-1,-1
+0,"Yes, I like that song, Please play it on speaker in kitchen",25,667,-1,-1,-1
+1,Please confirm the following details: play If I Told you on kitchen speaker,11,667,-1,-1,-1
+0,"Yes, What's its genre?",12,667,-1,-1,-1
+1,"It is a country song, Started playing the song in kitchen speaker, Shall i help with you anything else?",13,667,-1,-1,-1
+0,"No, thank you very much for your help, That is all i need.",14,667,-1,-1,-1
+1,"You are welcome, have a great day",15,667,-1,-1,-1
+0,"I would like to know about some events, can you search for me?",1,1234,-1,-1,-1
+1,What type of events do you like to search?,2,1234,-1,-1,-1
+0,may be Games and please search it in San Francisco.,3,1234,-1,-1,-1
+1,"Okay, I found 8 results, one of which is Giants Vs Brewers at Oracle Park.",9,1234,-1,-1,-1
+0,Please search for some other events?,7,1234,-1,-1,-1
+1,How about Giants Vs Cardinals at Oracle Park?,4,1234,-1,-1,-1
+0,That will be okay I think. Can you search what type of event is this and when does it start?,5,1234,-1,-1,-1
+1,This is a Baseball Event and it will start at 6 pm .,6,1234,-1,-1,-1
+0,That is nice. please check the dates for this event.,10,1234,-1,-1,-1
+1,The event Giants Vs Cardinals will be takes place on March 11th at Oracle Park.,4,1234,-1,-1,-1
+0,Get me the start time of this event and the venue?,5,1234,-1,-1,-1
+1,It starts at 7:30 pm and the venue is 24 Willie Mays Plaza.,6,1234,-1,-1,-1
+0,That will be perfect.,16,1234,-1,-1,-1
+1,Shall I book tickets for you?,17,1234,-1,-1,-1
+0,"Yes, book it for 1 person.",18,1234,-1,-1,-1
+1,Please confirm to book 1 ticket for the event Giants Vs Cardinals on March 11th in San Francisco.,11,1234,-1,-1,-1
+0,"Sorry, make it for two persons.",19,1234,-1,-1,-1
+1,Please confirm to book 2 tickets on March 11th.,11,1234,-1,-1,-1
+0,"Yes, confirm the same.",20,1234,-1,-1,-1
+1,Your tickets were booked.,21,1234,-1,-1,-1
+0,Thank you for your help. That's all fine.,14,1234,-1,-1,-1
+1,Have a good day.,15,1234,-1,-1,-1
+0,Can you find me a song?,1,669,-1,-1,-1
+1,What about Change Your Life by Iggy Azalea from the album The New Classic?,4,669,-1,-1,-1
+0,Do you have a song from the album Handwritten?,8,669,-1,-1,-1
+1,"I found 4 songs, what do you think of Aftertaste by Shawn Mendes from the album Handwritten?",9,669,-1,-1,-1
+0,Can you look from the album Cuz I Love You?,8,669,-1,-1,-1
+1,Do you want to hear Tempo by Lizzo it's from the album Cuz I Love You.,4,669,-1,-1,-1
+0,What is the genre?,5,669,-1,-1,-1
+1,The genre of the song is Pop.,6,669,-1,-1,-1
+0,"That is good, can you play it on the speaker in kitchen?",25,669,-1,-1,-1
+1,Confirm: Play Tempo on kitchen speaker.,11,669,-1,-1,-1
+0,"No, in my bedroom instead please.",19,669,-1,-1,-1
+1,Play Tempo song on bedroom speaker.,11,669,-1,-1,-1
+0,That is correct.,20,669,-1,-1,-1
+1,Started playing the song.,21,669,-1,-1,-1
+0,"Thank you, that is all I needed.",14,669,-1,-1,-1
+1,Have a good day.,15,669,-1,-1,-1
+0,Find me songs similar to Tyler childers' songs,27,604,-1,-1,-1
+1,How about Tyler childers white house road from the album purgatory,4,604,-1,-1,-1
+0,That would do,16,604,-1,-1,-1
+1,Do you want to play it now,17,604,-1,-1,-1
+0,"Sure, play it",29,604,-1,-1,-1
+1,Playing white house road on TV,11,604,-1,-1,-1
+0,Yes that is right,20,604,-1,-1,-1
+1,Started playing the song now,21,604,-1,-1,-1
+0,"Thanks, that would be all.",14,604,-1,-1,-1
+1,Have a great day,15,604,-1,-1,-1
+0,I would like to find some dates for events located in DC.,27,440,-1,-1,-1
+1,Are you aware of the event you would like to attend?,2,440,-1,-1,-1
+0,A few of my friends mentioned that Dc United Vs Revolution is supposed to be great.,3,440,-1,-1,-1
+1,Dc United Vs Revolution event will be tomorrow at Audi Field.,4,440,-1,-1,-1
+0,Are there any other events you would like to check?,7,440,-1,-1,-1
+1,Dc United Vs Revolution event is on the day after tomorrow at Audi Field.,4,440,-1,-1,-1
+0,Are there other events on other dates you would like to check?,7,440,-1,-1,-1
+1,The Dc United Vs Revolution even is scheduled for next Tuesday at Audi Field.,4,440,-1,-1,-1
+0,When does the event begin and where is its location?,5,440,-1,-1,-1
+1,It's location is at 100 Potomac Avenue Southwest and it begins at 7:30 pm.,6,440,-1,-1,-1
+0,Sounds great to me!,16,440,-1,-1,-1
+1,Would you like to purchase tickets for the event?,17,440,-1,-1,-1
+0,"Yes, I would like to purchase two tickets.",18,440,-1,-1,-1
+1,The event is Dc United Vs Revolution and you are purchasing 2 tickets. It takes place in Washington D.C. next Tuesday. Can you confirm this information?,11,440,-1,-1,-1
+0,"Yes, that is correct.",20,440,-1,-1,-1
+1,The reservation has been confirmed.,21,440,-1,-1,-1
+0,Thank you for your help.,14,440,-1,-1,-1
+1,I hope you have a good day.,15,440,-1,-1,-1
+0,Can you find me some events?,1,407,-1,-1,-1
+1,What city should I check?,2,407,-1,-1,-1
+0,I am looking in Portland,3,407,-1,-1,-1
+1,What kind of events do you like?,2,407,-1,-1,-1
+0,I like Basta. I am also looking for events in Chicago,3,407,-1,-1,-1
+1,"Ok great, I found 6 events. One is today, Basta is at the Concord Music Hall",9,407,-1,-1,-1
+0,Where is that located?,5,407,-1,-1,-1
+1,It is at 2047 North Milwaukee Avenue,6,407,-1,-1,-1
+0,What is the start time?,5,407,-1,-1,-1
+1,It begins at 6 pm,6,407,-1,-1,-1
+0,"Awesome, that works",16,407,-1,-1,-1
+1,Would you like me to order tickets?,17,407,-1,-1,-1
+0,"Yes please, I need one ticket",18,407,-1,-1,-1
+1,"Just to confirm, you need 1 ticket for Basta today in Chicago?",11,407,-1,-1,-1
+0,"Yes, that is correct",20,407,-1,-1,-1
+1,"Awesome, I made the reservation",21,407,-1,-1,-1
+0,"Great, thanks for your help",22,407,-1,-1,-1
+1,"No problem, anything else?",23,407,-1,-1,-1
+0,That is all,24,407,-1,-1,-1
+1,Have a wonderful day,15,407,-1,-1,-1
+0,I'd like to find a place to eat.,1,139,-1,-1,-1
+1,What kind of food were you looking for and in what city should I look in?,2,139,-1,-1,-1
+0,I'd like to find a place in Sunnyvale for non meat food.,3,139,-1,-1,-1
+1,I found 1 restaurant in Sunnyvale. Merit Vegan Restaurant sounds nice.,9,139,-1,-1,-1
+0,Great. I'd like to make a reservation.,10,139,-1,-1,-1
+1,What time did you want the reservation for?,2,139,-1,-1,-1
+0,I'd like the reservation at one pm.,3,139,-1,-1,-1
+1,Please confirm you're booking a table for 2 at Merit Vegan Restaurant in Sunnyvale at 1 pm today.,11,139,-1,-1,-1
+0,It's actually for 1 person.,19,139,-1,-1,-1
+1,Please confirm you're booking a table at Merit Vegan Restaurant for 1 person.,11,139,-1,-1,-1
+0,"Sure, sounds good. Do they have live music?",12,139,-1,-1,-1
+1,"Sorry, your reservation could not be completed. Is there anything else I could help you with?",26,139,-1,-1,-1
+0,"No, thank you.",24,139,-1,-1,-1
+1,Have a nice day.,15,139,-1,-1,-1
+0,I'm looking for events.,1,1227,-1,-1,-1
+1,In which city? Do you have a preference for event like Music or sports?,2,1227,-1,-1,-1
+0,I'm looking for a concert in San Francisco.,3,1227,-1,-1,-1
+1,I found 10 matches for you. There's Allan Rayman in August Hall.,9,1227,-1,-1,-1
+0,Anything else? I want to find a baseball match.,8,1227,-1,-1,-1
+1,There's Giants vs Brewers at Oracle Park.,4,1227,-1,-1,-1
+0,What's the address?,5,1227,-1,-1,-1
+1,At 24 Willie Mays Plaza.,6,1227,-1,-1,-1
+0,"Find me something else, please.",7,1227,-1,-1,-1
+1,There's Giants vs Cardinals at Oracle Park.,4,1227,-1,-1,-1
+0,That sounds good. Tell me some event dates.,10,1227,-1,-1,-1
+1,I found 2 dates. There's Giants vs Cardinals at Oracle Park on March 11th.,9,1227,-1,-1,-1
+0,What time does it start and what's the address?,5,1227,-1,-1,-1
+1,It's 7:30 pm at 24 Willie Mays Plaza.,6,1227,-1,-1,-1
+0,Any other event dates?,7,1227,-1,-1,-1
+1,There's Giants vs Cardinals at Oracle Park on March 12th.,4,1227,-1,-1,-1
+0,That sounds good.,16,1227,-1,-1,-1
+1,Would you like tickets?,17,1227,-1,-1,-1
+0,"Yes, I would.",29,1227,-1,-1,-1
+1,How many?,2,1227,-1,-1,-1
+0,4 please.,3,1227,-1,-1,-1
+1,Please confirm: 4 tickets to Giants vs Cardinals in San Francisco on March 12th.,11,1227,-1,-1,-1
+0,"No, just one ticket.",19,1227,-1,-1,-1
+1,Please confirm: 1 ticket to Giants vs Cardinals.,11,1227,-1,-1,-1
+0,That works. What's the address and start time?,12,1227,-1,-1,-1
+1,Reservation complete. It starts 6 pm and is at 24 Willie Mays Plaza.,13,1227,-1,-1,-1
+0,"Thanks, that's all I need.",14,1227,-1,-1,-1
+1,Have a nice day.,15,1227,-1,-1,-1
+0,I'm in the mood for some music. Could you please help me find some songs?,1,668,-1,-1,-1
+1,"The search has yielded 10 songs that might interest you. How does Better by Khalid, in the Free Spirit album sound?",9,668,-1,-1,-1
+0,What type of song is it?,5,668,-1,-1,-1
+1,Its genre is Pop.,6,668,-1,-1,-1
+0,Do you have another suggestion?,7,668,-1,-1,-1
+1,Yes. Would you like to listen to the song Neon Gravestones by Twenty One Pilots in the album Trench?,4,668,-1,-1,-1
+0,"No, please suggest something else. Tell you what, I really like Nick Murphy.'s songs, especially from the album Built on Glass.",8,668,-1,-1,-1
+1,Okay. I found Gold by Nick Murphy in the album Built On Glass. Would you like to listen to the song?,4,668,-1,-1,-1
+0,What's its category?,5,668,-1,-1,-1
+1,It falls under the Electronica category.,6,668,-1,-1,-1
+0,Sounds perfect. Please cast it on my kitchen device.,25,668,-1,-1,-1
+1,Okay. Please confirm that you want Gold played on the kitchen speaker.,11,668,-1,-1,-1
+0,"No, sorry, let's make that my bedroom, so that I can listen while I make my bed.",19,668,-1,-1,-1
+1,No problem. Please confirm that you would like Gold cast on the bedroom speaker.,11,668,-1,-1,-1
+0,"Yes, you got that right.",20,668,-1,-1,-1
+1,Now playing the song.,21,668,-1,-1,-1
+0,Great! Thanks.,22,668,-1,-1,-1
+1,Is there anything else I can help you with?,23,668,-1,-1,-1
+0,"No, that will be all. Thank you.",24,668,-1,-1,-1
+1,Have a great day,15,668,-1,-1,-1
+0,Can you start the movie?,1,233,-1,-1,-1
+1,Which movie did you want to watch?,2,233,-1,-1,-1
+0,Let's watch Family.,3,233,-1,-1,-1
+1,"So, we are going to watch Family, minus subtitles, right?",11,233,-1,-1,-1
+0,"Actually, let's watch Body Double with the subtitles.",19,233,-1,-1,-1
+1,"You want to play Body Double with subtitles, right?",11,233,-1,-1,-1
+0,Yes. What is the genre? Who directed it?,12,233,-1,-1,-1
+1,"Beginning movie, this is a Mystery film directed by Brian De Palma.",13,233,-1,-1,-1
+0,"Thank you, that's it.",14,233,-1,-1,-1
+1,Enjoy your day.,15,233,-1,-1,-1
+0,Can you help me find an event on the 14th of this month?,27,996,-1,-1,-1
+1,"What category would you like? For example, do you like music or sports? And which city would you like to search in?",2,996,-1,-1,-1
+0,"I'd like a music event in Santa Rosa, please.",3,996,-1,-1,-1
+1,I've found 1 event for you. The Huichica Music Festival will take place at the Sandman Hotel at 8 pm on March 14th.,9,996,-1,-1,-1
+0,Sounds good to me! Can you help me reserve 3 tickets?,25,996,-1,-1,-1
+1,Please confirm the following details: you are reserving 3 tickets for the Huichica Music Festival in Santa rosa on March 14th.,11,996,-1,-1,-1
+0,"Yes, that is correct, What is the address?",12,996,-1,-1,-1
+1,I have made your reservation. The address for the venue is 3421 Cleveland Avenue.,13,996,-1,-1,-1
+0,Thank you!,22,996,-1,-1,-1
+1,Is there anything else I can help you with?,23,996,-1,-1,-1
+0,"No, thank you so much.",24,996,-1,-1,-1
+1,Have a good day.,15,996,-1,-1,-1
+0,I would like to watch The birds movie.,27,218,-1,-1,-1
+1,Suburban Birds without subtitles?,11,218,-1,-1,-1
+0,Yes please.,20,218,-1,-1,-1
+1,The movie started playing.,21,218,-1,-1,-1
+0,"Thanks, that is all I need.",14,218,-1,-1,-1
+1,Have a good day.,15,218,-1,-1,-1
+0,I like to go to events will you find me some interesting events and when it is going to happen?,1,431,-1,-1,-1
+1,Will you tell me which event you are interested in?,2,431,-1,-1,-1
+0,I like Phillies Vs Padres which is a good one,3,431,-1,-1,-1
+1,In which city i should look for that event ?,2,431,-1,-1,-1
+0,In Philadelphia,3,431,-1,-1,-1
+1,I found that event is going to happen on 4 days. It is going to start on March 9th. Name of the event is Phillies Vs Padres and it is at Citizens Bank Park.,9,431,-1,-1,-1
+0,Ok that sounds good,16,431,-1,-1,-1
+1,Whether i need to buy ticket for that event?,17,431,-1,-1,-1
+0,"Yes please , i need one ticket for that event.",18,431,-1,-1,-1
+1,Please check and review the details : The event is Phillies Vs Padres. Number of ticket is 1 and the event took place on March 9th in Philadelphia.,11,431,-1,-1,-1
+0,"Ok, that's what i needed.",20,431,-1,-1,-1
+1,Reservation is confirmed,21,431,-1,-1,-1
+0,Good work and thanks for your help.,14,431,-1,-1,-1
+1,Take care have a good day,15,431,-1,-1,-1
+0,I'm in the mood to listen to some music right now. Can you find me something good to listen to?,1,782,-1,-1,-1
+1,"Sure, I found 10 songs that you might like. How about listening to Roundtable Rival by Lindsey Stirling from her album Shatter Me?",9,782,-1,-1,-1
+0,"Yeah, that sounds great.",16,782,-1,-1,-1
+1,Do you want to hear the song now?,17,782,-1,-1,-1
+0,"Yeah, please play it on the kitchen speaker.",18,782,-1,-1,-1
+1,"Okay, I'm going to play Roundtable Rival on the kitchen speaker. Is that okay?",11,782,-1,-1,-1
+0,"No, play the song on my bedroom speaker.",19,782,-1,-1,-1
+1,"Alright, Roundtable Rival will play shortly on the bedroom speaker. Is that right?",11,782,-1,-1,-1
+0,"Yup, that's right.",20,782,-1,-1,-1
+1,"Okay, the songs starting to play now. Enjoy your music!",21,782,-1,-1,-1
+0,"Great, thanks!",22,782,-1,-1,-1
+1,Is there anything else I can do for you?,23,782,-1,-1,-1
+0,"No thanks, that's all I needed.",24,782,-1,-1,-1
+1,Have a nice day!,15,782,-1,-1,-1
+0,I would like to find an event.,1,1278,-1,-1,-1
+1,Which city and what type of event Sports or Music?,2,1278,-1,-1,-1
+0,"I'm looking for a Match in Seattle, WA.",3,1278,-1,-1,-1
+1,"There is 10 events, One is Huskies Vs Cougars at Husky Stadium.",9,1278,-1,-1,-1
+0,Can you find something for the 1st of this month in PHiladelphia.,8,1278,-1,-1,-1
+1,The Owls Vs Knights is at Lincoln Financial Field.,4,1278,-1,-1,-1
+0,Can you find another event?,7,1278,-1,-1,-1
+1,The Phillies Vs Cubs at Citizens Bank Park.,4,1278,-1,-1,-1
+0,Where is the venue located?,5,1278,-1,-1,-1
+1,At 1 Citizens Bank Way.,6,1278,-1,-1,-1
+0,What type of event is this and at what time?,5,1278,-1,-1,-1
+1,It's a Baseball game at 6 pm.,6,1278,-1,-1,-1
+0,That is good find a date for the event.,10,1278,-1,-1,-1
+1,There is 1 event today The Phillies Vs Cubs at Citizens Bank Park.,9,1278,-1,-1,-1
+0,"That is good, I would like to buys tickets.",10,1278,-1,-1,-1
+1,How many tickets do you want?,2,1278,-1,-1,-1
+0,I would like three tickets.,3,1278,-1,-1,-1
+1,3 tickets for today: The Phillies Vs Cubs at Citizens Bank Park in Philadelphia.,11,1278,-1,-1,-1
+0,"Yes, that sounds good.",20,1278,-1,-1,-1
+1,Your tickets are purchased.,21,1278,-1,-1,-1
+0,What time is the event at and the location?,5,1278,-1,-1,-1
+1,1 Citizens Bank Way at 6 pm.,6,1278,-1,-1,-1
+0,Thank you for your assistance.,22,1278,-1,-1,-1
+1,Can I help further?,23,1278,-1,-1,-1
+0,"No, thank you for your time.",24,1278,-1,-1,-1
+1,Have a good day.,15,1278,-1,-1,-1
+0,"Hello, could you recommend me a nice song to listen to? Thanks!",1,891,-1,-1,-1
+1,Would you like to listen to Must Be The Whiskey by Cody Jinks in the albume Lifers?,4,891,-1,-1,-1
+0,May I know the genre of the song?,5,891,-1,-1,-1
+1,This is a Country song.,6,891,-1,-1,-1
+0,"Do you have alternatives, I would prefer ones from Sugarland.",8,891,-1,-1,-1
+1,"I managed to find 1 song for you, which is Babe by Sugarland for the labum Bigger.",9,891,-1,-1,-1
+0,"Yes, that's the one I was looking for!",16,891,-1,-1,-1
+1,Would you like me to play this song for you?,17,891,-1,-1,-1
+0,Could you play it on the Kitchen speaker for me please?,18,891,-1,-1,-1
+1,"Sure, please confirm your action to play Babe on the Kitchen speaker.",11,891,-1,-1,-1
+0,"Sorry, I've changed my mind. Please play it on the bedroom device instead.",19,891,-1,-1,-1
+1,No problem. Please confirm your action to play Babe on the Bedroom speaker.,11,891,-1,-1,-1
+0,"Sure, that sounds great!",20,891,-1,-1,-1
+1,Enjoy listening to your music!,21,891,-1,-1,-1
+0,Thank you very much.,22,891,-1,-1,-1
+1,Do you require further help?,23,891,-1,-1,-1
+0,"No, that's all the help I need.",24,891,-1,-1,-1
+1,Thank you and have a great day ahead!,15,891,-1,-1,-1
+0,I want to find a restaurant.,1,156,-1,-1,-1
+1,"What type of food would like? You can say Italian, Chinese, BBQ, o something else?",2,156,-1,-1,-1
+0,Asian Fusion sounds nice.,3,156,-1,-1,-1
+1,What city are you located?,2,156,-1,-1,-1
+0,Santa Clara,3,156,-1,-1,-1
+1,I have 7 options for you. Beijing Restaurant in Santa Clara is nice.,9,156,-1,-1,-1
+0,That sounds good. I want to reserve a table.,10,156,-1,-1,-1
+1,What time would you like for your reservation.,2,156,-1,-1,-1
+0,at 18:45 for 2 people/,3,156,-1,-1,-1
+1,Making a 6:45 pm dinner reservation for 2 people at Beijing Restaurant today in Santa Clara. Is that correct?,11,156,-1,-1,-1
+0,Yes it great.,20,156,-1,-1,-1
+1,Your reservation is successful.,21,156,-1,-1,-1
+0,Where is it located?,5,156,-1,-1,-1
+1,It is located at 1460 Halford Avenue.,6,156,-1,-1,-1
+0,Do they have live music and serve Alcoholic drinks?,5,156,-1,-1,-1
+1,Sorry they do not.,6,156,-1,-1,-1
+0,Thanks that will be all.,14,156,-1,-1,-1
+1,Have a great day!,15,156,-1,-1,-1
+0,I would like to book a reservation for a place to eat.,1,329,-1,-1,-1
+1,"Please provide location and time, and let me know if you have a specific restaurant in mind.",2,329,-1,-1,-1
+0,"Cetrella restaurant in Half Moon Bay. Book it for 1 o""clock in the afternoon.",3,329,-1,-1,-1
+1,Please confirm that you are requesting a reservation for a table for 2 at Cetrella in Half Moon Bay at 1 pm today.,11,329,-1,-1,-1
+0,"Actually, scratch that. Make it Celia's and at 5:30 pm.",19,329,-1,-1,-1
+1,Please confirm that you are requesting a reservation for Celia's at 5:30 pm.,11,329,-1,-1,-1
+0,That is correct. Could you give me an idea of their price range?,12,329,-1,-1,-1
+1,"I am sorry, but I was unable to book the reservation. Is there anything else I can help you with?",26,329,-1,-1,-1
+0,No. Thanks anyway.,24,329,-1,-1,-1
+1,Enjoy your day.,15,329,-1,-1,-1
+0,I have a meeting and we plan to get food together. Can you help me to find a place to eat?,1,161,-1,-1,-1
+1,What type or restaurant do you like? Do you prefer classic American or something like a Mexican type? Do you want to eat here or in another city?,2,161,-1,-1,-1
+0,"We will eat in Alameda, and I am looking forward to eat some tacos.",3,161,-1,-1,-1
+1,"Okay, so I know 2 very good restaurants in Alameda, one of them is names Acapulco.",9,161,-1,-1,-1
+0,"Perfect, so I want to make a reservation, then.",10,161,-1,-1,-1
+1,At what time do you want to eat?,2,161,-1,-1,-1
+0,We will go at five pm.,3,161,-1,-1,-1
+1,"Okay perfect, so confirm me that you 2 will be at the restaurant Acapulco in Alameda today at 5 pm, please.",11,161,-1,-1,-1
+0,"Yes, that's okay.",20,161,-1,-1,-1
+1,"Okay, then your reservation is made.",21,161,-1,-1,-1
+0,Thank you very much.,22,161,-1,-1,-1
+1,Do you need anything else?,23,161,-1,-1,-1
+0,"No, I'm good. Thanks.",24,161,-1,-1,-1
+1,Have a nice day. Bye.,15,161,-1,-1,-1
+0,I would like to reserve a table at a restaurant.,1,391,-1,-1,-1
+1,"Which city are you located in, and do you have a restaurant in mind?",2,391,-1,-1,-1
+0,"The name of the restaurant is Marche Aux Fleurs. The location is in Ross, and the date is on the 10th.",3,391,-1,-1,-1
+1,What time would you like me to make the reservation?,2,391,-1,-1,-1
+0,I would like it to be a eleven am.,3,391,-1,-1,-1
+1,Please confirm the following information: I am booking a table for 2 at Marche Aux Fleurs in Ross. It is on March 10th at 11 am.,11,391,-1,-1,-1
+0,Yup sounds great to me.,20,391,-1,-1,-1
+1,The reservation has been booked successfully.,21,391,-1,-1,-1
+0,Thanks a ton!,22,391,-1,-1,-1
+1,Anything else I can assist you with?,23,391,-1,-1,-1
+0,"Nope, that's it, thanks!",24,391,-1,-1,-1
+1,Have a good one.,15,391,-1,-1,-1
+0,Can you help me find an event?,1,1019,-1,-1,-1
+1,Sure. What city? Any particular category of event?,2,1019,-1,-1,-1
+0,I'm looking for events in LAX. How about some sports?,3,1019,-1,-1,-1
+1,I found 10 events for you. How about Dodgers vs Cubs at Dodger Stadium. It's on March 12th at 8:30 pm.,9,1019,-1,-1,-1
+0,Perfect.,16,1019,-1,-1,-1
+1,Would you like to buy tickets?,17,1019,-1,-1,-1
+0,"Yes, 4 tickets please.",18,1019,-1,-1,-1
+1,Please confirm: 4 tickets for Dodgers vs Cubs on March 12th in Los Angeles.,11,1019,-1,-1,-1
+0,"No, make it three tickets.",19,1019,-1,-1,-1
+1,Please confirm: 3 tickets for the event in Los Angeles.,11,1019,-1,-1,-1
+0,Yes that's right. What's the address.,12,1019,-1,-1,-1
+1,Your tickets are booked. Hope you have a great time! It's at 1000 Vin Scully Ave.,13,1019,-1,-1,-1
+0,Thanks so much.,22,1019,-1,-1,-1
+1,Is there anything else I can help with?,23,1019,-1,-1,-1
+0,Nope that's all.,24,1019,-1,-1,-1
+1,Take care.,15,1019,-1,-1,-1
+0,Help me find some events I could go to,1,1282,-1,-1,-1
+1,Where do you want to look?,2,1282,-1,-1,-1
+0,Look for events in the Toronto area,3,1282,-1,-1,-1
+1,"Do you prefer music, sports, or some other kind of event?",2,1282,-1,-1,-1
+0,I want to attend a concert.,3,1282,-1,-1,-1
+1,"I found 1 event at Woodbine Park, it's a Mac Demarco concert",9,1282,-1,-1,-1
+0,Where is the event going to be? And at what time?,5,1282,-1,-1,-1
+1,It's at 1695 QUeen Street East and will start at 5:30 pm,6,1282,-1,-1,-1
+0,"That sounds great, help me find more dates for this",10,1282,-1,-1,-1
+1,"I found 3 more days, there's one next Monday for Mac Demarco also at Woodbine Park",9,1282,-1,-1,-1
+0,"That sounds great, book me some tickets",10,1282,-1,-1,-1
+1,How many do you need?,2,1282,-1,-1,-1
+0,I only need one,3,1282,-1,-1,-1
+1,So 1 tickert to Mac Demarco next Monday in Toronto,11,1282,-1,-1,-1
+0,Yes that works for me,20,1282,-1,-1,-1
+1,Ok your reservation is booked,21,1282,-1,-1,-1
+0,"Great, that's all thank you so much.",14,1282,-1,-1,-1
+1,Enjoy the concert!,15,1282,-1,-1,-1
+0,"Hi, I am going out with my friend soon. I would like to make a reservation at a restaurant.",1,396,-1,-1,-1
+1,What city would you like to make a reservation?,2,396,-1,-1,-1
+0,I would like a reservation for March 11th in San Rafael at 18:00.,3,396,-1,-1,-1
+1,Do you have a restaurant in mind?,2,396,-1,-1,-1
+0,I would like to go to Bj's.,3,396,-1,-1,-1
+1,I can book the restaurant now. Can you confirm a few things? I am booking a table at Bj's Restaurant & Brewhouse in San Rafael for 6 pm. The reservation is for 2 on March 11th.,11,396,-1,-1,-1
+0,"Actually, can you make the reservation for twelve in the afternoon.",19,396,-1,-1,-1
+1,Can you confirm that the reservation will be from 12 pm for 2 people?,11,396,-1,-1,-1
+0,Yes that works. What is the address?,12,396,-1,-1,-1
+1,Your reservation has been made. The address is 5800 Northgate Mall Suite 159.,13,396,-1,-1,-1
+0,What is the price range? What is the phone number?,5,396,-1,-1,-1
+1,The price range is moderate. The phone number is 415-755-6250.,6,396,-1,-1,-1
+0,Thank you!,22,396,-1,-1,-1
+1,You're welcome! Do you need help with anything else?,23,396,-1,-1,-1
+0,No. Thank you !,24,396,-1,-1,-1
+1,Have a great day!,15,396,-1,-1,-1
+0,I'm looking for a Filipino place to eat.,27,6,-1,-1,-1
+1,Which City are you looking at?,2,6,-1,-1,-1
+0,I want to eat in San Bruno,3,6,-1,-1,-1
+1,"I have 3 restaurants, Cabalen is a nice one in San Bruno.",9,6,-1,-1,-1
+0,Any other suggestions?,7,6,-1,-1,-1
+1,What about Isla Restaurant in San Bruno?,4,6,-1,-1,-1
+0,How cheap is it and how much does it cost?,5,6,-1,-1,-1
+1,It is moderate pricing and they are at 448 San Mateo Avenue,6,6,-1,-1,-1
+0,Please can you make the reservation,10,6,-1,-1,-1
+1,What time for?,2,6,-1,-1,-1
+0,On the 12th at six pm,3,6,-1,-1,-1
+1,Please confirm: Booking a table for 2 at Isla Restaurant in San Bruno. It is on March 12th at 6 pm.,11,6,-1,-1,-1
+0,That's good. Do they serve liquor and what is there number?,12,6,-1,-1,-1
+1,Reservation made.The number is 650-588-6078 and they do serve alcohol.,13,6,-1,-1,-1
+0,Thanks a lot,14,6,-1,-1,-1
+1,Have a great day.,15,6,-1,-1,-1
+0,Can you find any songs for me please?,1,858,-1,-1,-1
+1,I found I Like It by Enrique Iglesias from his album Euphoria.,4,858,-1,-1,-1
+0,"Can you keep looking? I enjoy Cody Jinks' songs, and I really like country songs.",8,858,-1,-1,-1
+1,I found 2 possible tracks for you. How about Cast No Stones by Cody Jinks from his Adobe Sessions album?,9,858,-1,-1,-1
+0,"That sounds great, please play it on the speaker in kitchen.",25,858,-1,-1,-1
+1,Confirm: playing Cast No Stones on the kitchen speaker.,11,858,-1,-1,-1
+0,"I changed my mind, please play it on bedroom speaker.",19,858,-1,-1,-1
+1,Confirming that you would like to play Cast No Stones on bedroom speaker.,11,858,-1,-1,-1
+0,"Yep, that's perfect.",20,858,-1,-1,-1
+1,The song will start playing.,21,858,-1,-1,-1
+0,"Thanks, that's all the help I need.",14,858,-1,-1,-1
+1,"No problem, have a good one.",15,858,-1,-1,-1
+0,find me a song in the album beauty marks,27,690,-1,-1,-1
+1,i found 1 song thinkin bout you by ciara in the album beauty marks,9,690,-1,-1,-1
+0,what genre,5,690,-1,-1,-1
+1,pop,6,690,-1,-1,-1
+0,play it on the speaker in kitchen,25,690,-1,-1,-1
+1,should i play thinkin bout you on kitchen speaker,11,690,-1,-1,-1
+0,no my bedroom speaker,19,690,-1,-1,-1
+1,should i play thinkin bout you on bedroom speaker,11,690,-1,-1,-1
+0,yes,20,690,-1,-1,-1
+1,now playing,21,690,-1,-1,-1
+0,okay,22,690,-1,-1,-1
+1,what else do you need ?,23,690,-1,-1,-1
+0,nothing,24,690,-1,-1,-1
+1,alright,15,690,-1,-1,-1
+0,Can you help? I am trying to locate some songs.,1,584,-1,-1,-1
+1,"Yes, be happy to. I have 10 songs to choose from. I recommend Take Me Away by Scotty Sire from the Ruin Your Party album.",9,584,-1,-1,-1
+0,That one sounds wonderful,16,584,-1,-1,-1
+1,Shall I play it now for you?,17,584,-1,-1,-1
+0,"Yes, I'd like to hear that one",29,584,-1,-1,-1
+1,To confirm: you'd like to hear Take Me Away on the TV?,11,584,-1,-1,-1
+0,I'd rather hear it on my kitchen please,19,584,-1,-1,-1
+1,To confirm: You wish to hear Take Me Away on your kitchen speaker. Is this correct?,11,584,-1,-1,-1
+0,"Yes it is, thank you. What's the genre of that song?",12,584,-1,-1,-1
+1,It is a Pop song. Your selection has started.,13,584,-1,-1,-1
+0,Thank you for your help.,22,584,-1,-1,-1
+1,Is there anything else I can do?,23,584,-1,-1,-1
+0,No that will be all for now.,24,584,-1,-1,-1
+1,Have a great day.,15,584,-1,-1,-1
+0,Can you find me songs from the album Unapologetic?,27,853,-1,-1,-1
+1,How about Pour it Up by Rihanna in Unapologetic?,4,853,-1,-1,-1
+0,What kind of music?,5,853,-1,-1,-1
+1,The genre is Pop.,6,853,-1,-1,-1
+0,I like pop songs.,16,853,-1,-1,-1
+1,Is there anything else you need?,23,853,-1,-1,-1
+0,Play the song please.,1,853,-1,-1,-1
+1,"Please confirm on TV, the song Pour it Up.",11,853,-1,-1,-1
+0,I confirm and please play.,20,853,-1,-1,-1
+1,The song is starting.,21,853,-1,-1,-1
+0,Thank you for your help.,22,853,-1,-1,-1
+1,Is there anything else?,23,853,-1,-1,-1
+0,That is all today.,24,853,-1,-1,-1
+1,Have a great day.,15,853,-1,-1,-1
+0,Can you search for some events around me?,1,441,-1,-1,-1
+1,In which city? Are you searching any specific kind of event?,2,441,-1,-1,-1
+0,"In Seattle, WA. Huskies Vs Warriors would be nice to watch.",3,441,-1,-1,-1
+1,"I found this event on 4 days. There's one the day after tomorrow, Huskies Vs Warriors at the Husky Stadium.",9,441,-1,-1,-1
+0,What about the other dates?,7,441,-1,-1,-1
+1,Huskies vs Warriors at Husky Stadium will be available next Monday too.,4,441,-1,-1,-1
+0,"Any other dates? Search in Phoenix, AZ. I heard that Tash Sultana is just amazing.",8,441,-1,-1,-1
+1,I found it on 4 days. There's one today. Tash Sultana at The Van Buren.,9,441,-1,-1,-1
+0,Sounds great.,16,441,-1,-1,-1
+1,Would you like to buy the tickets?,17,441,-1,-1,-1
+0,"Yes, I very much would.",29,441,-1,-1,-1
+1,How many tickets?,2,441,-1,-1,-1
+0,4 tickets please.,3,441,-1,-1,-1
+1,Please confirm: 4 tickets to Tash Sultana today in Phoenix.,11,441,-1,-1,-1
+0,"Yes, that's it.",20,441,-1,-1,-1
+1,You reservation was successful.,21,441,-1,-1,-1
+0,"Thanks a lot, that's all.",14,441,-1,-1,-1
+1,Have an amazing day.,15,441,-1,-1,-1
+0,"I want to eat somewhere in San Mateo, can you give me a recommendation?",27,195,-1,-1,-1
+1,What types of food are you interesting in eating?,2,195,-1,-1,-1
+0,Anywhere that serves fish would be perfect.,3,195,-1,-1,-1
+1,"In San Mateo, I can recommend you he Andes Cafe San Mateo as a place to eat fish.",4,195,-1,-1,-1
+0,"Can you recommend me another restaurant, that is preferably more afforadable?",8,195,-1,-1,-1
+1,"How about Fuji Sukiyaki, also located in San Mateo?",4,195,-1,-1,-1
+0,"That sounds great, can you make me a reservation for the 7th?",25,195,-1,-1,-1
+1,At what time should I make the reservation for?,2,195,-1,-1,-1
+0,Set the reservation at 12:45 pm.,3,195,-1,-1,-1
+1,"You want to make a reservation for 2 at 12:45 pm for next Thursday at the Fuji Sukiyaki restaurant in San Mateo, was that all correct?",11,195,-1,-1,-1
+0,"That's all correct, however can you tell me their address and contact number?",12,195,-1,-1,-1
+1,"Their phone number is 650-348-7810, they are located at 428 East 3rd Avenue, and your reservation was successfully made.",13,195,-1,-1,-1
+0,"That is all, thank you very much.",14,195,-1,-1,-1
+1,"No problem, have a good day.",15,195,-1,-1,-1
+0,I'm looking for some songs.,1,815,-1,-1,-1
+1,I found 10 songs you may like. How about Lost and Lonely by Aaron Lewis from the album Sinner?,9,815,-1,-1,-1
+0,Anything else? Any singer is fine.,8,815,-1,-1,-1
+1,I found 10 songs. How about Look What God Gave Her by Thomas Rhett from the album Center Point Road?,9,815,-1,-1,-1
+0,What genre is it?,5,815,-1,-1,-1
+1,It's a Country song.,6,815,-1,-1,-1
+0,"Yeah, that's good.",16,815,-1,-1,-1
+1,Do you want to play it now?,17,815,-1,-1,-1
+0,Yeah.,29,815,-1,-1,-1
+1,Do you want me to play Look What God Gave Her on the TV?,11,815,-1,-1,-1
+0,"Yes, that's right.",20,815,-1,-1,-1
+1,"Okay, I'm playing it now.",21,815,-1,-1,-1
+0,Thanks.,22,815,-1,-1,-1
+1,Anything else I can do for you?,23,815,-1,-1,-1
+0,"No, thank you.",24,815,-1,-1,-1
+1,Have a nice day.,15,815,-1,-1,-1
+0,I feel like listening to some music. Could you find me something by Ben Platt?,27,711,-1,-1,-1
+1,"How does the Ben Platt song Bad Habit, from his album Sing To Me Instead, sound?",4,711,-1,-1,-1
+0,"Are any other songs available? The singer doesn't matter, but I'd like for the genre to be Electropop.",8,711,-1,-1,-1
+1,"How about the Linkin Park song Battle Symphony, from their album One More Light?",4,711,-1,-1,-1
+0,Sounds great to me. I'd like to play that song on the kitchen speaker.,25,711,-1,-1,-1
+1,Can you confirm the following for me? Play Battle Symphony on the kitchen speaker.,11,711,-1,-1,-1
+0,No. You should instead play it on my bedroom speaker.,19,711,-1,-1,-1
+1,Can you make sure these details are correct? Play Battle Symphony on your bedroom speaker.,11,711,-1,-1,-1
+0,That's correct!,20,711,-1,-1,-1
+1,I will start playing the song right now.,21,711,-1,-1,-1
+0,Many thanks. That's all I need from you.,14,711,-1,-1,-1
+1,Enjoy your day!,15,711,-1,-1,-1
+0,I want to find events.,1,1095,-1,-1,-1
+1,What kind of events interest you and in what city?,2,1095,-1,-1,-1
+0,I am look for a match in District of Columbia.,3,1095,-1,-1,-1
+1,I found 10 events that you would like. One is DC United vs Revolution at Audi Field.,9,1095,-1,-1,-1
+0,"That sounds good, I'd like to get tickets.",10,1095,-1,-1,-1
+1,How many tickets would you like and for which date?,2,1095,-1,-1,-1
+0,I want two tickets for the 14th of March.,3,1095,-1,-1,-1
+1,Please confirm: 2 tickets for DC United vs Revolution on March 14th in Washington D.C.,11,1095,-1,-1,-1
+0,"Yep, that's perfect.",20,1095,-1,-1,-1
+1,The reservation has been placed.,21,1095,-1,-1,-1
+0,What time does the match start?,5,1095,-1,-1,-1
+1,It will begin at 5:30 pm.,6,1095,-1,-1,-1
+0,Thanks for your help.,22,1095,-1,-1,-1
+1,Can I assist you with anything else?,23,1095,-1,-1,-1
+0,"Nope, thank you.",24,1095,-1,-1,-1
+1,Have a wonderful day.,15,1095,-1,-1,-1
+0,I'm looking for somewhere to eat.,1,113,-1,-1,-1
+1,"Which city should I search in? What kind of food are you looking for? You can say Italian, Mexican, or anything else.",2,113,-1,-1,-1
+0,Somewhere to eat in San Bruno. Some Latin American food is what I'm looking for.,3,113,-1,-1,-1
+1,Celia's Mexican Restaurant is a nice restaurant located in San Bruno.,4,113,-1,-1,-1
+0,Any other suggestions? Specifically places that serve alcohol.,8,113,-1,-1,-1
+1,I found 1 restaurants. Chili's Grill & Bar is a nice restaurant located in San Bruno.,9,113,-1,-1,-1
+0,That's good.,16,113,-1,-1,-1
+1,Would you like to reserve a table here?,17,113,-1,-1,-1
+0,Yes I would. Next Friday for six people.,18,113,-1,-1,-1
+1,What time is the reservation for?,2,113,-1,-1,-1
+0,I want it on the 9th at 5:30 in the evening.,3,113,-1,-1,-1
+1,Please confirm the following details: Booking a table at Chili's Grill & Bar. The city is San Bruno. The reservation is at 5:30 pm. The date is March 9th. The reservation is for 6 people.,11,113,-1,-1,-1
+0,Change the time to 6:30 in the evening.,19,113,-1,-1,-1
+1,Please confirm the following details: The city is San Bruno. The reservation is at 6:30 pm.,11,113,-1,-1,-1
+0,Yes that's right. Is the restaurant low priced with live music?,12,113,-1,-1,-1
+1,"Sorry, I was unable to make a reservation. Can I help you with anything else?",26,113,-1,-1,-1
+0,I want to make a reservation for 2 people.,27,113,-1,-1,-1
+1,Please confirm the following details: Booking a table at Chili's Grill & Bar. The city is San Bruno. The reservation is at 6:30 pm. The date is March 9th. The reservation is for 2 people.,11,113,-1,-1,-1
+0,Yes that's good.,20,113,-1,-1,-1
+1,Your reservation is successful.,21,113,-1,-1,-1
+0,"Thank you, that's all I need.",14,113,-1,-1,-1
+1,Have a good day.,15,113,-1,-1,-1
+0,I want to look for events.,1,1057,-1,-1,-1
+1,"Do you have a preference on the city? Do you have a preference for events? You can say Music, Sports, or anything else.",2,1057,-1,-1,-1
+0,I am looking for Games in New York.,3,1057,-1,-1,-1
+1,The event is Mets Vs Braves at Citi Field.,4,1057,-1,-1,-1
+0,Can you find me other events. Any category is fine.,8,1057,-1,-1,-1
+1,I found 9 events that may suit you. The event is Mets Vs Cubs at Citi Field.,9,1057,-1,-1,-1
+0,Where is the venue?,5,1057,-1,-1,-1
+1,The venue is located at 123-01 Roosevelt Avenue.,6,1057,-1,-1,-1
+0,When does it start?,5,1057,-1,-1,-1
+1,It starts at 6 pm.,6,1057,-1,-1,-1
+0,Can you find me other events please?,7,1057,-1,-1,-1
+1,The event is Mets Vs Diamondbacks at Citi Field.,4,1057,-1,-1,-1
+0,That sounds good.,16,1057,-1,-1,-1
+1,Can I be of further help?,23,1057,-1,-1,-1
+0,I want to buy ticket to an event on March 10th.,27,1057,-1,-1,-1
+1,How many tickets?,2,1057,-1,-1,-1
+0,I want one ticket.,3,1057,-1,-1,-1
+1,Please confirm the following: the event is Mets Vs Diamondbacks on March 10th in New York. You want 1 ticket.,11,1057,-1,-1,-1
+0,Yes that sounds good.,20,1057,-1,-1,-1
+1,The reservation has been made.,21,1057,-1,-1,-1
+0,"Thank you, that is all I needed.",14,1057,-1,-1,-1
+1,Have a nice day.,15,1057,-1,-1,-1
+0,It is a time for enjoy some events. Can you help me find some events?,1,470,-1,-1,-1
+1,"Surely, do yo look for any particular city?",2,470,-1,-1,-1
+0,"Seattle, WA is my choice.",3,470,-1,-1,-1
+1,What type of events are you looking for?,2,470,-1,-1,-1
+0,Seahawks vs cardinals has got a good rating.,3,470,-1,-1,-1
+1,"Yes, Seahawks Vs Cardinals is on next monday at CenturyLink Field",4,470,-1,-1,-1
+0,"How about Mariners Vs Rangers, any date?",8,470,-1,-1,-1
+1,Mariners vs Rangers is on today at T-Mobile Park.,4,470,-1,-1,-1
+0,Starting time please.,5,470,-1,-1,-1
+1,Begins at 7:30 pm,6,470,-1,-1,-1
+0,Where is the venue?,5,470,-1,-1,-1
+1,It is at 1250 1st Avenue South,6,470,-1,-1,-1
+0,"Good, thats fine for me.",16,470,-1,-1,-1
+1,Do you like to ensure ticket for that?,17,470,-1,-1,-1
+0,"Surely, reserve 1 ticket.",18,470,-1,-1,-1
+1,"Please verify the details, 1 ticket for mariners vs Rangers in Seattle, on today.",11,470,-1,-1,-1
+0,"Sorry, I need two tickets.",19,470,-1,-1,-1
+1,"Ok, 2 tickets for the event on today, correct?",11,470,-1,-1,-1
+0,"Yeah, thats it.",20,470,-1,-1,-1
+1,"Congrats, it is done.",21,470,-1,-1,-1
+0,Thank you very much.,14,470,-1,-1,-1
+1,Have a wonderful day,15,470,-1,-1,-1
+0,"I would like to find somewhere to eat, preferably Asian food.",27,119,-1,-1,-1
+1,In which city should I search?,2,119,-1,-1,-1
+0,"Please search in San Mateo, price is not an issue.",3,119,-1,-1,-1
+1,I have found a restaurant in San Mateo called Izakaya Ginji.,4,119,-1,-1,-1
+0,Do they have a liquor license and also do they have any live music?,5,119,-1,-1,-1
+1,"They do serve alcohol, they do not have live music",6,119,-1,-1,-1
+0,That sounds perfect for me.,16,119,-1,-1,-1
+1,Would you like me to make a reservation for you?,17,119,-1,-1,-1
+0,I would like a reservation made for 1:30 pm. for 1 person please.,18,119,-1,-1,-1
+1,"Can you confirm the following details: Reservation at Izakaya Ginji in San Mateo, for 1:30 pm today for 1 person.",11,119,-1,-1,-1
+0,"Yes that is correct, do you have their phone number?",12,119,-1,-1,-1
+1,I have made your reservation their phone number is 925-408-4891,13,119,-1,-1,-1
+0,Thank you.,22,119,-1,-1,-1
+1,Is their anything else I can help you with today?,23,119,-1,-1,-1
+0,"No, that is all, thank you.",24,119,-1,-1,-1
+1,Have a nice day.,15,119,-1,-1,-1
+0,What's a good place to grab a bite?,1,95,-1,-1,-1
+1,What type of food. Italian? Indian?,2,95,-1,-1,-1
+0,I'm in the mood for a burger.,3,95,-1,-1,-1
+1,Where should I look?,2,95,-1,-1,-1
+0,Find a place in Vallejo with live music.,3,95,-1,-1,-1
+1,How about Mcdonald's in Vallejo?,4,95,-1,-1,-1
+0,Yes. Please book a table.,10,95,-1,-1,-1
+1,For what time?,2,95,-1,-1,-1
+0,1 in the afternoon.,3,95,-1,-1,-1
+1,Mcdonald's in Vallejo for 2 at 1 pm today. Correct?,11,95,-1,-1,-1
+0,"Yes, that is correct.",20,95,-1,-1,-1
+1,Done. I booked you a table.,21,95,-1,-1,-1
+0,Thanks. I'm done for now.,14,95,-1,-1,-1
+1,You are welcome.,15,95,-1,-1,-1
+0,I'm trying to find some Pop songs.,27,670,-1,-1,-1
+1,I have 10 songs you might like. One of them is Adorn by Miguel from the Kaleidoscope Dream album.,9,670,-1,-1,-1
+0,Can you tell me some others?,7,670,-1,-1,-1
+1,"From the album A Boy From Tandale by Diamond Platnumz, I have the song African Beauty.",4,670,-1,-1,-1
+0,Anything else please?,7,670,-1,-1,-1
+1,How about the Shawn Mendes song Aftertaste from the album entitled Handwritten?,4,670,-1,-1,-1
+0,"Sounds good, I'd like to hear that one.",10,670,-1,-1,-1
+1,Confirming that I'll be playing the song Aftertaste on the TV.,11,670,-1,-1,-1
+0,"Sorry, make that the speaker in kitchen.",19,670,-1,-1,-1
+1,Confirming that I will play Aftertaste on the kitchen speaker.,11,670,-1,-1,-1
+0,"Yes, great, thanks.",20,670,-1,-1,-1
+1,The song has begun.,21,670,-1,-1,-1
+0,Thank you for your help.,22,670,-1,-1,-1
+1,Is there anything else today?,23,670,-1,-1,-1
+0,"No, not right now.",24,670,-1,-1,-1
+1,Have a wonderful day.,15,670,-1,-1,-1
+0,I'm looking for events.,1,1059,-1,-1,-1
+1,What city are you looking for events in? What type of events are you interested in?,2,1059,-1,-1,-1
+0,I want to find music events in Philly.,3,1059,-1,-1,-1
+1,I found 10 events that match your request. The event is Blueface at the Fillmore Philadelphia.,9,1059,-1,-1,-1
+0,What time is the event? What kind of event is it?,5,1059,-1,-1,-1
+1,It is a hip hop event that starts at 5 pm.,6,1059,-1,-1,-1
+0,Are there any other events?,7,1059,-1,-1,-1
+1,There is another event. Conan Gray is playing at The Fillmore Philadelphia.,4,1059,-1,-1,-1
+0,What are some other events? I want to find pop events in NYC.,8,1059,-1,-1,-1
+1,I found 4 events that match your request. Amber Run Brooklyn is playing at Warsaw.,9,1059,-1,-1,-1
+0,"Sounds good, I want to buy tickets.",10,1059,-1,-1,-1
+1,How many tickets do you want to buy? What date do you want to buy tickets for?,2,1059,-1,-1,-1
+0,I want to buy 4 tickets for next Tuesday.,3,1059,-1,-1,-1
+1,Please confirm: 4 tickets for Amber Run Brooklyn next Tuesday in New York.,11,1059,-1,-1,-1
+0,"Yes, sounds good.",20,1059,-1,-1,-1
+1,Your reservation was successfully booked.,21,1059,-1,-1,-1
+0,"Thank you, that's all.",14,1059,-1,-1,-1
+1,Have a good day.,15,1059,-1,-1,-1
+0,I need to look for events.,1,1318,-1,-1,-1
+1,What type of events would you like to search for? These can be sports or music or more. Please list the cities.,2,1318,-1,-1,-1
+0,"I am looking for sports events in Phoenix, AZ.",3,1318,-1,-1,-1
+1,There are 10 sports events. This event is Arizona Vs LA Dodgers at Chase Field.,9,1318,-1,-1,-1
+0,I would like to look for baseball events.,8,1318,-1,-1,-1
+1,How about Arizona vs Milwaukee at Chase Field?,4,1318,-1,-1,-1
+0,Perfect,16,1318,-1,-1,-1
+1,Would you like to buy tickets?,17,1318,-1,-1,-1
+0,No thank you.,34,1318,-1,-1,-1
+1,Is there anything else I can help you with?,23,1318,-1,-1,-1
+0,I need more event dates.,1,1318,-1,-1,-1
+1,Arizona vs Milwaukee at Chase Field is next Monday.,4,1318,-1,-1,-1
+0,What about on other days?,7,1318,-1,-1,-1
+1,I couldn't find anymore dates. Is there anything else I can help you with?,26,1318,-1,-1,-1
+0,"No, thank you so much.",24,1318,-1,-1,-1
+1,Have a wonderful day.,15,1318,-1,-1,-1
+0,Can you find me some songs? The album The Martin Garrix Experience has many good songs.,27,725,-1,-1,-1
+1,I found 5 songs for you. How about High On Life by Martin Garrix in the album The Martin Garrix Experience?,9,725,-1,-1,-1
+0,That sounds great.,16,725,-1,-1,-1
+1,What else could I help you with?,23,725,-1,-1,-1
+0,I'd like to play the song on the speaker in kitchen,27,725,-1,-1,-1
+1,Please confirm playing High on Life on kitchen speaker.,11,725,-1,-1,-1
+0,"Yes, that sounds right.",20,725,-1,-1,-1
+1,Just started playing the song.,21,725,-1,-1,-1
+0,Thank you.,22,725,-1,-1,-1
+1,Is there anything else I could help you with today?,23,725,-1,-1,-1
+0,"No, but thank you.",24,725,-1,-1,-1
+1,Have a nice day.,15,725,-1,-1,-1
+0,I am looking for a song that could make me happy.,1,885,-1,-1,-1
+1,"I have found 10 songs that you might like from In This Moment, the song is Sick Like me from the album Black Widow.",9,885,-1,-1,-1
+0,Do you have anything else? I haven't heard of that.,7,885,-1,-1,-1
+1,How about Yeah BOy by Kelsea Ballerini in the album The First Time?,4,885,-1,-1,-1
+0,Please look for something else.,7,885,-1,-1,-1
+1,How about the song of Lady Gaga Before I cry from her album A Star Is Born Soundtrack?,4,885,-1,-1,-1
+0,"Am not sure of its genre, was it from '14?",5,885,-1,-1,-1
+1,"Its a latest song, released year 2018. It's a Soundtracks song.",6,885,-1,-1,-1
+0,"Okay, that's good. I think it'll help me.",16,885,-1,-1,-1
+1,Would you like me to play the song for you?,17,885,-1,-1,-1
+0,"Yes, please.",29,885,-1,-1,-1
+1,Please do confirm the following details: Play the song Before I Cry on the TV.,11,885,-1,-1,-1
+0,"All good, yes!",20,885,-1,-1,-1
+1,"Enjoy your music, hope you'll feel better.",21,885,-1,-1,-1
+0,Thank you so much. I appreciate it.,22,885,-1,-1,-1
+1,Do you need help with anything else?,23,885,-1,-1,-1
+0,"No,that would be all. Thank you!",24,885,-1,-1,-1
+1,Have a wonderful day!,15,885,-1,-1,-1
+0,I am looking to find some interesting events.,1,942,-1,-1,-1
+1,Do you have a preference on the type of event in a specific city?,2,942,-1,-1,-1
+0,I would like to find a sports event in the Washington D.C. area.,3,942,-1,-1,-1
+1,The DC United vs Revolution is tomorrow at Audi Field and starts at 8:30 pm.,4,942,-1,-1,-1
+0,That sounds like a great event.,16,942,-1,-1,-1
+1,Would you like to purchase tickets?,17,942,-1,-1,-1
+0,Yes I would like to purchase some tickets.,29,942,-1,-1,-1
+1,How many tickets do you wish to purchase?,2,942,-1,-1,-1
+0,I would like to buy one ticket.,3,942,-1,-1,-1
+1,I have 1 ticket for the DC United Vs Revolution tomorrow in Washington D.C.,11,942,-1,-1,-1
+0,"No, I changed my mind and woul d like four tickets.",19,942,-1,-1,-1
+1,I have 4 tickets for the DC United Vs Revolution tomorrow in Washington D.C.,11,942,-1,-1,-1
+0,"Yes, that is correct.",20,942,-1,-1,-1
+1,I have confirmed your ticket purchase. Enjoy the game!,21,942,-1,-1,-1
+0,What is the venue's address?,5,942,-1,-1,-1
+1,The venue is located at 100 Potomac Avenue Southwest.,6,942,-1,-1,-1
+0,Thank you for you assistance today. I do not need anything further.,14,942,-1,-1,-1
+1,Have a great day!,15,942,-1,-1,-1
+0,I wish to make a reservation at a restaurant in Pleasant Hill.,27,291,-1,-1,-1
+1,Is there a specific restaurant that you wish to make the reservation at?,2,291,-1,-1,-1
+0,I want the restaurant to be Kobe for Saturday this week at afternoon 1:30.,3,291,-1,-1,-1
+1,You wish to book a reservation at Kobe Japan Restaurant in Pleasant Hill for 2 people tomorrow at 1:30 pm?,11,291,-1,-1,-1
+0,That is not correct. I want the reservation to be at Homestead in Oakland.,19,291,-1,-1,-1
+1,You wish to book a table at Homestead in Oakland correct?,11,291,-1,-1,-1
+0,That is correct. Can you tell me what the address is and if they serve Burger dishes?,12,291,-1,-1,-1
+1,You reservation has been confirmed. The street address for Homestead if 4029 Piedmont Avenue and they serve Coffeehouse style dishes.,13,291,-1,-1,-1
+0,Thank you for providing me with that information. That's all the help I need.,14,291,-1,-1,-1
+1,You're welcome. Have a great day.,15,291,-1,-1,-1
+0,I want to find songs by Thousand Foot Krutch.,27,930,-1,-1,-1
+1,What about the song Be Somebody by Thousand Foot Krutch from the album The End Is Where We Begin?,4,930,-1,-1,-1
+0,What year was it released?,5,930,-1,-1,-1
+1,It came out in 2012.,6,930,-1,-1,-1
+0,"Yes, that's it.",16,930,-1,-1,-1
+1,Do you want to play the song?,17,930,-1,-1,-1
+0,"Yes, play it on the kitchen device.",18,930,-1,-1,-1
+1,Please confirm: playing the song Be Somebody on the kitchen speaker.,11,930,-1,-1,-1
+0,"Yes, thank you.",20,930,-1,-1,-1
+1,"Playing now, enjoy.",21,930,-1,-1,-1
+0,Thank you so much.,14,930,-1,-1,-1
+1,Have a great day.,15,930,-1,-1,-1
+0,I am looking for some events to go to on Wednesday next week. I want to have fun!,27,1330,-1,-1,-1
+1,Where do you want to have fun?,2,1330,-1,-1,-1
+0,Somewhere in the Napa area.,3,1330,-1,-1,-1
+1,What kind of event? Maybe music or sports?,2,1330,-1,-1,-1
+0,I think a concert would be cool.,3,1330,-1,-1,-1
+1,I found 1 event next Wednesday at 8:30 pm with Mandy Harvey at Blue Note Napa.,9,1330,-1,-1,-1
+0,That sounds awesome,16,1330,-1,-1,-1
+1,Do you want me to get you tickets then?,17,1330,-1,-1,-1
+0,"No not now, that's all I needed at the moment.",36,1330,-1,-1,-1
+1,"OK, just let me know, have a good day",15,1330,-1,-1,-1
+0,"Hi, could you help me search for some Lady Gaga songs?",27,821,-1,-1,-1
+1,"Sure, how about Always Remember Us This Way by Lady Gaga in her album A Star is Born Soundtrack?",4,821,-1,-1,-1
+0,Any alternatives? I would prefer Soundtracks songs in the album A Star is Born Soundtrack.,8,821,-1,-1,-1
+1,"I have found 3 songs, one of which is Before I Cry by Lady Gaga in her album A Star is Born Soundtrack.",9,821,-1,-1,-1
+0,That sounds amazing.,16,821,-1,-1,-1
+1,Would you like me to play the song for you?,17,821,-1,-1,-1
+0,"Sure, could you play it on my kitchen?",18,821,-1,-1,-1
+1,Please confirm your action to play Before I Cry on the kitchen speaker.,11,821,-1,-1,-1
+0,Could you play it on the bedroom speaker instead?,19,821,-1,-1,-1
+1,Please confirm your action to play Before I Cry on the bedroom speaker.,11,821,-1,-1,-1
+0,"Sure, that's great.",20,821,-1,-1,-1
+1,Your music has started playing.,21,821,-1,-1,-1
+0,"Sure, that's all the help I need.",14,821,-1,-1,-1
+1,"No problem, see you next time.",15,821,-1,-1,-1
+0,I need helping finding some music.,1,696,-1,-1,-1
+1,There's 10 songs you might like. How about Curious by Hayley Kiyoko off her Expectations album?,9,696,-1,-1,-1
+0,Sounds pretty good.,16,696,-1,-1,-1
+1,Want to listen now?,17,696,-1,-1,-1
+0,"Sure, why not.",29,696,-1,-1,-1
+1,"Just to make sure, you want to hear Curious on TV.",11,696,-1,-1,-1
+0,You got it. What type of music is this?,12,696,-1,-1,-1
+1,Your Pop song has started!,13,696,-1,-1,-1
+0,Thanks a lot.,22,696,-1,-1,-1
+1,Anything else I can help you with?,23,696,-1,-1,-1
+0,"Not right now, thanks.",24,696,-1,-1,-1
+1,Enjoy the rest of your day!,15,696,-1,-1,-1
+0,Can you find me somme Joe Bonamassa songs?,27,732,-1,-1,-1
+1,I found Drive by Joe Bonamassa in album Blues of Desperation.,4,732,-1,-1,-1
+0,What genre is that?,5,732,-1,-1,-1
+1,Blues.,6,732,-1,-1,-1
+0,"Great, play it.",10,732,-1,-1,-1
+1,Play Drive on TV?,11,732,-1,-1,-1
+0,"Yes, thank you.",20,732,-1,-1,-1
+1,Started playing Drive on TV.,21,732,-1,-1,-1
+0,"Thank you, that is all for now.",14,732,-1,-1,-1
+1,Have a great day!,15,732,-1,-1,-1
+0,I would like to watch the movie The aftermath now,27,224,-1,-1,-1
+1,Please confirm this : Play the movie The Aftermath without subtitles,11,224,-1,-1,-1
+0,Yes thats correct,20,224,-1,-1,-1
+1,Started Playing the movie without subtitles,21,224,-1,-1,-1
+0,Thanks for the help.,22,224,-1,-1,-1
+1,What else can I assist?,23,224,-1,-1,-1
+0,No Thanks Thats all I need,24,224,-1,-1,-1
+1,Have a great day,15,224,-1,-1,-1
+0,I need to find a place to dine.,1,202,-1,-1,-1
+1,What type of food do you want?,2,202,-1,-1,-1
+0,I enjoy Szcheuan food.,3,202,-1,-1,-1
+1,What city would you like to dine in.,2,202,-1,-1,-1
+0,I would like to dine in Sausalito at a place that serves alcohol,3,202,-1,-1,-1
+1,I found 1 restaurant in Sausalito name Tommy's Wok Chinese Cuisine.,9,202,-1,-1,-1
+0,What is the location and price range?,5,202,-1,-1,-1
+1,It is located at 3001 Bridgeway H and the price range is moderate.,6,202,-1,-1,-1
+0,"Yes, that sounds good.",16,202,-1,-1,-1
+1,Do you want me to make a reservation.,17,202,-1,-1,-1
+0,Yes I would like a reservation for this Saturday.,18,202,-1,-1,-1
+1,What time would you like for the reservation?,2,202,-1,-1,-1
+0,I would like to make it at 4:45 pm and it is for 3 people.,3,202,-1,-1,-1
+1,You want a reservation for 3 at 4:45 pm tomorrow at Tommy's Wok Chinese Cuisine in Sausalito. Can you confirm?,11,202,-1,-1,-1
+0,Actually lets make it at 7:15 in the evening on the 7th.,19,202,-1,-1,-1
+1,You want the reservation for next Thursday at 7:15 pm. Please confirm?,11,202,-1,-1,-1
+0,I need the reservation for 2 people,19,202,-1,-1,-1
+1,So you want the reservation for 2 at 7:15 pm. Can you confirm?,11,202,-1,-1,-1
+0,"Correct, that is what i need.",20,202,-1,-1,-1
+1,I was not able to make the reservation. May I help you with anything else.,26,202,-1,-1,-1
+0,No thank you.,24,202,-1,-1,-1
+1,Enjoy the rest of your day.,15,202,-1,-1,-1
+0,I am searching for a eating place with a intermediate priced,27,48,-1,-1,-1
+1,"Which city you are interested and what is the type of food you are searching for like American, Mexican etc",2,48,-1,-1,-1
+0,Some Izakaya kind of food good in Foster City,3,48,-1,-1,-1
+1,I have found out 2 restaurant for you and one of them is Tokai Japanese Restaurant located in Foster city is a nice one.,9,48,-1,-1,-1
+0,Can you tell me other restaurant names?,7,48,-1,-1,-1
+1,The restaurant Tokyo Village Grill & Sushi located in Foster City is a nice one.,4,48,-1,-1,-1
+0,Are there any live music?,5,48,-1,-1,-1
+1,There is no live music.,6,48,-1,-1,-1
+0,Ok. that is perfect for me and want to reserve that restaurant on March 4th.,25,48,-1,-1,-1
+1,What is the reservation time?,2,48,-1,-1,-1
+0,Do the reservation at evening 6:30,3,48,-1,-1,-1
+1,please give the confirmation details:Booking the table at Tokyo Village Grill & Sushi at Foster City and the reservation is for 2 people at 6:30 pm on next monday,11,48,-1,-1,-1
+0,This is perfect. what is the address and contact number?,12,48,-1,-1,-1
+1,Your booking is done and their address is 1221 Chess Drive with phone number 650-341-6888,13,48,-1,-1,-1
+0,Thanks a lot. That is all i want.,14,48,-1,-1,-1
+1,have a great Day.,15,48,-1,-1,-1
+0,I'm looking for a place to eat,1,131,-1,-1,-1
+1,What kind of food would you like?,2,131,-1,-1,-1
+0,I want it in SFO. Japanese food would be great.,3,131,-1,-1,-1
+1,I found 10 restaurants. 2g Japanese Brasserie is a nice restaurant located in San Francisco.,9,131,-1,-1,-1
+0,"Yes, that works. I want to make a reservation there.",10,131,-1,-1,-1
+1,What time?,2,131,-1,-1,-1
+0,Make it half past 12 in the afternoon. I want it on Saturday this week. It is for one person.,3,131,-1,-1,-1
+1,Please confirm the following details: Booking a table at 2g Japanese Brasserie. The city is San Francisco. The reservation is for 12:30 PM. The date is tomorrow. The reservation is for 1 person.,11,131,-1,-1,-1
+0,Yes that works for me. Do they have live music? How pricey is it?,12,131,-1,-1,-1
+1,Your reservation was successful. They do not have live music. Their prices are moderate.,13,131,-1,-1,-1
+0,Thank you!,22,131,-1,-1,-1
+1,Can I help with anything else?,23,131,-1,-1,-1
+0,No thank you.,24,131,-1,-1,-1
+1,Have a good day.,15,131,-1,-1,-1
+0,I'd like to make a dinner reservation.,1,351,-1,-1,-1
+1,"What time do you want to dine? What city are you in, perhaps you have a preferred restaurant?",2,351,-1,-1,-1
+0,"Yes, can you book me a table at Bob's Steakhouse in San Francisco at 5:15 pm on the 8th?",3,351,-1,-1,-1
+1,"Okay, making sure I've got all the details: you want a table for 2 at Bob's Steak & Chop House in San Francisco next Friday at 5:15 pm?",11,351,-1,-1,-1
+0,Yeps that's right. What's the price range?,12,351,-1,-1,-1
+1,I've booked you in. Other customers have rated them as very expensive.,13,351,-1,-1,-1
+0,Okay good to know.,14,351,-1,-1,-1
+1,Happy to help.,15,351,-1,-1,-1
+0,I need new music to listen to. Can you suggest any Pop songs?,27,590,-1,-1,-1
+1,I found 10 songs you might like. Interested in Miguel's Adorn from Kaleidoscope Dream?,9,590,-1,-1,-1
+0,Any other options? Lots of good music can be found in Jack Stauber's Pop Food.,8,590,-1,-1,-1
+1,"I found 2 songs by Jack Stauber, one called Buttercup from Pop Food.",9,590,-1,-1,-1
+0,I love it!,16,590,-1,-1,-1
+1,You wanna jam out now?,17,590,-1,-1,-1
+0,Oh yeah! Play that funky music kitchen device!,18,590,-1,-1,-1
+1,Playing Buttercup on the kitchen speaker!,11,590,-1,-1,-1
+0,"Nah, play it on the bedroom speaker.",19,590,-1,-1,-1
+1,Can you play buttercup on the bedroom speaker?,11,590,-1,-1,-1
+0,Sure I can!,20,590,-1,-1,-1
+1,The song is playing!,21,590,-1,-1,-1
+0,Thanks a lot!,22,590,-1,-1,-1
+1,"Anything else, pal?",23,590,-1,-1,-1
+0,"Nah, thanks bro.",24,590,-1,-1,-1
+1,Have a good one.,15,590,-1,-1,-1
+0,I'm going out tonight and need to make a restaurant reservation.,1,311,-1,-1,-1
+1,What time would you prefer? And which city?,2,311,-1,-1,-1
+0,Make the reservation in SF at 11:30 in the morning.,3,311,-1,-1,-1
+1,Do you have any restaurant in mind?,2,311,-1,-1,-1
+0,It is called Will. I only need a reservation for one.,3,311,-1,-1,-1
+1,I'm making a reservation for 1 at Will Sushi in San Francisco. It is at 11:30 am today.,11,311,-1,-1,-1
+0,Actually change it to eleven in the morning.,19,311,-1,-1,-1
+1,I am booking the reservation for 11 am today.,11,311,-1,-1,-1
+0,"No, I'd like it next Monday.",19,311,-1,-1,-1
+1,I am making a reservation for 1 person for next Monday.,11,311,-1,-1,-1
+0,Yes that's fine.,20,311,-1,-1,-1
+1,"I'm sorry, the reservation could not be booked. Will Sushi is a nice establishment. Should I try to make another reservation for 1 on next Monday at 11:30 am instead?",31,311,-1,-1,-1
+0,Yes that's ok.,20,311,-1,-1,-1
+1,I have booked your reservation.,21,311,-1,-1,-1
+0,Can you check it they have live music?,5,311,-1,-1,-1
+1,It looks like they do not.,6,311,-1,-1,-1
+0,How expensive is the restaurant? And can you find their phone number?,5,311,-1,-1,-1
+1,Will's has moderate prices and their phone number is 415-566-8088.,6,311,-1,-1,-1
+0,"Thanks, that will be all.",14,311,-1,-1,-1
+1,Have a nice day!,15,311,-1,-1,-1
+0,i love Reggae music. Can you help me find some songs?,27,553,-1,-1,-1
+1,Have you listened to the Where We Come From album by Popcaan? I especially like the song Addicted.,4,553,-1,-1,-1
+0,"Awesome, sounds good!",16,553,-1,-1,-1
+1,Should we listen to the music now?,17,553,-1,-1,-1
+0,Yes! We can play it on my phone or wherever.,18,553,-1,-1,-1
+1,Do you want to play Addicted on the TV?,11,553,-1,-1,-1
+0,"No, please use the speaker in kitchen instead.",19,553,-1,-1,-1
+1,Do you want to play Addicted on the kitchen speaker?,11,553,-1,-1,-1
+0,Yes please.,20,553,-1,-1,-1
+1,The song is now playing.,21,553,-1,-1,-1
+0,Thanks a lot!,22,553,-1,-1,-1
+1,How else may I help you?,23,553,-1,-1,-1
+0,That's all. Thanks!,24,553,-1,-1,-1
+1,Have a good one!,15,553,-1,-1,-1
+0,Hi! I'd like to search for events.,1,1231,-1,-1,-1
+1,No problem! Do you have a city in mind?,2,1231,-1,-1,-1
+0,Yes! San Diego.,3,1231,-1,-1,-1
+1,What kind of event would you like?,2,1231,-1,-1,-1
+0,Probably a sports match.,3,1231,-1,-1,-1
+1,I found 4 events you may like. I recommend Padres Vs Brewers at Petco Park. Does that interest you at all?,9,1231,-1,-1,-1
+0,That sounds fun. I'd like to know dates for this.,10,1231,-1,-1,-1
+1,All right! This is occurring for 2 days. The first is happening tomorrow for: Padres Vs Brewers at Petco Park.,9,1231,-1,-1,-1
+0,What about the other day?,7,1231,-1,-1,-1
+1,Padres Vs Brewers at Petco Park is also playing next Friday.,4,1231,-1,-1,-1
+0,What's the venue address?,5,1231,-1,-1,-1
+1,The address is 100 Park Boulevard.,6,1231,-1,-1,-1
+0,That sounds great.,16,1231,-1,-1,-1
+1,Would you like me to purchase tickets for you.,17,1231,-1,-1,-1
+0,"Yes, please.",29,1231,-1,-1,-1
+1,How many tickets do you want?,2,1231,-1,-1,-1
+0,3,3,1231,-1,-1,-1
+1,"Perfect! Can you confirm the following details, please? You are purchasing 3 tickets to Padres Vs Brewers in San Diego for next Friday.",11,1231,-1,-1,-1
+0,Yes! When does the game start?,12,1231,-1,-1,-1
+1,Your reservation has been made. The game starts at 6 pm.,13,1231,-1,-1,-1
+0,Thanks!,22,1231,-1,-1,-1
+1,You're welcome! Do you need help with anything else?,23,1231,-1,-1,-1
+0,"No, that's all.",24,1231,-1,-1,-1
+1,Have a great day!,15,1231,-1,-1,-1
+0,I am looking for some good songs.,1,805,-1,-1,-1
+1,How about On The Loose by Niall Horan from the album Flicker?,4,805,-1,-1,-1
+0,Is there any other Pop song from the album Vessel?,8,805,-1,-1,-1
+1,How about Fake You Out by Twenty One Pilots from the album Vessel?,4,805,-1,-1,-1
+0,Is there any other song by Twenty One Pilots 's?,8,805,-1,-1,-1
+1,How about Truce by Twenty One Pilots from the album Vessel?,4,805,-1,-1,-1
+0,"Okay, That sounds great.",16,805,-1,-1,-1
+1,Would you like me to play the music now?,17,805,-1,-1,-1
+0,"Yes, Please play it on my kitchen.",18,805,-1,-1,-1
+1,Please confirm the details: You want me to play Truce on kitchen speaker.,11,805,-1,-1,-1
+0,"Yes, That is right.",20,805,-1,-1,-1
+1,Songs is playing. Enjoy the music.,21,805,-1,-1,-1
+0,Okay. Thank you for your help.,22,805,-1,-1,-1
+1,Is there anything else I can help you with?,23,805,-1,-1,-1
+0,That will be all. Thank you.,24,805,-1,-1,-1
+1,I am glad I could help. Have a great day.,15,805,-1,-1,-1
+0,Is there a place to eat?,1,94,-1,-1,-1
+1,Which city?,2,94,-1,-1,-1
+0,Antioch would be great.,3,94,-1,-1,-1
+1,What kinds of foods besides American and Mexican or you interested in?,2,94,-1,-1,-1
+0,I would love to eat some lobster.,3,94,-1,-1,-1
+1,There's a place in Antioch call Okawa Japanese Restaurant.,4,94,-1,-1,-1
+0,That's great and it'll work for me.,16,94,-1,-1,-1
+1,Do you want to reserve a table?,17,94,-1,-1,-1
+0,I would love to make an appointment for one myself at 4:30 pm.,18,94,-1,-1,-1
+1,"Just to be correct, you're booking a table at Okawa Japanese Restaurant today in Antioch and it will be for 1 your self at 4:30 pm.",11,94,-1,-1,-1
+0,"That will be great. Also, I just wanted to now pricey is it.",12,94,-1,-1,-1
+1,Unfortunately there are no tables available. Can I help you with anything else?,26,94,-1,-1,-1
+0,"Instead of the previous time, can you make it at 18:00?",27,94,-1,-1,-1
+1,"Just to be correct, you're booking a table at Okawa Japanese Restaurant in Antioch at 6 pm. That will be today and that will be for 1.",11,94,-1,-1,-1
+0,That works and fits my schedule.,20,94,-1,-1,-1
+1,Your reservation is all set.,21,94,-1,-1,-1
+0,Thanks. That will do it for me.,14,94,-1,-1,-1
+1,Have a great day.,15,94,-1,-1,-1
+0,I want to see a Rock Concert. Can you find me some upcoming events?,27,1043,-1,-1,-1
+1,Sure. Do you prefer any city in particular?,2,1043,-1,-1,-1
+0,"Yeah, I'm look for some Country music in Chi-town.",3,1043,-1,-1,-1
+1,There's 1 event with Billy Currington at Gallagher Way.,9,1043,-1,-1,-1
+0,When's that start?,5,1043,-1,-1,-1
+1,It starts at 6:30 pm.,6,1043,-1,-1,-1
+0,Cool. Where's that at?,5,1043,-1,-1,-1
+1,It's located at 3635 North Clark Street.,6,1043,-1,-1,-1
+0,That sounds perfect. I'm interested.,16,1043,-1,-1,-1
+1,Should I order some tickets?,17,1043,-1,-1,-1
+0,"Yeah, go ahead. I'd like to buy some tickets.",29,1043,-1,-1,-1
+1,How many? What day do you want to go?,2,1043,-1,-1,-1
+0,I'd like 4 tickets on March 12th if possible.,3,1043,-1,-1,-1
+1,"Okay. So, you want 4 tickets to Billy Currington on March 12th in Chicago.",11,1043,-1,-1,-1
+0,"Actually, no. Make that 2 tickets on the 14th of this month.",19,1043,-1,-1,-1
+1,"Okay, so it's 2 tickets on March 14th.",11,1043,-1,-1,-1
+0,"Yeah, that sounds like it will work.",20,1043,-1,-1,-1
+1,Alright. Your tickets have been ordered.,21,1043,-1,-1,-1
+0,Thank you so much.,22,1043,-1,-1,-1
+1,Do you need anything else?,23,1043,-1,-1,-1
+0,Nope. That will be it.,24,1043,-1,-1,-1
+1,Okay. Have a good day!,15,1043,-1,-1,-1
+0,i want to make a reservation at restaurant,1,383,-1,-1,-1
+1,what time is the reservation for? which city i should search in? do you have a preferred restaurant?,2,383,-1,-1,-1
+0,the restaurant is la traviata.i want it in san fran.make it at 6:30 pm,3,383,-1,-1,-1
+1,please confirm the following details:booking a table at la traviata. the city is san francisco.the reservation is at 6:30 pm.the date is today. the reservation is for 2 peoples.,11,383,-1,-1,-1
+0,yes that works for me.do they have live music?,12,383,-1,-1,-1
+1,your reservation is successful.they do not have live music.,13,383,-1,-1,-1
+0,thank you very much.that is all i need.,14,383,-1,-1,-1
+1,have a good day,15,383,-1,-1,-1
+0,Could you find me an event on March 4th?,27,1077,-1,-1,-1
+1,Is there a type of event that you like? How about Music or Sports or something else? Is there a specific city I need to search in?,2,1077,-1,-1,-1
+0,How about Stanford Match events?,3,1077,-1,-1,-1
+1,I have 1 event that should suit you. The event is Cardinal Vs Wildcats at Stanford Stadium.,9,1077,-1,-1,-1
+0,Sounds perfect. I would like to purchase tickets.,10,1077,-1,-1,-1
+1,How many tickets do I need to buy?,2,1077,-1,-1,-1
+0,I need 3 tickets.,3,1077,-1,-1,-1
+1,Would you confirm that you want 3 tickets to Cardinal Vs Wildcats for next Monday in Stanford?,11,1077,-1,-1,-1
+0,"No, I need four tickets.",19,1077,-1,-1,-1
+1,Please confirm that you need 4 tickets to the Stanford event.,11,1077,-1,-1,-1
+0,"Yes, that sounds great. When will the event start?",12,1077,-1,-1,-1
+1,Your reservation was made. It starts at 7:30 pm.,13,1077,-1,-1,-1
+0,Where can I find the venue?,5,1077,-1,-1,-1
+1,The address is 625 Nelson Road.,6,1077,-1,-1,-1
+0,Thank you for helping me. I don't need anything else.,14,1077,-1,-1,-1
+1,Enjoy your day.,15,1077,-1,-1,-1
+0,I am meeting a friend for food later. Can you find me a pricey place nearby?,27,72,-1,-1,-1
+1,"Are you looking for Mexican, American, or some other type of food?",2,72,-1,-1,-1
+0,A place with pasta will be perfect?,3,72,-1,-1,-1
+1,What city are you meeting in?,2,72,-1,-1,-1
+0,We are meeting in San Francisco.,3,72,-1,-1,-1
+1,There is a nice restaurant in San Francisco called Ala Romana.,4,72,-1,-1,-1
+0,Are there any other nice restaurants in the area?,7,72,-1,-1,-1
+1,Che Fico is another nice restaurant in San Francisco.,4,72,-1,-1,-1
+0,Do they serve liquor?,5,72,-1,-1,-1
+1,They do not serve liquor.,6,72,-1,-1,-1
+0,Can you suggest any Mexican food restaurants?,8,72,-1,-1,-1
+1,There are 3 Mexican restaurants in the area. Cala is a nice one in San Francisco.,9,72,-1,-1,-1
+0,Do they serve liquor?,5,72,-1,-1,-1
+1,"Yes, they serve liquor.",6,72,-1,-1,-1
+0,I want to make a reservation for Cala.,10,72,-1,-1,-1
+1,What time would you like to make the reservation for?,2,72,-1,-1,-1
+0,Make it for one in the afternoon on March 7th.,3,72,-1,-1,-1
+1,"To confirm, the reservation is at Cala in San Francisco at 1 pm next Thursday for 2 people.",11,72,-1,-1,-1
+0,Please change it to a quarter past 12 in the afternoon.,19,72,-1,-1,-1
+1,"To confirm, the reservation is at 12:15 pm for 2 people.",11,72,-1,-1,-1
+0,"Yes, that is good. Do they have live music?",12,72,-1,-1,-1
+1,"They do not have live music. I was unable to make the reservation at Cala, shall I try to reserve next Thursday at 12 pm for 2?",28,72,-1,-1,-1
+0,Yes that works.,20,72,-1,-1,-1
+1,Your reservation was successful.,21,72,-1,-1,-1
+0,Thank you very much.,22,72,-1,-1,-1
+1,Is there anything else I can help you with?,23,72,-1,-1,-1
+0,"No, that is all.",24,72,-1,-1,-1
+1,Have a good day.,15,72,-1,-1,-1
+0,I want to listen to some music. Make it Alternative Country songs today.,27,923,-1,-1,-1
+1,I found 1 song. Do you want to listen to Cover Me Up by Jason Isbell? It's from the album Southeastern,9,923,-1,-1,-1
+0,Is that from six years ago?,5,923,-1,-1,-1
+1,Yes. From the year 2013,6,923,-1,-1,-1
+0,Yes I know that one,16,923,-1,-1,-1
+1,Would you like to play it?,17,923,-1,-1,-1
+0,Yep. Play it,29,923,-1,-1,-1
+1,Please confirm: playing Cover Me Up on TV,11,923,-1,-1,-1
+0,"No, make it on the speaker in the kitchen instead",19,923,-1,-1,-1
+1,Please confirm: playing Cover Me Up on the kitchen speaker,11,923,-1,-1,-1
+0,No. I want it on the bedroom device really,19,923,-1,-1,-1
+1,Please confirm: playing Cover Me Up on the bedroom speaker,11,923,-1,-1,-1
+0,Yes that's the one,20,923,-1,-1,-1
+1,Your music is playing now,21,923,-1,-1,-1
+0,Thank you,14,923,-1,-1,-1
+1,Don't mention it,15,923,-1,-1,-1
+0,I want to find dates for events.,1,528,-1,-1,-1
+1,What event are you interested in?,2,528,-1,-1,-1
+0,I am thinking of Angels vs Red Sox.,3,528,-1,-1,-1
+1,What city do you prefer?,2,528,-1,-1,-1
+0,I prefer Anaheim.,3,528,-1,-1,-1
+1,I found Angels Vs Red Sox at Angel Stadium of Anaheim. The even is on 3 days for next Monday.,9,528,-1,-1,-1
+0,Where is the event located and at what time does it start?,5,528,-1,-1,-1
+1,The event starts at 7 pm and is located at 2000 East Gene Autry Way.,6,528,-1,-1,-1
+0,Thats okay. Please I want to pay for the ticket.,10,528,-1,-1,-1
+1,How many tickets do you want to pay for?,2,528,-1,-1,-1
+0,4 tickets.,3,528,-1,-1,-1
+1,Please confirm that you want Angels vs Red Sox event at Anaheim for next Monday and that you want to pay the tickets for 4.,11,528,-1,-1,-1
+0,Yes that is it.,20,528,-1,-1,-1
+1,Your reservation has been successfully made.,21,528,-1,-1,-1
+0,Thanks a lot. Thats all I need for now.,14,528,-1,-1,-1
+1,Do have a lovely day.,15,528,-1,-1,-1
+0,I'm visiting Washington D.C. for a work conference and want to see if there's any events I can attend while I'm there.,27,1064,-1,-1,-1
+1,What kind of events are you interested in?,2,1064,-1,-1,-1
+0,Can you look for Games in the area?,3,1064,-1,-1,-1
+1,I found 10 events of that kind. One is DC United Vs Revolution at Audi Field.,9,1064,-1,-1,-1
+0,"Sounds great, I'd like to buy 1 ticket.",25,1064,-1,-1,-1
+1,What date would you like?,2,1064,-1,-1,-1
+0,Let's try the 14th of this month.,3,1064,-1,-1,-1
+1,Please confirm: 1 ticket for DC United Vs Revolution on March 14th in Washington D.C.,11,1064,-1,-1,-1
+0,That works. What is the address?,12,1064,-1,-1,-1
+1,Your ticket has been purchased. The venue is at 100 Potomac Avenue Southwest.,13,1064,-1,-1,-1
+0,What time does the game start?,5,1064,-1,-1,-1
+1,The game starts at 5:30 pm.,6,1064,-1,-1,-1
+0,Thanks for your help.,22,1064,-1,-1,-1
+1,Anything else I can help you with?,23,1064,-1,-1,-1
+0,"No, thanks for your help.",24,1064,-1,-1,-1
+1,Have a great day.,15,1064,-1,-1,-1
+0,I want to find dates for events.,1,434,-1,-1,-1
+1,Which city should I look in? Do you know what event you want to see?,2,434,-1,-1,-1
+0,New York. I heard good things about France Rocks Festival.,3,434,-1,-1,-1
+1,The France Rocks Festival is tomorrow and will be located at David Rubenstein Atrium at Lincoln Center.,4,434,-1,-1,-1
+0,When does it start? Where is the venue located?,5,434,-1,-1,-1
+1,It starts at 6:30 pm and the venue is located at 61 West 62nd Street.,6,434,-1,-1,-1
+0,Sounds great! I want one ticket please.,25,434,-1,-1,-1
+1,Please confirm the following details: 1 ticket for the France Rocks Festival; the event is tomorrow in New York.,11,434,-1,-1,-1
+0,"Yes, that works!",20,434,-1,-1,-1
+1,Your reservation is scheduled.,21,434,-1,-1,-1
+0,Thanks for your help! I don't need anything else.,14,434,-1,-1,-1
+1,Have a nice day.,15,434,-1,-1,-1
+0,Please find me a movie with subtitles,27,244,-1,-1,-1
+1,Do you have a movie in mind?,2,244,-1,-1,-1
+0,Please play Hotel Mumbai,3,244,-1,-1,-1
+1,You would like to watch Hotel Mumbai with subtitles?,11,244,-1,-1,-1
+0,"Yes, I do.",20,244,-1,-1,-1
+1,The movie will start to play now,21,244,-1,-1,-1
+0,What category is this movie?,5,244,-1,-1,-1
+1,This movie is a thriller.,6,244,-1,-1,-1
+0,Who directed the movie?,5,244,-1,-1,-1
+1,The movie was directed by Anthony Maras.,6,244,-1,-1,-1
+0,Thank you I am all set.,14,244,-1,-1,-1
+1,Thank you.,15,244,-1,-1,-1
+0,Can you find me some songs by Twenty One Pilots?,27,708,-1,-1,-1
+1,Do you like Fake You Out from the Twenty One Pilots album Vessel?,4,708,-1,-1,-1
+0,What other songs are there?,7,708,-1,-1,-1
+1,I found Neon Gravestones from the Twenty One Pilots album Trench.,4,708,-1,-1,-1
+0,What other songs are available? I like Inna's album Party Never Ends.,8,708,-1,-1,-1
+1,Do you like In Your Eyes from Inna's album Party Never Ends?,4,708,-1,-1,-1
+0,"Yes, please play it in my kitchen.",25,708,-1,-1,-1
+1,Please confirm you want to hear In Your Eyes on the kitchen speaker.,11,708,-1,-1,-1
+0,That is correct. Which genre is it?,12,708,-1,-1,-1
+1,Now playing this pop song.,13,708,-1,-1,-1
+0,"Thank you, that will be all.",14,708,-1,-1,-1
+1,See you soon!,15,708,-1,-1,-1
+0,Will you help me find events?,1,1066,-1,-1,-1
+1,What events? What city?,2,1066,-1,-1,-1
+0,Music in Chi-town.,3,1066,-1,-1,-1
+1,I found Basta at Concord Music Hall.,4,1066,-1,-1,-1
+0,Will you find other events on 4th of March?,8,1066,-1,-1,-1
+1,I found 3 events. One of them is Billy Currington at Gallagher Way.,9,1066,-1,-1,-1
+0,Sounds good.,16,1066,-1,-1,-1
+1,Do you want to buy tickets?,17,1066,-1,-1,-1
+0,"Yes, four tickets, please.",18,1066,-1,-1,-1
+1,Please confirm 4 tickets for Billy Currington next Monday in Chicago.,11,1066,-1,-1,-1
+0,Sounds great.,20,1066,-1,-1,-1
+1,Your reservation is successful.,21,1066,-1,-1,-1
+0,Thanks.,22,1066,-1,-1,-1
+1,Anything else?,23,1066,-1,-1,-1
+0,"No, thanks.",24,1066,-1,-1,-1
+1,Have a wonderful day.,15,1066,-1,-1,-1
+0,I'm looking for something to do with a friend. Can you look up some events for me?,1,1190,-1,-1,-1
+1,"Sure, where do you want to go? Are you interested in Music events, Sports, or some other kind of event?",2,1190,-1,-1,-1
+0,Some kind of Music event in London on the 12th of March would be good.,3,1190,-1,-1,-1
+1,Looks like Crystal Lake is happening at Boston Music Room that day.,4,1190,-1,-1,-1
+0,"Great, that sounds good.",16,1190,-1,-1,-1
+1,Do you want to buy tickets?,17,1190,-1,-1,-1
+0,Maybe later. I need to check the date.,33,1190,-1,-1,-1
+1,"The Crystal Lake at Boston Music Room event is only happening 1 day, March 12th.",9,1190,-1,-1,-1
+0,"Ok, that's fine.",16,1190,-1,-1,-1
+1,Can I help you with anything else?,23,1190,-1,-1,-1
+0,Can I get tickets for that?,1,1190,-1,-1,-1
+1,How many do you need?,2,1190,-1,-1,-1
+0,I need two tickets.,3,1190,-1,-1,-1
+1,"Ok, just to confirm, you want 2 tickets for the Crystal Lake on March 12th in London.",11,1190,-1,-1,-1
+0,"Yep, that's correct.",20,1190,-1,-1,-1
+1,"Ok, I've booked your tickets.",21,1190,-1,-1,-1
+0,When does it start and what's the venue's address?,5,1190,-1,-1,-1
+1,It starts at 5:30 pm and it's at 178 Junction Road.,6,1190,-1,-1,-1
+0,"Great, thanks. That's all.",14,1190,-1,-1,-1
+1,Have a great day.,15,1190,-1,-1,-1
+0,"I'd like to look for events, please.",1,1173,-1,-1,-1
+1,"What kind of event are you interested? Music, sports, or anything else you can think of.",2,1173,-1,-1,-1
+0,I want to find a concert to go to.,3,1173,-1,-1,-1
+1,What city would you like me to look in?,2,1173,-1,-1,-1
+0,I want to find a concert in Berkeley.,3,1173,-1,-1,-1
+1,I found the Berkeley World Music Festival at 2500 Durant Ave.,4,1173,-1,-1,-1
+0,What about any other events?,7,1173,-1,-1,-1
+1,I also found Chris Webby at Cornerstone Craft Beer & Live Music.,4,1173,-1,-1,-1
+0,Anything else? I want something on the 7th of this month.,8,1173,-1,-1,-1
+1,I found the event Fidlar at Cornerstone Craft Beer & Live Music.,4,1173,-1,-1,-1
+0,That sounds perfect for me.,16,1173,-1,-1,-1
+1,Would you like to purchase tickets for it?,17,1173,-1,-1,-1
+0,"Not right now, thanks.",34,1173,-1,-1,-1
+1,Can I do anything more for you?,23,1173,-1,-1,-1
+0,I want to find the dates for the events.,1,1173,-1,-1,-1
+1,"Fidlar at Cornerstone Craft Beer & LIve Music is taking place on 1 day, next Thursday.",9,1173,-1,-1,-1
+0,Where is the event and when does it start?,5,1173,-1,-1,-1
+1,The venue is at 2367 Shattuck Avenue and it starts at 5:30 pm.,6,1173,-1,-1,-1
+0,"That sounds great, I'd like to get three tickets for it.",25,1173,-1,-1,-1
+1,"Great, please confirm: 3 tickets to see Fidlar next Thursday in Berkeley.",11,1173,-1,-1,-1
+0,"Actually, I'd like four tickets.",19,1173,-1,-1,-1
+1,"Okay, confirming 4 tickets for the event next Thursday.",11,1173,-1,-1,-1
+0,"Yeah, that's exactly right.",20,1173,-1,-1,-1
+1,The reservation has been placed.,21,1173,-1,-1,-1
+0,"Thanks so much for your help, I don't need anything else.",14,1173,-1,-1,-1
+1,"No problem, have a lovely day.",15,1173,-1,-1,-1
+0,Hey! I am so happy today that I feel like listening to some good music. Could you find me one?,27,918,-1,-1,-1
+1,Hey! Do you wish to hear the song Royal Beggars from the album Holy Hell by British Metalcore Band Architects that was released in 2018.,4,918,-1,-1,-1
+0,Do you have other song collections for I like to hear songs composed by Justin Bieber.,8,918,-1,-1,-1
+1,Okay! Lemme search for you.... Hey! I can find 3 songs for you... Do you wish to hear the song All That Matters from the album Journals by Justin Bieber?,9,918,-1,-1,-1
+0,Yup! I'm looking for that only....,16,918,-1,-1,-1
+1,Can I play the song for you?,17,918,-1,-1,-1
+0,Yup! Please play it on my kitchen device.,18,918,-1,-1,-1
+1,"Please can you confirm me that you wish to play the song All That Matters in the Kitchen speaker ,right?",11,918,-1,-1,-1
+0,"Hey! Please not in Kitchen speaker, but can you play in my bedroom device.",19,918,-1,-1,-1
+1,"Sure! I will do that for you.... But before that, please can you confirm that you wish to hear the song All That Matters in your Bedroom speaker.",11,918,-1,-1,-1
+0,Yup! You're right.,20,918,-1,-1,-1
+1,Here you go!!! The song will play shortly !!! Keep enjoying !!!,21,918,-1,-1,-1
+0,Cool.... thanks for your time.,22,918,-1,-1,-1
+1,Do you want me to play any other song for you?,23,918,-1,-1,-1
+0,"Nope, thanks.",24,918,-1,-1,-1
+1,Have a wonderful day.,15,918,-1,-1,-1
+0,I would like to find San Fran events.,27,1245,-1,-1,-1
+1,Is there a specific type of event that you like? What about music or sports or anything else?,2,1245,-1,-1,-1
+0,I want to look for games on the 5th of March.,3,1245,-1,-1,-1
+1,What about Oracle Park with the Giants Vs Marlins event.,4,1245,-1,-1,-1
+0,Would you search for other events?,7,1245,-1,-1,-1
+1,How about the Giants Vs Phillies event taking place at Oracle Park?,4,1245,-1,-1,-1
+0,What type of category is it?,5,1245,-1,-1,-1
+1,It's a baseball event.,6,1245,-1,-1,-1
+0,Could you look for other events? I don't have a date preference.,8,1245,-1,-1,-1
+1,I have 6 events which should suit you. One is the Giants Vs Brewers event at Oracle Park.,9,1245,-1,-1,-1
+0,Where is the venue and what type of category is the event?,5,1245,-1,-1,-1
+1,It is a baseball event at 24 Willie Mays Plaza.,6,1245,-1,-1,-1
+0,That sounds good to me. I would like to find some dates for events.,10,1245,-1,-1,-1
+1,I found the Giants Vs Brewers on 3 days and it starts next Friday at Oracle Park.,9,1245,-1,-1,-1
+0,Could you tell me the address and when the event starts?,5,1245,-1,-1,-1
+1,It starts at 7 pm at 24 Willie Mays Plaza.,6,1245,-1,-1,-1
+0,That sounds perfect.,16,1245,-1,-1,-1
+1,Would you like to purchase tickets?,17,1245,-1,-1,-1
+0,"Yes, I want two tickets.",18,1245,-1,-1,-1
+1,Please confirm that you want to attend the Giants Vs Brewers event and need 2 tickets. This event takes place next Friday at San Francisco.,11,1245,-1,-1,-1
+0,I would like three tikcets.,19,1245,-1,-1,-1
+1,Please confirm that you need 3 tickets and that the event is happening in San Francisco.,11,1245,-1,-1,-1
+0,Yes that works.,20,1245,-1,-1,-1
+1,We have made your reservation.,21,1245,-1,-1,-1
+0,Thank you for helping. That is all I needed.,14,1245,-1,-1,-1
+1,Have a wonderful day.,15,1245,-1,-1,-1
+0,I want to find events scheduled for March 1st.,27,1182,-1,-1,-1
+1,What type of events are you looking for and in which city?,2,1182,-1,-1,-1
+0,"I'm looking for music events similar to Electronica in Vancouver, BC.",3,1182,-1,-1,-1
+1,I found 1 event called Last Dinosaurs at the Imperial Vancouver.,9,1182,-1,-1,-1
+0,When does it start and what is the address of the venue?,5,1182,-1,-1,-1
+1,The event starts at 6:30 pm and the venue is at 319 Main Street,6,1182,-1,-1,-1
+0,Sounds good to me.,16,1182,-1,-1,-1
+1,Do you want tickets to this event?,17,1182,-1,-1,-1
+0,Not now. Maybe later.,34,1182,-1,-1,-1
+1,Anything else I can help you with?,23,1182,-1,-1,-1
+0,I would like to find dates for events.,1,1182,-1,-1,-1
+1,"There is 1 event called Last Dinosaurs at the Imperial Vancouver, today.",9,1182,-1,-1,-1
+0,That sounds good. I want to buy tickets for the event.,10,1182,-1,-1,-1
+1,How many tickets do you need?,2,1182,-1,-1,-1
+0,I just need one.,3,1182,-1,-1,-1
+1,"Please confirm that you want 1 ticket for Last Dinosaurs event at Vancouver, for today.",11,1182,-1,-1,-1
+0,Right. That would be perfect.,20,1182,-1,-1,-1
+1,Your ticket has been confirmed.,21,1182,-1,-1,-1
+0,Thank you. That's all I need for now.,14,1182,-1,-1,-1
+1,Have a great day!,15,1182,-1,-1,-1
+0,Can you help me find some events of interest?,1,959,-1,-1,-1
+1,Did you have a preference on the category?,2,959,-1,-1,-1
+0,I was looking for a Match event on the 1st.,3,959,-1,-1,-1
+1,In which city?,2,959,-1,-1,-1
+0,I'm looking for something in New York.,3,959,-1,-1,-1
+1,There is an event Mets Vs Braves at Citi Field today at 7:30 pm.,4,959,-1,-1,-1
+0,That sounds good can I reserve tickets?,10,959,-1,-1,-1
+1,How many tickets?,2,959,-1,-1,-1
+0,I'd like 2 tickets please,3,959,-1,-1,-1
+1,Please confirm you're reserving 2 tickets for Mets Vs Braves today in New York.,11,959,-1,-1,-1
+0,"Yes, sounds good. Where is the address of the venue?",12,959,-1,-1,-1
+1,The address is 123-01 Roosevelt Avenue. Your reservation has been confirmed. Enjoy!,13,959,-1,-1,-1
+0,Thank you for your help.,22,959,-1,-1,-1
+1,Is there anything else I can help you with?,23,959,-1,-1,-1
+0,"No, thank you.",24,959,-1,-1,-1
+1,Have a nice day.,15,959,-1,-1,-1
+0,I want to hear some songs by Charlie Puth.,27,873,-1,-1,-1
+1,Would you like to hear Attention from the album Voicenotes by Charlie Puth?,4,873,-1,-1,-1
+0,"Yes, could you play that on the kitchen device?",25,873,-1,-1,-1
+1,Please confirm the following: play Attention from the album Voicenotes by Charlie Puth on the kitchen speaker.,11,873,-1,-1,-1
+0,No. Could you play in on my bedroom speaker?,19,873,-1,-1,-1
+1,Please confirm the following: play Attention from the album Voicenotes by Charlie Puth on the bedroom speaker.,11,873,-1,-1,-1
+0,"Yes, that's what I want.",20,873,-1,-1,-1
+1,Begin playing the song.,21,873,-1,-1,-1
+0,"By the way, what is this song's genre?",5,873,-1,-1,-1
+1,It is considered a Pop song.,6,873,-1,-1,-1
+0,"Oh, okay. Thanks.",22,873,-1,-1,-1
+1,May I help you with anything else?,23,873,-1,-1,-1
+0,"No, that's all. Thanks.",24,873,-1,-1,-1
+1,Enjoy the music.,15,873,-1,-1,-1
+0,I want to reserve a table at Cafe Vitale at 19:00.,27,318,-1,-1,-1
+1,In which city is Cafe Vitale located?,2,318,-1,-1,-1
+0,It's in Los Altos.,3,318,-1,-1,-1
+1,"Ok. So you would like to reserve a table for 2 at Cafe Vitale in Los Altos at 7 pm, today. Is that correct?",11,318,-1,-1,-1
+0,"Yes, that sounds perfect.",20,318,-1,-1,-1
+1,Your table at Cafe Vitale has been successfully booked.,21,318,-1,-1,-1
+0,Thank you for the assistance.,22,318,-1,-1,-1
+1,Is there anything else you would like me to help with?,23,318,-1,-1,-1
+0,No. Thank you. That'll be all.,24,318,-1,-1,-1
+1,Have a great day!,15,318,-1,-1,-1
+0,I want to see an event in Phoenix.,27,423,-1,-1,-1
+1,What type of event?,2,423,-1,-1,-1
+0,I want to see Diamondbacks vs nationals. That would be really interesting for me.,3,423,-1,-1,-1
+1,The event is available on 3 days. You can see Diamondbacks vs Nationals the day after tomorrow at Chase Field.,9,423,-1,-1,-1
+0,That would be awesome.,16,423,-1,-1,-1
+1,You would like to purchase tickets?,17,423,-1,-1,-1
+0,"Yes, I am interested in tickets.",29,423,-1,-1,-1
+1,How many would you like me to buy?,2,423,-1,-1,-1
+0,Just one ticket,3,423,-1,-1,-1
+1,I would like to confirm the following: 1 ticket to Diamondbacks vs Nationals for the day after tomorrow in Phoenix,11,423,-1,-1,-1
+0,That would be awesome.,20,423,-1,-1,-1
+1,I have reserved the tickets.,21,423,-1,-1,-1
+0,I appreciate your assistance. That would be all.,14,423,-1,-1,-1
+1,Enjoy the rest of the day.,15,423,-1,-1,-1
+0,I want to make reservations at Stella Alpina Osteria,27,313,-1,-1,-1
+1,When would you like to reserve your reservation,2,313,-1,-1,-1
+0,I would like my reservation for the 12th at half past 7 in the evening,3,313,-1,-1,-1
+1,In which city do I need to make the reservation,2,313,-1,-1,-1
+0,I want to dine at Stella in Burlingame,3,313,-1,-1,-1
+1,A table is being booked at Stella Alpina Osteria is Burlingame on March 12th at 7:30 pm for 2 people,11,313,-1,-1,-1
+0,Yes thanks so much,20,313,-1,-1,-1
+1,I have successfully made the reservation,21,313,-1,-1,-1
+0,Can I please get the address and is it average priced,5,313,-1,-1,-1
+1,The restaurant is expensive and their address is 401 Primrose Road,6,313,-1,-1,-1
+0,Thanks for all of that. That is it for me,14,313,-1,-1,-1
+1,Have a great day,15,313,-1,-1,-1
+0,I am looking for an event on March 5th.,27,1265,-1,-1,-1
+1,I can help you with that. What type of event are you interested in?,2,1265,-1,-1,-1
+0,I would like to find a concert.,3,1265,-1,-1,-1
+1,In what city would you like to look?,2,1265,-1,-1,-1
+0,I am looking for concerts in New York City.,3,1265,-1,-1,-1
+1,I found 5 events you may like. How about Amber Run Brooklyn? They are playing at Warsaw.,9,1265,-1,-1,-1
+0,"What category of event is that? Also, where is Warsaw located?",5,1265,-1,-1,-1
+1,"That venue is located at 261 Driggs Avenue, Brooklyn. It's a pop concert.",6,1265,-1,-1,-1
+0,That sounds good to me.,16,1265,-1,-1,-1
+1,Do you want to buy tickets now?,17,1265,-1,-1,-1
+0,"No, maybe later.",34,1265,-1,-1,-1
+1,Is there anything else I can help you find?,23,1265,-1,-1,-1
+0,"What is the date of the event, again?",1,1265,-1,-1,-1
+1,Amber Run Brooklyn is playing next Tuesday at Warsaw.,4,1265,-1,-1,-1
+0,Where is that located again?,5,1265,-1,-1,-1
+1,"It's located at 261 Driggs Avenue, Brooklyn.",6,1265,-1,-1,-1
+0,That sounds good to me. I would like to buy 2 tickets now.,25,1265,-1,-1,-1
+1,Please confirm: you are buying 2 tickets for Amber Run Brooklyn in New York on next Tuesday.,11,1265,-1,-1,-1
+0,"Yes, that is perfect. When does the concert start?",12,1265,-1,-1,-1
+1,Your tickets have been purchased successfully. That event starts at 7:30 pm.,13,1265,-1,-1,-1
+0,Thanks very much.,22,1265,-1,-1,-1
+1,Is there anything else that I can help with?,23,1265,-1,-1,-1
+0,"No, that's all. Thanks.",24,1265,-1,-1,-1
+1,Have a good day.,15,1265,-1,-1,-1
+0,I'd like to search for events.,1,1305,-1,-1,-1
+1,What city should I search in?,2,1305,-1,-1,-1
+0,"I'm looking for events in Phoenix, AZ.",3,1305,-1,-1,-1
+1,"What kind of events would you like to search for? For example, you can ask to search for Music or Sports.",2,1305,-1,-1,-1
+0,I am looking for Sports events.,3,1305,-1,-1,-1
+1,There is an Arizona Vs La Dodgers game at Chase Field.,4,1305,-1,-1,-1
+0,When does it start?,5,1305,-1,-1,-1
+1,It starts at 5:30 pm.,6,1305,-1,-1,-1
+0,That sounds good to me.,16,1305,-1,-1,-1
+1,Would you like to buy tickets?,17,1305,-1,-1,-1
+0,"Maybe later, what day does the game happen?",33,1305,-1,-1,-1
+1,The Arizona Vs La Dodgers game at Chase Field happens tomorrow.,4,1305,-1,-1,-1
+0,What is the address of the venue?,5,1305,-1,-1,-1
+1,The venue is located at 401 East Jefferson Street.,6,1305,-1,-1,-1
+0,That sounds good - I'd like to buy 4 tickets.,25,1305,-1,-1,-1
+1,To review: You'd like to purchase 4 tickets to tomorrow's Arizona Vs La Dodgers game in Phoenix.,11,1305,-1,-1,-1
+0,"Yes, what is the address of the venue again?",12,1305,-1,-1,-1
+1,The venue is located at 401 East Jefferson Street. Your reservation has been made.,13,1305,-1,-1,-1
+0,"That's all I need, thanks.",14,1305,-1,-1,-1
+1,Have a great day.,15,1305,-1,-1,-1
+0,Can you find me songs from the Charlie Puth album Voicenotes?,27,848,-1,-1,-1
+1,I found 2 songs including Attention from the Charlie Puth album Voicenotes.,9,848,-1,-1,-1
+0,Which genre is the song?,5,848,-1,-1,-1
+1,The song is pop.,6,848,-1,-1,-1
+0,What other songs are there?,7,848,-1,-1,-1
+1,There is a song on the Charlie Puth album Voicenotes called The Way I Am.,4,848,-1,-1,-1
+0,That is perfect.,16,848,-1,-1,-1
+1,Do you want to hear the song?,17,848,-1,-1,-1
+0,Yes please!,29,848,-1,-1,-1
+1,Please confirm you want to play The Way I Am on the TV.,11,848,-1,-1,-1
+0,Please play it on the speaker in kitchen.,19,848,-1,-1,-1
+1,Please confirm you want to hear The Way I Am on the kitchen speaker.,11,848,-1,-1,-1
+0,"Actually, play it on the speaker in the bedroom.",19,848,-1,-1,-1
+1,Please confirm you want to play The Way I Am on the bedroom speaker.,11,848,-1,-1,-1
+0,That is correct. What is the genre?,12,848,-1,-1,-1
+1,The song is pop and is playing now.,13,848,-1,-1,-1
+0,Thank you very much.,22,848,-1,-1,-1
+1,May I further assist you?,23,848,-1,-1,-1
+0,"No, that will be all.",24,848,-1,-1,-1
+1,See you soon!,15,848,-1,-1,-1
+0,Can you find me some songs? From any singer.,27,675,-1,-1,-1
+1,I found 10 songs. Would you like to hear California King Bed by from the album Loud by Rihanna?,9,675,-1,-1,-1
+0,What type of song is it.,5,675,-1,-1,-1
+1,It's a Pop song.,6,675,-1,-1,-1
+0,How about something else. Something from Dangerous Woman.,8,675,-1,-1,-1
+1,What about Be Alright by Ariana Grande from Dangerous Woman?,4,675,-1,-1,-1
+0,What kind of song is it?,5,675,-1,-1,-1
+1,It's another Pop song.,6,675,-1,-1,-1
+0,Perfect. Play it on any available device.,25,675,-1,-1,-1
+1,"Okay, shall I play Be Alright on the TV?",11,675,-1,-1,-1
+0,"No, make it the kitchen speaker instead.",19,675,-1,-1,-1
+1,To verify: You would like to hear Be Alright on the kitchen speaker.,11,675,-1,-1,-1
+0,"Yes, that's right.",20,675,-1,-1,-1
+1,The song will start now.,21,675,-1,-1,-1
+0,Thanks! That's all I need for now.,14,675,-1,-1,-1
+1,Have a great day.,15,675,-1,-1,-1
+0,I'd like to search for events.,1,1050,-1,-1,-1
+1,What type of event would you like? I can search for Music or Sports or anything else.,2,1050,-1,-1,-1
+0,I'd like to attend some sort of sports event in Philadelphia.,3,1050,-1,-1,-1
+1,I found 10 events in Philadelphia. How about the Eagles vs Cowboys at the Lincoln Financial Field.,9,1050,-1,-1,-1
+0,Could you find me a baseball event instead?,8,1050,-1,-1,-1
+1,How about the Phillies vs Braves at the Citizens Bank Park,4,1050,-1,-1,-1
+0,"Sounds good to me, could you buy tickets?",10,1050,-1,-1,-1
+1,What date would you like to attend the event? And how many tickets do you need?,2,1050,-1,-1,-1
+0,"I'd like to go on the 9th of this month, and I need enough tickets for two people.",3,1050,-1,-1,-1
+1,Please confirm: You need 2 tickets for the Phillies vs Braves game on March 9th in Philadelphia.,11,1050,-1,-1,-1
+0,"No, sorry, I got a call from some friends. I need four tickets.",19,1050,-1,-1,-1
+1,Please confirm the following change: You need 4 tickets for the game in Philadelphia.,11,1050,-1,-1,-1
+0,"Sounds good to me, where is the venue and when does the event start?",12,1050,-1,-1,-1
+1,"Sorry, I couldn't buy tickets. Could I do anything else for you?",26,1050,-1,-1,-1
+0,"No, thank you for your help.",24,1050,-1,-1,-1
+1,Have a good day.,15,1050,-1,-1,-1
+0,I am looking for events date,1,532,-1,-1,-1
+1,In what city should i search for you and any preference in particular event?,2,532,-1,-1,-1
+0,Please find Celine Dion in SFO,3,532,-1,-1,-1
+1,There are events in the next 7 days. The event for today is Celine Dion at Chase Center Experience,9,532,-1,-1,-1
+0,Any other dates?,7,532,-1,-1,-1
+1,Tomorrow at Chase Center Experience is playing Celine Dion,4,532,-1,-1,-1
+0,Any other dates with Phillies Vs Pirates in Philadelphia?,8,532,-1,-1,-1
+1,There is a event for Phillies Vs Pirates on the day after tomorrow at Citizens Bank park,4,532,-1,-1,-1
+0,When is this event and where?,5,532,-1,-1,-1
+1,The event will start at 7 pm at 1 Citizens bank Way,6,532,-1,-1,-1
+0,"thats great, please book a ticket for me",10,532,-1,-1,-1
+1,how many tickets do you want,2,532,-1,-1,-1
+0,i need 3 tickets,3,532,-1,-1,-1
+1,Please confirm your booking of 3 tickets for Phillies Vs Pirates on the day after tomorrow in Philadelphia,11,532,-1,-1,-1
+0,No i need 2 tickets,19,532,-1,-1,-1
+1,Please confirm you want 2 tickets for Phillies Vs Pirates,11,532,-1,-1,-1
+0,Yes,20,532,-1,-1,-1
+1,This is booked,21,532,-1,-1,-1
+0,THanks,14,532,-1,-1,-1
+1,Have a nice day,15,532,-1,-1,-1
+0,I'd like to find a place to eat with Szcheuan food.,27,159,-1,-1,-1
+1,Where should I search?,2,159,-1,-1,-1
+0,I would like Santa Rosa.,3,159,-1,-1,-1
+1,There are 3 restaurants I found including Gary Chu's in Santa Rosa.,9,159,-1,-1,-1
+0,Tell me the address.,5,159,-1,-1,-1
+1,The address is 611 5th Street.,6,159,-1,-1,-1
+0,That works for me and I'd like to make a reservation at the restaurant.,10,159,-1,-1,-1
+1,Tell me the time for the reservation.,2,159,-1,-1,-1
+0,Make the reservation at 5:30 pm.,3,159,-1,-1,-1
+1,Please let me know if these details are confirmed. I'd like to book a table for 2 today at Gary Chu's in Santa Rosa for 5:30 pm.,11,159,-1,-1,-1
+0,That will work. Is there live music and liquor?,12,159,-1,-1,-1
+1,The reservation is successful having live music and alcohol.,13,159,-1,-1,-1
+0,Thanks so much. That's all that is needed.,14,159,-1,-1,-1
+1,Have a great day.,15,159,-1,-1,-1
+0,I need to observe the motion picture presently. I need to observe Breakthrough.,27,242,-1,-1,-1
+1,If it's not too much trouble affirm the taking after points of interest: play Breakthrough without subtitles,11,242,-1,-1,-1
+0,No. I need to observe it with subtitles. I need to observe The Aftermath.,19,242,-1,-1,-1
+1,If you don't mind affirm the taking after subtle elements The Aftermath : play The Consequence with subtitles,11,242,-1,-1,-1
+0,"Yes, please.",20,242,-1,-1,-1
+1,Begun playing the motion picture.,21,242,-1,-1,-1
+0,Thanks.,22,242,-1,-1,-1
+1,What else can I help?,23,242,-1,-1,-1
+0,No. Thanks.,24,242,-1,-1,-1
+1,Have a great day.,15,242,-1,-1,-1
+0,Can you help me find some event dates?,1,433,-1,-1,-1
+1,"Sure I can, What city would you like for me to search for your event, and do you already have an event in mind?",2,433,-1,-1,-1
+0,"Yes, can you see what dates they have available in San Diego for Hozier?",3,433,-1,-1,-1
+1,I am showing a Hozier event taking place next Monday at Cal Coast Credit Union Amphitheater.,4,433,-1,-1,-1
+0,Are there any other dates available?,7,433,-1,-1,-1
+1,I also have next Tuesday available for Hozier at the Cal Coast Credit Union Amphitheater.,4,433,-1,-1,-1
+0,"That works for me, can you reserve my ticket?",10,433,-1,-1,-1
+1,"Yes I can, how many tickets will you be needing?",2,433,-1,-1,-1
+0,I will only need one ticket please.,3,433,-1,-1,-1
+1,"Okay, I have you 1 ticket reserved for the Hozier event next Tuesday in San Diego, does that sound right?",11,433,-1,-1,-1
+0,"No, I am sorry can I change that to 2 tickets please.",19,433,-1,-1,-1
+1,"No problem, so you will need 2 tickets to this event in San Diego next Tuesday, correct?",11,433,-1,-1,-1
+0,Yes ma'am that is correct.,20,433,-1,-1,-1
+1,Great! Your ticket reservation has been confirmed.,21,433,-1,-1,-1
+0,Awesome! Do you have the address to the venue and what type does the event start?,5,433,-1,-1,-1
+1,The address is 5500 Campanile Drive and the event will begin at 5:30 pm.,6,433,-1,-1,-1
+0,"Good, thank you for all your help today.",22,433,-1,-1,-1
+1,"You are welcome, can I help you with anything else?",23,433,-1,-1,-1
+0,"No, that will be all. Thank you.",24,433,-1,-1,-1
+1,You are welcome and I hope you enjoy your event.,15,433,-1,-1,-1
+0,I need help finding some songs. I'm into Meghan Trainor and Pop songs in general.,27,867,-1,-1,-1
+1,How about All About That Bass by Meghan Trainor off her album Title?,4,867,-1,-1,-1
+0,That sounds pretty good.,16,867,-1,-1,-1
+1,Want to give it a listen now?,17,867,-1,-1,-1
+0,"Sure, why not.",29,867,-1,-1,-1
+1,"Just to make sure, you want to listen to All About that Bass on TV.",11,867,-1,-1,-1
+0,You got it.,20,867,-1,-1,-1
+1,Your music has begun!,21,867,-1,-1,-1
+0,Thanks a lot.,22,867,-1,-1,-1
+1,Anything else I can help out with?,23,867,-1,-1,-1
+0,Not right now thanks.,24,867,-1,-1,-1
+1,Enjoy the rest of your day!,15,867,-1,-1,-1
+0,I'd like to watch a movie right now.,1,254,-1,-1,-1
+1,Is there any movie you have in mind?,2,254,-1,-1,-1
+0,There's a movie called Family. I want to watch that.,3,254,-1,-1,-1
+1,"To be clear, you want to watch Family without subtitles?",11,254,-1,-1,-1
+0,"Yes, that'd be great.",20,254,-1,-1,-1
+1,I'm hitting play on the movie now,21,254,-1,-1,-1
+0,Thanks. I don't need anything else.,14,254,-1,-1,-1
+1,Enjoy your movie.,15,254,-1,-1,-1
