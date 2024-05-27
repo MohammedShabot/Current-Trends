@@ -1,0 +1,2 @@
+
+Additional information: Chunk size: 40, Learning rate: 1e-05, Dropout: 0.7, Speaker info: emb_cls, Topic info: emb_cls

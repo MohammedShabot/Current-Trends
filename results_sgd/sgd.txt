@@ -1,0 +1,19 @@
+Namespace(corpus='sgd', mode='train', nclass=37, batch_size=8, batch_size_val=2, emb_batch=0, epochs=100, gpu='0,1', lr=0.0001, nlayer=1, chunk_size=40, dropout=0.3, speaker_info='none', topic_info='none', nfinetune=1, seed=0)
+Tokenizing train....
+Done
+Tokenizing val....
+Done
+Tokenizing test....
+Done
+Done
+
+Let's use 1 GPUs!
+Initializing model....
+********************Epoch: 1********************
+Batch: 1/149	loss: 3.611	loss_act:3.611
+Batch: 8/149	loss: 3.371	loss_act:3.371
+Batch: 15/149	loss: 3.238	loss_act:3.238
+Batch: 22/149	loss: 3.094	loss_act:3.094
+Batch: 29/149	loss: 2.990	loss_act:2.990
+Batch: 36/149	loss: 2.739	loss_act:2.739
+Batch: 43/149	loss: 2.553	loss_act:2.553

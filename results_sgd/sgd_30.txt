@@ -1,0 +1,1579 @@
+Namespace(corpus='sgd', mode='train', nclass=37, batch_size=8, batch_size_val=2, emb_batch=0, epochs=100, gpu='0,1', lr=1e-05, nlayer=1, chunk_size=40, dropout=0.5, speaker_info='emb_cls', topic_info='none', nfinetune=1, seed=0)
+Tokenizing train....
+Done
+Tokenizing val....
+Done
+Tokenizing test....
+Done
+Done
+
+Let's use 1 GPUs!
+Initializing model....
+********************Epoch: 1********************
+Batch: 1/149	loss: 3.606	loss_act:3.606
+Batch: 8/149	loss: 3.591	loss_act:3.591
+Batch: 15/149	loss: 3.498	loss_act:3.498
+Batch: 22/149	loss: 3.377	loss_act:3.377
+Batch: 29/149	loss: 3.396	loss_act:3.396
+Batch: 36/149	loss: 3.321	loss_act:3.321
+Batch: 43/149	loss: 3.310	loss_act:3.310
+Batch: 50/149	loss: 3.259	loss_act:3.259
+Batch: 57/149	loss: 3.239	loss_act:3.239
+Batch: 64/149	loss: 3.162	loss_act:3.162
+Batch: 71/149	loss: 3.131	loss_act:3.131
+Batch: 78/149	loss: 3.089	loss_act:3.089
+Batch: 85/149	loss: 3.084	loss_act:3.084
+Batch: 92/149	loss: 3.074	loss_act:3.074
+Batch: 99/149	loss: 3.117	loss_act:3.117
+Batch: 106/149	loss: 3.022	loss_act:3.022
+Batch: 113/149	loss: 2.933	loss_act:2.933
+Batch: 120/149	loss: 2.973	loss_act:2.973
+Batch: 127/149	loss: 2.909	loss_act:2.909
+Batch: 134/149	loss: 2.858	loss_act:2.858
+Batch: 141/149	loss: 2.890	loss_act:2.890
+Batch: 148/149	loss: 2.807	loss_act:2.807
+Batch: 149/149	loss: 2.928	loss_act:2.928
+Epoch 1	Train Loss: 3.155	Val Acc: 0.222	Test Acc: 0.149
+Best Epoch: 1	Best Epoch Val Acc: 0.222	Best Epoch Test Acc: 0.149, Best Test Acc: 0.149
+
+********************Epoch: 2********************
+Batch: 1/149	loss: 2.756	loss_act:2.756
+Batch: 8/149	loss: 2.724	loss_act:2.724
+Batch: 15/149	loss: 2.781	loss_act:2.781
+Batch: 22/149	loss: 2.776	loss_act:2.776
+Batch: 29/149	loss: 2.715	loss_act:2.715
+Batch: 36/149	loss: 2.635	loss_act:2.635
+Batch: 43/149	loss: 2.712	loss_act:2.712
+Batch: 50/149	loss: 2.645	loss_act:2.645
+Batch: 57/149	loss: 2.700	loss_act:2.700
+Batch: 64/149	loss: 2.635	loss_act:2.635
+Batch: 71/149	loss: 2.538	loss_act:2.538
+Batch: 78/149	loss: 2.515	loss_act:2.515
+Batch: 85/149	loss: 2.298	loss_act:2.298
+Batch: 92/149	loss: 2.365	loss_act:2.365
+Batch: 99/149	loss: 2.429	loss_act:2.429
+Batch: 106/149	loss: 2.378	loss_act:2.378
+Batch: 113/149	loss: 2.274	loss_act:2.274
+Batch: 120/149	loss: 2.133	loss_act:2.133
+Batch: 127/149	loss: 2.186	loss_act:2.186
+Batch: 134/149	loss: 2.129	loss_act:2.129
+Batch: 141/149	loss: 2.080	loss_act:2.080
+Batch: 148/149	loss: 2.133	loss_act:2.133
+Batch: 149/149	loss: 2.186	loss_act:2.186
+Epoch 2	Train Loss: 2.502	Val Acc: 0.456	Test Acc: 0.227
+Best Epoch: 2	Best Epoch Val Acc: 0.456	Best Epoch Test Acc: 0.227, Best Test Acc: 0.227
+
+********************Epoch: 3********************
+Batch: 1/149	loss: 2.107	loss_act:2.107
+Batch: 8/149	loss: 1.973	loss_act:1.973
+Batch: 15/149	loss: 2.035	loss_act:2.035
+Batch: 22/149	loss: 1.839	loss_act:1.839
+Batch: 29/149	loss: 1.890	loss_act:1.890
+Batch: 36/149	loss: 1.869	loss_act:1.869
+Batch: 43/149	loss: 1.846	loss_act:1.846
+Batch: 50/149	loss: 1.866	loss_act:1.866
+Batch: 57/149	loss: 1.741	loss_act:1.741
+Batch: 64/149	loss: 1.771	loss_act:1.771
+Batch: 71/149	loss: 1.727	loss_act:1.727
+Batch: 78/149	loss: 1.654	loss_act:1.654
+Batch: 85/149	loss: 1.619	loss_act:1.619
+Batch: 92/149	loss: 1.449	loss_act:1.449
+Batch: 99/149	loss: 1.532	loss_act:1.532
+Batch: 106/149	loss: 1.491	loss_act:1.491
+Batch: 113/149	loss: 1.460	loss_act:1.460
+Batch: 120/149	loss: 1.368	loss_act:1.368
+Batch: 127/149	loss: 1.403	loss_act:1.403
+Batch: 134/149	loss: 1.395	loss_act:1.395
+Batch: 141/149	loss: 1.296	loss_act:1.296
+Batch: 148/149	loss: 1.248	loss_act:1.248
+Batch: 149/149	loss: 1.286	loss_act:1.286
+Epoch 3	Train Loss: 1.653	Val Acc: 0.778	Test Acc: 0.244
+Best Epoch: 3	Best Epoch Val Acc: 0.778	Best Epoch Test Acc: 0.244, Best Test Acc: 0.244
+
+********************Epoch: 4********************
+Batch: 1/149	loss: 1.269	loss_act:1.269
+Batch: 8/149	loss: 1.179	loss_act:1.179
+Batch: 15/149	loss: 1.225	loss_act:1.225
+Batch: 22/149	loss: 1.269	loss_act:1.269
+Batch: 29/149	loss: 1.269	loss_act:1.269
+Batch: 36/149	loss: 1.103	loss_act:1.103
+Batch: 43/149	loss: 1.141	loss_act:1.141
+Batch: 50/149	loss: 1.044	loss_act:1.044
+Batch: 57/149	loss: 1.079	loss_act:1.079
+Batch: 64/149	loss: 1.123	loss_act:1.123
+Batch: 71/149	loss: 1.086	loss_act:1.086
+Batch: 78/149	loss: 1.123	loss_act:1.123
+Batch: 85/149	loss: 1.013	loss_act:1.013
+Batch: 92/149	loss: 1.059	loss_act:1.059
+Batch: 99/149	loss: 1.062	loss_act:1.062
+Batch: 106/149	loss: 1.033	loss_act:1.033
+Batch: 113/149	loss: 1.050	loss_act:1.050
+Batch: 120/149	loss: 0.933	loss_act:0.933
+Batch: 127/149	loss: 1.031	loss_act:1.031
+Batch: 134/149	loss: 0.929	loss_act:0.929
+Batch: 141/149	loss: 0.889	loss_act:0.889
+Batch: 148/149	loss: 0.977	loss_act:0.977
+Batch: 149/149	loss: 0.869	loss_act:0.869
+Epoch 4	Train Loss: 1.070	Val Acc: 0.866	Test Acc: 0.251
+Best Epoch: 4	Best Epoch Val Acc: 0.866	Best Epoch Test Acc: 0.251, Best Test Acc: 0.251
+
+********************Epoch: 5********************
+Batch: 1/149	loss: 0.840	loss_act:0.840
+Batch: 8/149	loss: 0.954	loss_act:0.954
+Batch: 15/149	loss: 0.860	loss_act:0.860
+Batch: 22/149	loss: 0.882	loss_act:0.882
+Batch: 29/149	loss: 0.817	loss_act:0.817
+Batch: 36/149	loss: 0.781	loss_act:0.781
+Batch: 43/149	loss: 0.758	loss_act:0.758
+Batch: 50/149	loss: 0.906	loss_act:0.906
+Batch: 57/149	loss: 0.736	loss_act:0.736
+Batch: 64/149	loss: 0.744	loss_act:0.744
+Batch: 71/149	loss: 0.677	loss_act:0.677
+Batch: 78/149	loss: 0.705	loss_act:0.705
+Batch: 85/149	loss: 0.761	loss_act:0.761
+Batch: 92/149	loss: 0.725	loss_act:0.725
+Batch: 99/149	loss: 0.698	loss_act:0.698
+Batch: 106/149	loss: 0.716	loss_act:0.716
+Batch: 113/149	loss: 0.630	loss_act:0.630
+Batch: 120/149	loss: 0.873	loss_act:0.873
+Batch: 127/149	loss: 0.692	loss_act:0.692
+Batch: 134/149	loss: 0.641	loss_act:0.641
+Batch: 141/149	loss: 0.619	loss_act:0.619
+Batch: 148/149	loss: 0.683	loss_act:0.683
+Batch: 149/149	loss: 0.703	loss_act:0.703
+Epoch 5	Train Loss: 0.751	Val Acc: 0.913	Test Acc: 0.254
+Best Epoch: 5	Best Epoch Val Acc: 0.913	Best Epoch Test Acc: 0.254, Best Test Acc: 0.254
+
+********************Epoch: 6********************
+Batch: 1/149	loss: 0.667	loss_act:0.667
+Batch: 8/149	loss: 0.605	loss_act:0.605
+Batch: 15/149	loss: 0.557	loss_act:0.557
+Batch: 22/149	loss: 0.626	loss_act:0.626
+Batch: 29/149	loss: 0.640	loss_act:0.640
+Batch: 36/149	loss: 0.574	loss_act:0.574
+Batch: 43/149	loss: 0.557	loss_act:0.557
+Batch: 50/149	loss: 0.523	loss_act:0.523
+Batch: 57/149	loss: 0.609	loss_act:0.609
+Batch: 64/149	loss: 0.538	loss_act:0.538
+Batch: 71/149	loss: 0.596	loss_act:0.596
+Batch: 78/149	loss: 0.607	loss_act:0.607
+Batch: 85/149	loss: 0.489	loss_act:0.489
+Batch: 92/149	loss: 0.481	loss_act:0.481
+Batch: 99/149	loss: 0.506	loss_act:0.506
+Batch: 106/149	loss: 0.646	loss_act:0.646
+Batch: 113/149	loss: 0.456	loss_act:0.456
+Batch: 120/149	loss: 0.553	loss_act:0.553
+Batch: 127/149	loss: 0.503	loss_act:0.503
+Batch: 134/149	loss: 0.545	loss_act:0.545
+Batch: 141/149	loss: 0.419	loss_act:0.419
+Batch: 148/149	loss: 0.451	loss_act:0.451
+Batch: 149/149	loss: 0.476	loss_act:0.476
+Epoch 6	Train Loss: 0.560	Val Acc: 0.941	Test Acc: 0.247
+Best Epoch: 6	Best Epoch Val Acc: 0.941	Best Epoch Test Acc: 0.247, Best Test Acc: 0.254
+
+********************Epoch: 7********************
+Batch: 1/149	loss: 0.534	loss_act:0.534
+Batch: 8/149	loss: 0.490	loss_act:0.490
+Batch: 15/149	loss: 0.404	loss_act:0.404
+Batch: 22/149	loss: 0.478	loss_act:0.478
+Batch: 29/149	loss: 0.465	loss_act:0.465
+Batch: 36/149	loss: 0.544	loss_act:0.544
+Batch: 43/149	loss: 0.456	loss_act:0.456
+Batch: 50/149	loss: 0.482	loss_act:0.482
+Batch: 57/149	loss: 0.430	loss_act:0.430
+Batch: 64/149	loss: 0.414	loss_act:0.414
+Batch: 71/149	loss: 0.446	loss_act:0.446
+Batch: 78/149	loss: 0.408	loss_act:0.408
+Batch: 85/149	loss: 0.406	loss_act:0.406
+Batch: 92/149	loss: 0.522	loss_act:0.522
+Batch: 99/149	loss: 0.368	loss_act:0.368
+Batch: 106/149	loss: 0.396	loss_act:0.396
+Batch: 113/149	loss: 0.456	loss_act:0.456
+Batch: 120/149	loss: 0.431	loss_act:0.431
+Batch: 127/149	loss: 0.403	loss_act:0.403
+Batch: 134/149	loss: 0.417	loss_act:0.417
+Batch: 141/149	loss: 0.352	loss_act:0.352
+Batch: 148/149	loss: 0.384	loss_act:0.384
+Batch: 149/149	loss: 0.355	loss_act:0.355
+Epoch 7	Train Loss: 0.436	Val Acc: 0.953	Test Acc: 0.248
+Best Epoch: 7	Best Epoch Val Acc: 0.953	Best Epoch Test Acc: 0.248, Best Test Acc: 0.254
+
+********************Epoch: 8********************
+Batch: 1/149	loss: 0.379	loss_act:0.379
+Batch: 8/149	loss: 0.364	loss_act:0.364
+Batch: 15/149	loss: 0.298	loss_act:0.298
+Batch: 22/149	loss: 0.410	loss_act:0.410
+Batch: 29/149	loss: 0.340	loss_act:0.340
+Batch: 36/149	loss: 0.329	loss_act:0.329
+Batch: 43/149	loss: 0.290	loss_act:0.290
+Batch: 50/149	loss: 0.378	loss_act:0.378
+Batch: 57/149	loss: 0.309	loss_act:0.309
+Batch: 64/149	loss: 0.307	loss_act:0.307
+Batch: 71/149	loss: 0.376	loss_act:0.376
+Batch: 78/149	loss: 0.279	loss_act:0.279
+Batch: 85/149	loss: 0.305	loss_act:0.305
+Batch: 92/149	loss: 0.417	loss_act:0.417
+Batch: 99/149	loss: 0.343	loss_act:0.343
+Batch: 106/149	loss: 0.318	loss_act:0.318
+Batch: 113/149	loss: 0.296	loss_act:0.296
+Batch: 120/149	loss: 0.232	loss_act:0.232
+Batch: 127/149	loss: 0.361	loss_act:0.361
+Batch: 134/149	loss: 0.324	loss_act:0.324
+Batch: 141/149	loss: 0.285	loss_act:0.285
+Batch: 148/149	loss: 0.243	loss_act:0.243
+Batch: 149/149	loss: 0.263	loss_act:0.263
+Epoch 8	Train Loss: 0.351	Val Acc: 0.961	Test Acc: 0.245
+Best Epoch: 8	Best Epoch Val Acc: 0.961	Best Epoch Test Acc: 0.245, Best Test Acc: 0.254
+
+********************Epoch: 9********************
+Batch: 1/149	loss: 0.378	loss_act:0.378
+Batch: 8/149	loss: 0.294	loss_act:0.294
+Batch: 15/149	loss: 0.399	loss_act:0.399
+Batch: 22/149	loss: 0.358	loss_act:0.358
+Batch: 29/149	loss: 0.324	loss_act:0.324
+Batch: 36/149	loss: 0.208	loss_act:0.208
+Batch: 43/149	loss: 0.268	loss_act:0.268
+Batch: 50/149	loss: 0.285	loss_act:0.285
+Batch: 57/149	loss: 0.271	loss_act:0.271
+Batch: 64/149	loss: 0.367	loss_act:0.367
+Batch: 71/149	loss: 0.256	loss_act:0.256
+Batch: 78/149	loss: 0.282	loss_act:0.282
+Batch: 85/149	loss: 0.274	loss_act:0.274
+Batch: 92/149	loss: 0.401	loss_act:0.401
+Batch: 99/149	loss: 0.315	loss_act:0.315
+Batch: 106/149	loss: 0.270	loss_act:0.270
+Batch: 113/149	loss: 0.239	loss_act:0.239
+Batch: 120/149	loss: 0.279	loss_act:0.279
+Batch: 127/149	loss: 0.257	loss_act:0.257
+Batch: 134/149	loss: 0.211	loss_act:0.211
+Batch: 141/149	loss: 0.331	loss_act:0.331
+Batch: 148/149	loss: 0.395	loss_act:0.395
+Batch: 149/149	loss: 0.267	loss_act:0.267
+Epoch 9	Train Loss: 0.290	Val Acc: 0.966	Test Acc: 0.245
+Best Epoch: 9	Best Epoch Val Acc: 0.966	Best Epoch Test Acc: 0.245, Best Test Acc: 0.254
+
+********************Epoch: 10********************
+Batch: 1/149	loss: 0.256	loss_act:0.256
+Batch: 8/149	loss: 0.301	loss_act:0.301
+Batch: 15/149	loss: 0.259	loss_act:0.259
+Batch: 22/149	loss: 0.257	loss_act:0.257
+Batch: 29/149	loss: 0.283	loss_act:0.283
+Batch: 36/149	loss: 0.251	loss_act:0.251
+Batch: 43/149	loss: 0.433	loss_act:0.433
+Batch: 50/149	loss: 0.225	loss_act:0.225
+Batch: 57/149	loss: 0.230	loss_act:0.230
+Batch: 64/149	loss: 0.278	loss_act:0.278
+Batch: 71/149	loss: 0.212	loss_act:0.212
+Batch: 78/149	loss: 0.402	loss_act:0.402
+Batch: 85/149	loss: 0.184	loss_act:0.184
+Batch: 92/149	loss: 0.228	loss_act:0.228
+Batch: 99/149	loss: 0.299	loss_act:0.299
+Batch: 106/149	loss: 0.186	loss_act:0.186
+Batch: 113/149	loss: 0.309	loss_act:0.309
+Batch: 120/149	loss: 0.183	loss_act:0.183
+Batch: 127/149	loss: 0.288	loss_act:0.288
+Batch: 134/149	loss: 0.282	loss_act:0.282
+Batch: 141/149	loss: 0.201	loss_act:0.201
+Batch: 148/149	loss: 0.238	loss_act:0.238
+Batch: 149/149	loss: 0.194	loss_act:0.194
+Epoch 10	Train Loss: 0.244	Val Acc: 0.971	Test Acc: 0.243
+Best Epoch: 10	Best Epoch Val Acc: 0.971	Best Epoch Test Acc: 0.243, Best Test Acc: 0.254
+
+********************Epoch: 11********************
+Batch: 1/149	loss: 0.278	loss_act:0.278
+Batch: 8/149	loss: 0.238	loss_act:0.238
+Batch: 15/149	loss: 0.259	loss_act:0.259
+Batch: 22/149	loss: 0.176	loss_act:0.176
+Batch: 29/149	loss: 0.169	loss_act:0.169
+Batch: 36/149	loss: 0.174	loss_act:0.174
+Batch: 43/149	loss: 0.196	loss_act:0.196
+Batch: 50/149	loss: 0.224	loss_act:0.224
+Batch: 57/149	loss: 0.292	loss_act:0.292
+Batch: 64/149	loss: 0.203	loss_act:0.203
+Batch: 71/149	loss: 0.286	loss_act:0.286
+Batch: 78/149	loss: 0.204	loss_act:0.204
+Batch: 85/149	loss: 0.176	loss_act:0.176
+Batch: 92/149	loss: 0.208	loss_act:0.208
+Batch: 99/149	loss: 0.182	loss_act:0.182
+Batch: 106/149	loss: 0.186	loss_act:0.186
+Batch: 113/149	loss: 0.161	loss_act:0.161
+Batch: 120/149	loss: 0.216	loss_act:0.216
+Batch: 127/149	loss: 0.290	loss_act:0.290
+Batch: 134/149	loss: 0.150	loss_act:0.150
+Batch: 141/149	loss: 0.216	loss_act:0.216
+Batch: 148/149	loss: 0.189	loss_act:0.189
+Batch: 149/149	loss: 0.230	loss_act:0.230
+Epoch 11	Train Loss: 0.207	Val Acc: 0.976	Test Acc: 0.242
+Best Epoch: 11	Best Epoch Val Acc: 0.976	Best Epoch Test Acc: 0.242, Best Test Acc: 0.254
+
+********************Epoch: 12********************
+Batch: 1/149	loss: 0.196	loss_act:0.196
+Batch: 8/149	loss: 0.216	loss_act:0.216
+Batch: 15/149	loss: 0.178	loss_act:0.178
+Batch: 22/149	loss: 0.230	loss_act:0.230
+Batch: 29/149	loss: 0.181	loss_act:0.181
+Batch: 36/149	loss: 0.149	loss_act:0.149
+Batch: 43/149	loss: 0.170	loss_act:0.170
+Batch: 50/149	loss: 0.157	loss_act:0.157
+Batch: 57/149	loss: 0.170	loss_act:0.170
+Batch: 64/149	loss: 0.212	loss_act:0.212
+Batch: 71/149	loss: 0.225	loss_act:0.225
+Batch: 78/149	loss: 0.218	loss_act:0.218
+Batch: 85/149	loss: 0.191	loss_act:0.191
+Batch: 92/149	loss: 0.146	loss_act:0.146
+Batch: 99/149	loss: 0.146	loss_act:0.146
+Batch: 106/149	loss: 0.161	loss_act:0.161
+Batch: 113/149	loss: 0.163	loss_act:0.163
+Batch: 120/149	loss: 0.151	loss_act:0.151
+Batch: 127/149	loss: 0.125	loss_act:0.125
+Batch: 134/149	loss: 0.154	loss_act:0.154
+Batch: 141/149	loss: 0.208	loss_act:0.208
+Batch: 148/149	loss: 0.166	loss_act:0.166
+Batch: 149/149	loss: 0.159	loss_act:0.159
+Epoch 12	Train Loss: 0.179	Val Acc: 0.978	Test Acc: 0.242
+Best Epoch: 12	Best Epoch Val Acc: 0.978	Best Epoch Test Acc: 0.242, Best Test Acc: 0.254
+
+********************Epoch: 13********************
+Batch: 1/149	loss: 0.210	loss_act:0.210
+Batch: 8/149	loss: 0.128	loss_act:0.128
+Batch: 15/149	loss: 0.130	loss_act:0.130
+Batch: 22/149	loss: 0.108	loss_act:0.108
+Batch: 29/149	loss: 0.133	loss_act:0.133
+Batch: 36/149	loss: 0.219	loss_act:0.219
+Batch: 43/149	loss: 0.147	loss_act:0.147
+Batch: 50/149	loss: 0.200	loss_act:0.200
+Batch: 57/149	loss: 0.154	loss_act:0.154
+Batch: 64/149	loss: 0.149	loss_act:0.149
+Batch: 71/149	loss: 0.122	loss_act:0.122
+Batch: 78/149	loss: 0.161	loss_act:0.161
+Batch: 85/149	loss: 0.099	loss_act:0.099
+Batch: 92/149	loss: 0.208	loss_act:0.208
+Batch: 99/149	loss: 0.145	loss_act:0.145
+Batch: 106/149	loss: 0.121	loss_act:0.121
+Batch: 113/149	loss: 0.162	loss_act:0.162
+Batch: 120/149	loss: 0.148	loss_act:0.148
+Batch: 127/149	loss: 0.116	loss_act:0.116
+Batch: 134/149	loss: 0.153	loss_act:0.153
+Batch: 141/149	loss: 0.191	loss_act:0.191
+Batch: 148/149	loss: 0.118	loss_act:0.118
+Batch: 149/149	loss: 0.137	loss_act:0.137
+Epoch 13	Train Loss: 0.158	Val Acc: 0.980	Test Acc: 0.242
+Best Epoch: 13	Best Epoch Val Acc: 0.980	Best Epoch Test Acc: 0.242, Best Test Acc: 0.254
+
+********************Epoch: 14********************
+Batch: 1/149	loss: 0.093	loss_act:0.093
+Batch: 8/149	loss: 0.174	loss_act:0.174
+Batch: 15/149	loss: 0.146	loss_act:0.146
+Batch: 22/149	loss: 0.235	loss_act:0.235
+Batch: 29/149	loss: 0.136	loss_act:0.136
+Batch: 36/149	loss: 0.147	loss_act:0.147
+Batch: 43/149	loss: 0.114	loss_act:0.114
+Batch: 50/149	loss: 0.083	loss_act:0.083
+Batch: 57/149	loss: 0.117	loss_act:0.117
+Batch: 64/149	loss: 0.121	loss_act:0.121
+Batch: 71/149	loss: 0.223	loss_act:0.223
+Batch: 78/149	loss: 0.121	loss_act:0.121
+Batch: 85/149	loss: 0.100	loss_act:0.100
+Batch: 92/149	loss: 0.164	loss_act:0.164
+Batch: 99/149	loss: 0.115	loss_act:0.115
+Batch: 106/149	loss: 0.155	loss_act:0.155
+Batch: 113/149	loss: 0.165	loss_act:0.165
+Batch: 120/149	loss: 0.087	loss_act:0.087
+Batch: 127/149	loss: 0.139	loss_act:0.139
+Batch: 134/149	loss: 0.110	loss_act:0.110
+Batch: 141/149	loss: 0.180	loss_act:0.180
+Batch: 148/149	loss: 0.092	loss_act:0.092
+Batch: 149/149	loss: 0.130	loss_act:0.130
+Epoch 14	Train Loss: 0.140	Val Acc: 0.983	Test Acc: 0.242
+Best Epoch: 14	Best Epoch Val Acc: 0.983	Best Epoch Test Acc: 0.242, Best Test Acc: 0.254
+
+********************Epoch: 15********************
+Batch: 1/149	loss: 0.152	loss_act:0.152
+Batch: 8/149	loss: 0.085	loss_act:0.085
+Batch: 15/149	loss: 0.151	loss_act:0.151
+Batch: 22/149	loss: 0.154	loss_act:0.154
+Batch: 29/149	loss: 0.118	loss_act:0.118
+Batch: 36/149	loss: 0.133	loss_act:0.133
+Batch: 43/149	loss: 0.120	loss_act:0.120
+Batch: 50/149	loss: 0.186	loss_act:0.186
+Batch: 57/149	loss: 0.094	loss_act:0.094
+Batch: 64/149	loss: 0.089	loss_act:0.089
+Batch: 71/149	loss: 0.126	loss_act:0.126
+Batch: 78/149	loss: 0.164	loss_act:0.164
+Batch: 85/149	loss: 0.122	loss_act:0.122
+Batch: 92/149	loss: 0.139	loss_act:0.139
+Batch: 99/149	loss: 0.112	loss_act:0.112
+Batch: 106/149	loss: 0.155	loss_act:0.155
+Batch: 113/149	loss: 0.174	loss_act:0.174
+Batch: 120/149	loss: 0.131	loss_act:0.131
+Batch: 127/149	loss: 0.139	loss_act:0.139
+Batch: 134/149	loss: 0.148	loss_act:0.148
+Batch: 141/149	loss: 0.146	loss_act:0.146
+Batch: 148/149	loss: 0.122	loss_act:0.122
+Batch: 149/149	loss: 0.129	loss_act:0.129
+Epoch 15	Train Loss: 0.126	Val Acc: 0.984	Test Acc: 0.242
+Best Epoch: 15	Best Epoch Val Acc: 0.984	Best Epoch Test Acc: 0.242, Best Test Acc: 0.254
+
+********************Epoch: 16********************
+Batch: 1/149	loss: 0.137	loss_act:0.137
+Batch: 8/149	loss: 0.082	loss_act:0.082
+Batch: 15/149	loss: 0.087	loss_act:0.087
+Batch: 22/149	loss: 0.100	loss_act:0.100
+Batch: 29/149	loss: 0.057	loss_act:0.057
+Batch: 36/149	loss: 0.086	loss_act:0.086
+Batch: 43/149	loss: 0.125	loss_act:0.125
+Batch: 50/149	loss: 0.117	loss_act:0.117
+Batch: 57/149	loss: 0.118	loss_act:0.118
+Batch: 64/149	loss: 0.090	loss_act:0.090
+Batch: 71/149	loss: 0.078	loss_act:0.078
+Batch: 78/149	loss: 0.076	loss_act:0.076
+Batch: 85/149	loss: 0.149	loss_act:0.149
+Batch: 92/149	loss: 0.091	loss_act:0.091
+Batch: 99/149	loss: 0.083	loss_act:0.083
+Batch: 106/149	loss: 0.159	loss_act:0.159
+Batch: 113/149	loss: 0.086	loss_act:0.086
+Batch: 120/149	loss: 0.060	loss_act:0.060
+Batch: 127/149	loss: 0.102	loss_act:0.102
+Batch: 134/149	loss: 0.101	loss_act:0.101
+Batch: 141/149	loss: 0.138	loss_act:0.138
+Batch: 148/149	loss: 0.066	loss_act:0.066
+Batch: 149/149	loss: 0.100	loss_act:0.100
+Epoch 16	Train Loss: 0.113	Val Acc: 0.988	Test Acc: 0.241
+Best Epoch: 16	Best Epoch Val Acc: 0.988	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 17********************
+Batch: 1/149	loss: 0.080	loss_act:0.080
+Batch: 8/149	loss: 0.123	loss_act:0.123
+Batch: 15/149	loss: 0.076	loss_act:0.076
+Batch: 22/149	loss: 0.082	loss_act:0.082
+Batch: 29/149	loss: 0.088	loss_act:0.088
+Batch: 36/149	loss: 0.077	loss_act:0.077
+Batch: 43/149	loss: 0.077	loss_act:0.077
+Batch: 50/149	loss: 0.099	loss_act:0.099
+Batch: 57/149	loss: 0.108	loss_act:0.108
+Batch: 64/149	loss: 0.100	loss_act:0.100
+Batch: 71/149	loss: 0.103	loss_act:0.103
+Batch: 78/149	loss: 0.074	loss_act:0.074
+Batch: 85/149	loss: 0.119	loss_act:0.119
+Batch: 92/149	loss: 0.097	loss_act:0.097
+Batch: 99/149	loss: 0.101	loss_act:0.101
+Batch: 106/149	loss: 0.110	loss_act:0.110
+Batch: 113/149	loss: 0.102	loss_act:0.102
+Batch: 120/149	loss: 0.105	loss_act:0.105
+Batch: 127/149	loss: 0.105	loss_act:0.105
+Batch: 134/149	loss: 0.070	loss_act:0.070
+Batch: 141/149	loss: 0.079	loss_act:0.079
+Batch: 148/149	loss: 0.085	loss_act:0.085
+Batch: 149/149	loss: 0.121	loss_act:0.121
+Epoch 17	Train Loss: 0.101	Val Acc: 0.989	Test Acc: 0.242
+Best Epoch: 17	Best Epoch Val Acc: 0.989	Best Epoch Test Acc: 0.242, Best Test Acc: 0.254
+
+********************Epoch: 18********************
+Batch: 1/149	loss: 0.067	loss_act:0.067
+Batch: 8/149	loss: 0.063	loss_act:0.063
+Batch: 15/149	loss: 0.095	loss_act:0.095
+Batch: 22/149	loss: 0.065	loss_act:0.065
+Batch: 29/149	loss: 0.076	loss_act:0.076
+Batch: 36/149	loss: 0.072	loss_act:0.072
+Batch: 43/149	loss: 0.061	loss_act:0.061
+Batch: 50/149	loss: 0.059	loss_act:0.059
+Batch: 57/149	loss: 0.102	loss_act:0.102
+Batch: 64/149	loss: 0.142	loss_act:0.142
+Batch: 71/149	loss: 0.118	loss_act:0.118
+Batch: 78/149	loss: 0.094	loss_act:0.094
+Batch: 85/149	loss: 0.110	loss_act:0.110
+Batch: 92/149	loss: 0.056	loss_act:0.056
+Batch: 99/149	loss: 0.070	loss_act:0.070
+Batch: 106/149	loss: 0.100	loss_act:0.100
+Batch: 113/149	loss: 0.069	loss_act:0.069
+Batch: 120/149	loss: 0.069	loss_act:0.069
+Batch: 127/149	loss: 0.054	loss_act:0.054
+Batch: 134/149	loss: 0.096	loss_act:0.096
+Batch: 141/149	loss: 0.072	loss_act:0.072
+Batch: 148/149	loss: 0.075	loss_act:0.075
+Batch: 149/149	loss: 0.130	loss_act:0.130
+Epoch 18	Train Loss: 0.091	Val Acc: 0.990	Test Acc: 0.242
+Best Epoch: 18	Best Epoch Val Acc: 0.990	Best Epoch Test Acc: 0.242, Best Test Acc: 0.254
+
+********************Epoch: 19********************
+Batch: 1/149	loss: 0.089	loss_act:0.089
+Batch: 8/149	loss: 0.086	loss_act:0.086
+Batch: 15/149	loss: 0.072	loss_act:0.072
+Batch: 22/149	loss: 0.120	loss_act:0.120
+Batch: 29/149	loss: 0.087	loss_act:0.087
+Batch: 36/149	loss: 0.137	loss_act:0.137
+Batch: 43/149	loss: 0.068	loss_act:0.068
+Batch: 50/149	loss: 0.081	loss_act:0.081
+Batch: 57/149	loss: 0.122	loss_act:0.122
+Batch: 64/149	loss: 0.115	loss_act:0.115
+Batch: 71/149	loss: 0.056	loss_act:0.056
+Batch: 78/149	loss: 0.165	loss_act:0.165
+Batch: 85/149	loss: 0.112	loss_act:0.112
+Batch: 92/149	loss: 0.121	loss_act:0.121
+Batch: 99/149	loss: 0.083	loss_act:0.083
+Batch: 106/149	loss: 0.111	loss_act:0.111
+Batch: 113/149	loss: 0.049	loss_act:0.049
+Batch: 120/149	loss: 0.170	loss_act:0.170
+Batch: 127/149	loss: 0.090	loss_act:0.090
+Batch: 134/149	loss: 0.056	loss_act:0.056
+Batch: 141/149	loss: 0.040	loss_act:0.040
+Batch: 148/149	loss: 0.078	loss_act:0.078
+Batch: 149/149	loss: 0.097	loss_act:0.097
+Epoch 19	Train Loss: 0.083	Val Acc: 0.991	Test Acc: 0.242
+Best Epoch: 19	Best Epoch Val Acc: 0.991	Best Epoch Test Acc: 0.242, Best Test Acc: 0.254
+
+********************Epoch: 20********************
+Batch: 1/149	loss: 0.095	loss_act:0.095
+Batch: 8/149	loss: 0.077	loss_act:0.077
+Batch: 15/149	loss: 0.086	loss_act:0.086
+Batch: 22/149	loss: 0.049	loss_act:0.049
+Batch: 29/149	loss: 0.054	loss_act:0.054
+Batch: 36/149	loss: 0.047	loss_act:0.047
+Batch: 43/149	loss: 0.085	loss_act:0.085
+Batch: 50/149	loss: 0.143	loss_act:0.143
+Batch: 57/149	loss: 0.068	loss_act:0.068
+Batch: 64/149	loss: 0.053	loss_act:0.053
+Batch: 71/149	loss: 0.124	loss_act:0.124
+Batch: 78/149	loss: 0.193	loss_act:0.193
+Batch: 85/149	loss: 0.092	loss_act:0.092
+Batch: 92/149	loss: 0.079	loss_act:0.079
+Batch: 99/149	loss: 0.065	loss_act:0.065
+Batch: 106/149	loss: 0.101	loss_act:0.101
+Batch: 113/149	loss: 0.057	loss_act:0.057
+Batch: 120/149	loss: 0.070	loss_act:0.070
+Batch: 127/149	loss: 0.048	loss_act:0.048
+Batch: 134/149	loss: 0.059	loss_act:0.059
+Batch: 141/149	loss: 0.044	loss_act:0.044
+Batch: 148/149	loss: 0.041	loss_act:0.041
+Batch: 149/149	loss: 0.080	loss_act:0.080
+Epoch 20	Train Loss: 0.075	Val Acc: 0.991	Test Acc: 0.241
+Best Epoch: 20	Best Epoch Val Acc: 0.991	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 21********************
+Batch: 1/149	loss: 0.032	loss_act:0.032
+Batch: 8/149	loss: 0.049	loss_act:0.049
+Batch: 15/149	loss: 0.054	loss_act:0.054
+Batch: 22/149	loss: 0.038	loss_act:0.038
+Batch: 29/149	loss: 0.053	loss_act:0.053
+Batch: 36/149	loss: 0.080	loss_act:0.080
+Batch: 43/149	loss: 0.044	loss_act:0.044
+Batch: 50/149	loss: 0.046	loss_act:0.046
+Batch: 57/149	loss: 0.063	loss_act:0.063
+Batch: 64/149	loss: 0.063	loss_act:0.063
+Batch: 71/149	loss: 0.056	loss_act:0.056
+Batch: 78/149	loss: 0.103	loss_act:0.103
+Batch: 85/149	loss: 0.062	loss_act:0.062
+Batch: 92/149	loss: 0.090	loss_act:0.090
+Batch: 99/149	loss: 0.074	loss_act:0.074
+Batch: 106/149	loss: 0.041	loss_act:0.041
+Batch: 113/149	loss: 0.047	loss_act:0.047
+Batch: 120/149	loss: 0.080	loss_act:0.080
+Batch: 127/149	loss: 0.046	loss_act:0.046
+Batch: 134/149	loss: 0.072	loss_act:0.072
+Batch: 141/149	loss: 0.037	loss_act:0.037
+Batch: 148/149	loss: 0.041	loss_act:0.041
+Batch: 149/149	loss: 0.058	loss_act:0.058
+Epoch 21	Train Loss: 0.070	Val Acc: 0.992	Test Acc: 0.242
+Best Epoch: 21	Best Epoch Val Acc: 0.992	Best Epoch Test Acc: 0.242, Best Test Acc: 0.254
+
+********************Epoch: 22********************
+Batch: 1/149	loss: 0.065	loss_act:0.065
+Batch: 8/149	loss: 0.089	loss_act:0.089
+Batch: 15/149	loss: 0.059	loss_act:0.059
+Batch: 22/149	loss: 0.054	loss_act:0.054
+Batch: 29/149	loss: 0.100	loss_act:0.100
+Batch: 36/149	loss: 0.034	loss_act:0.034
+Batch: 43/149	loss: 0.103	loss_act:0.103
+Batch: 50/149	loss: 0.081	loss_act:0.081
+Batch: 57/149	loss: 0.033	loss_act:0.033
+Batch: 64/149	loss: 0.094	loss_act:0.094
+Batch: 71/149	loss: 0.056	loss_act:0.056
+Batch: 78/149	loss: 0.084	loss_act:0.084
+Batch: 85/149	loss: 0.058	loss_act:0.058
+Batch: 92/149	loss: 0.045	loss_act:0.045
+Batch: 99/149	loss: 0.050	loss_act:0.050
+Batch: 106/149	loss: 0.040	loss_act:0.040
+Batch: 113/149	loss: 0.081	loss_act:0.081
+Batch: 120/149	loss: 0.073	loss_act:0.073
+Batch: 127/149	loss: 0.061	loss_act:0.061
+Batch: 134/149	loss: 0.111	loss_act:0.111
+Batch: 141/149	loss: 0.094	loss_act:0.094
+Batch: 148/149	loss: 0.034	loss_act:0.034
+Batch: 149/149	loss: 0.049	loss_act:0.049
+Epoch 22	Train Loss: 0.066	Val Acc: 0.992	Test Acc: 0.241
+Best Epoch: 22	Best Epoch Val Acc: 0.992	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 23********************
+Batch: 1/149	loss: 0.075	loss_act:0.075
+Batch: 8/149	loss: 0.079	loss_act:0.079
+Batch: 15/149	loss: 0.046	loss_act:0.046
+Batch: 22/149	loss: 0.053	loss_act:0.053
+Batch: 29/149	loss: 0.077	loss_act:0.077
+Batch: 36/149	loss: 0.036	loss_act:0.036
+Batch: 43/149	loss: 0.075	loss_act:0.075
+Batch: 50/149	loss: 0.055	loss_act:0.055
+Batch: 57/149	loss: 0.059	loss_act:0.059
+Batch: 64/149	loss: 0.043	loss_act:0.043
+Batch: 71/149	loss: 0.036	loss_act:0.036
+Batch: 78/149	loss: 0.078	loss_act:0.078
+Batch: 85/149	loss: 0.033	loss_act:0.033
+Batch: 92/149	loss: 0.037	loss_act:0.037
+Batch: 99/149	loss: 0.102	loss_act:0.102
+Batch: 106/149	loss: 0.034	loss_act:0.034
+Batch: 113/149	loss: 0.077	loss_act:0.077
+Batch: 120/149	loss: 0.087	loss_act:0.087
+Batch: 127/149	loss: 0.042	loss_act:0.042
+Batch: 134/149	loss: 0.031	loss_act:0.031
+Batch: 141/149	loss: 0.033	loss_act:0.033
+Batch: 148/149	loss: 0.144	loss_act:0.144
+Batch: 149/149	loss: 0.099	loss_act:0.099
+Epoch 23	Train Loss: 0.060	Val Acc: 0.992	Test Acc: 0.241
+Best Epoch: 22	Best Epoch Val Acc: 0.992	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 24********************
+Batch: 1/149	loss: 0.039	loss_act:0.039
+Batch: 8/149	loss: 0.043	loss_act:0.043
+Batch: 15/149	loss: 0.035	loss_act:0.035
+Batch: 22/149	loss: 0.026	loss_act:0.026
+Batch: 29/149	loss: 0.058	loss_act:0.058
+Batch: 36/149	loss: 0.026	loss_act:0.026
+Batch: 43/149	loss: 0.061	loss_act:0.061
+Batch: 50/149	loss: 0.044	loss_act:0.044
+Batch: 57/149	loss: 0.055	loss_act:0.055
+Batch: 64/149	loss: 0.049	loss_act:0.049
+Batch: 71/149	loss: 0.038	loss_act:0.038
+Batch: 78/149	loss: 0.045	loss_act:0.045
+Batch: 85/149	loss: 0.103	loss_act:0.103
+Batch: 92/149	loss: 0.055	loss_act:0.055
+Batch: 99/149	loss: 0.035	loss_act:0.035
+Batch: 106/149	loss: 0.044	loss_act:0.044
+Batch: 113/149	loss: 0.075	loss_act:0.075
+Batch: 120/149	loss: 0.047	loss_act:0.047
+Batch: 127/149	loss: 0.034	loss_act:0.034
+Batch: 134/149	loss: 0.042	loss_act:0.042
+Batch: 141/149	loss: 0.046	loss_act:0.046
+Batch: 148/149	loss: 0.076	loss_act:0.076
+Batch: 149/149	loss: 0.027	loss_act:0.027
+Epoch 24	Train Loss: 0.058	Val Acc: 0.993	Test Acc: 0.241
+Best Epoch: 24	Best Epoch Val Acc: 0.993	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 25********************
+Batch: 1/149	loss: 0.045	loss_act:0.045
+Batch: 8/149	loss: 0.035	loss_act:0.035
+Batch: 15/149	loss: 0.065	loss_act:0.065
+Batch: 22/149	loss: 0.041	loss_act:0.041
+Batch: 29/149	loss: 0.068	loss_act:0.068
+Batch: 36/149	loss: 0.121	loss_act:0.121
+Batch: 43/149	loss: 0.052	loss_act:0.052
+Batch: 50/149	loss: 0.027	loss_act:0.027
+Batch: 57/149	loss: 0.048	loss_act:0.048
+Batch: 64/149	loss: 0.053	loss_act:0.053
+Batch: 71/149	loss: 0.053	loss_act:0.053
+Batch: 78/149	loss: 0.073	loss_act:0.073
+Batch: 85/149	loss: 0.038	loss_act:0.038
+Batch: 92/149	loss: 0.035	loss_act:0.035
+Batch: 99/149	loss: 0.033	loss_act:0.033
+Batch: 106/149	loss: 0.057	loss_act:0.057
+Batch: 113/149	loss: 0.036	loss_act:0.036
+Batch: 120/149	loss: 0.049	loss_act:0.049
+Batch: 127/149	loss: 0.057	loss_act:0.057
+Batch: 134/149	loss: 0.070	loss_act:0.070
+Batch: 141/149	loss: 0.042	loss_act:0.042
+Batch: 148/149	loss: 0.057	loss_act:0.057
+Batch: 149/149	loss: 0.027	loss_act:0.027
+Epoch 25	Train Loss: 0.052	Val Acc: 0.993	Test Acc: 0.241
+Best Epoch: 25	Best Epoch Val Acc: 0.993	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 26********************
+Batch: 1/149	loss: 0.061	loss_act:0.061
+Batch: 8/149	loss: 0.021	loss_act:0.021
+Batch: 15/149	loss: 0.051	loss_act:0.051
+Batch: 22/149	loss: 0.070	loss_act:0.070
+Batch: 29/149	loss: 0.080	loss_act:0.080
+Batch: 36/149	loss: 0.080	loss_act:0.080
+Batch: 43/149	loss: 0.060	loss_act:0.060
+Batch: 50/149	loss: 0.018	loss_act:0.018
+Batch: 57/149	loss: 0.075	loss_act:0.075
+Batch: 64/149	loss: 0.065	loss_act:0.065
+Batch: 71/149	loss: 0.086	loss_act:0.086
+Batch: 78/149	loss: 0.048	loss_act:0.048
+Batch: 85/149	loss: 0.056	loss_act:0.056
+Batch: 92/149	loss: 0.025	loss_act:0.025
+Batch: 99/149	loss: 0.034	loss_act:0.034
+Batch: 106/149	loss: 0.084	loss_act:0.084
+Batch: 113/149	loss: 0.067	loss_act:0.067
+Batch: 120/149	loss: 0.036	loss_act:0.036
+Batch: 127/149	loss: 0.058	loss_act:0.058
+Batch: 134/149	loss: 0.031	loss_act:0.031
+Batch: 141/149	loss: 0.032	loss_act:0.032
+Batch: 148/149	loss: 0.069	loss_act:0.069
+Batch: 149/149	loss: 0.032	loss_act:0.032
+Epoch 26	Train Loss: 0.049	Val Acc: 0.994	Test Acc: 0.241
+Best Epoch: 26	Best Epoch Val Acc: 0.994	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 27********************
+Batch: 1/149	loss: 0.056	loss_act:0.056
+Batch: 8/149	loss: 0.021	loss_act:0.021
+Batch: 15/149	loss: 0.027	loss_act:0.027
+Batch: 22/149	loss: 0.030	loss_act:0.030
+Batch: 29/149	loss: 0.044	loss_act:0.044
+Batch: 36/149	loss: 0.052	loss_act:0.052
+Batch: 43/149	loss: 0.048	loss_act:0.048
+Batch: 50/149	loss: 0.054	loss_act:0.054
+Batch: 57/149	loss: 0.032	loss_act:0.032
+Batch: 64/149	loss: 0.044	loss_act:0.044
+Batch: 71/149	loss: 0.112	loss_act:0.112
+Batch: 78/149	loss: 0.028	loss_act:0.028
+Batch: 85/149	loss: 0.031	loss_act:0.031
+Batch: 92/149	loss: 0.072	loss_act:0.072
+Batch: 99/149	loss: 0.023	loss_act:0.023
+Batch: 106/149	loss: 0.051	loss_act:0.051
+Batch: 113/149	loss: 0.026	loss_act:0.026
+Batch: 120/149	loss: 0.053	loss_act:0.053
+Batch: 127/149	loss: 0.043	loss_act:0.043
+Batch: 134/149	loss: 0.029	loss_act:0.029
+Batch: 141/149	loss: 0.031	loss_act:0.031
+Batch: 148/149	loss: 0.055	loss_act:0.055
+Batch: 149/149	loss: 0.034	loss_act:0.034
+Epoch 27	Train Loss: 0.045	Val Acc: 0.995	Test Acc: 0.241
+Best Epoch: 27	Best Epoch Val Acc: 0.995	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 28********************
+Batch: 1/149	loss: 0.038	loss_act:0.038
+Batch: 8/149	loss: 0.034	loss_act:0.034
+Batch: 15/149	loss: 0.094	loss_act:0.094
+Batch: 22/149	loss: 0.029	loss_act:0.029
+Batch: 29/149	loss: 0.027	loss_act:0.027
+Batch: 36/149	loss: 0.051	loss_act:0.051
+Batch: 43/149	loss: 0.028	loss_act:0.028
+Batch: 50/149	loss: 0.038	loss_act:0.038
+Batch: 57/149	loss: 0.043	loss_act:0.043
+Batch: 64/149	loss: 0.031	loss_act:0.031
+Batch: 71/149	loss: 0.021	loss_act:0.021
+Batch: 78/149	loss: 0.032	loss_act:0.032
+Batch: 85/149	loss: 0.017	loss_act:0.017
+Batch: 92/149	loss: 0.033	loss_act:0.033
+Batch: 99/149	loss: 0.031	loss_act:0.031
+Batch: 106/149	loss: 0.049	loss_act:0.049
+Batch: 113/149	loss: 0.026	loss_act:0.026
+Batch: 120/149	loss: 0.028	loss_act:0.028
+Batch: 127/149	loss: 0.030	loss_act:0.030
+Batch: 134/149	loss: 0.053	loss_act:0.053
+Batch: 141/149	loss: 0.031	loss_act:0.031
+Batch: 148/149	loss: 0.048	loss_act:0.048
+Batch: 149/149	loss: 0.030	loss_act:0.030
+Epoch 28	Train Loss: 0.043	Val Acc: 0.994	Test Acc: 0.241
+Best Epoch: 27	Best Epoch Val Acc: 0.995	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 29********************
+Batch: 1/149	loss: 0.040	loss_act:0.040
+Batch: 8/149	loss: 0.050	loss_act:0.050
+Batch: 15/149	loss: 0.036	loss_act:0.036
+Batch: 22/149	loss: 0.023	loss_act:0.023
+Batch: 29/149	loss: 0.067	loss_act:0.067
+Batch: 36/149	loss: 0.044	loss_act:0.044
+Batch: 43/149	loss: 0.022	loss_act:0.022
+Batch: 50/149	loss: 0.029	loss_act:0.029
+Batch: 57/149	loss: 0.035	loss_act:0.035
+Batch: 64/149	loss: 0.047	loss_act:0.047
+Batch: 71/149	loss: 0.016	loss_act:0.016
+Batch: 78/149	loss: 0.032	loss_act:0.032
+Batch: 85/149	loss: 0.019	loss_act:0.019
+Batch: 92/149	loss: 0.038	loss_act:0.038
+Batch: 99/149	loss: 0.021	loss_act:0.021
+Batch: 106/149	loss: 0.028	loss_act:0.028
+Batch: 113/149	loss: 0.145	loss_act:0.145
+Batch: 120/149	loss: 0.056	loss_act:0.056
+Batch: 127/149	loss: 0.103	loss_act:0.103
+Batch: 134/149	loss: 0.030	loss_act:0.030
+Batch: 141/149	loss: 0.022	loss_act:0.022
+Batch: 148/149	loss: 0.021	loss_act:0.021
+Batch: 149/149	loss: 0.031	loss_act:0.031
+Epoch 29	Train Loss: 0.040	Val Acc: 0.996	Test Acc: 0.241
+Best Epoch: 29	Best Epoch Val Acc: 0.996	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 30********************
+Batch: 1/149	loss: 0.027	loss_act:0.027
+Batch: 8/149	loss: 0.022	loss_act:0.022
+Batch: 15/149	loss: 0.044	loss_act:0.044
+Batch: 22/149	loss: 0.030	loss_act:0.030
+Batch: 29/149	loss: 0.016	loss_act:0.016
+Batch: 36/149	loss: 0.050	loss_act:0.050
+Batch: 43/149	loss: 0.050	loss_act:0.050
+Batch: 50/149	loss: 0.022	loss_act:0.022
+Batch: 57/149	loss: 0.041	loss_act:0.041
+Batch: 64/149	loss: 0.061	loss_act:0.061
+Batch: 71/149	loss: 0.076	loss_act:0.076
+Batch: 78/149	loss: 0.056	loss_act:0.056
+Batch: 85/149	loss: 0.038	loss_act:0.038
+Batch: 92/149	loss: 0.024	loss_act:0.024
+Batch: 99/149	loss: 0.033	loss_act:0.033
+Batch: 106/149	loss: 0.047	loss_act:0.047
+Batch: 113/149	loss: 0.053	loss_act:0.053
+Batch: 120/149	loss: 0.052	loss_act:0.052
+Batch: 127/149	loss: 0.121	loss_act:0.121
+Batch: 134/149	loss: 0.062	loss_act:0.062
+Batch: 141/149	loss: 0.035	loss_act:0.035
+Batch: 148/149	loss: 0.036	loss_act:0.036
+Batch: 149/149	loss: 0.029	loss_act:0.029
+Epoch 30	Train Loss: 0.038	Val Acc: 0.996	Test Acc: 0.241
+Best Epoch: 29	Best Epoch Val Acc: 0.996	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 31********************
+Batch: 1/149	loss: 0.034	loss_act:0.034
+Batch: 8/149	loss: 0.031	loss_act:0.031
+Batch: 15/149	loss: 0.050	loss_act:0.050
+Batch: 22/149	loss: 0.033	loss_act:0.033
+Batch: 29/149	loss: 0.072	loss_act:0.072
+Batch: 36/149	loss: 0.042	loss_act:0.042
+Batch: 43/149	loss: 0.024	loss_act:0.024
+Batch: 50/149	loss: 0.016	loss_act:0.016
+Batch: 57/149	loss: 0.063	loss_act:0.063
+Batch: 64/149	loss: 0.036	loss_act:0.036
+Batch: 71/149	loss: 0.043	loss_act:0.043
+Batch: 78/149	loss: 0.039	loss_act:0.039
+Batch: 85/149	loss: 0.018	loss_act:0.018
+Batch: 92/149	loss: 0.022	loss_act:0.022
+Batch: 99/149	loss: 0.036	loss_act:0.036
+Batch: 106/149	loss: 0.018	loss_act:0.018
+Batch: 113/149	loss: 0.015	loss_act:0.015
+Batch: 120/149	loss: 0.033	loss_act:0.033
+Batch: 127/149	loss: 0.028	loss_act:0.028
+Batch: 134/149	loss: 0.080	loss_act:0.080
+Batch: 141/149	loss: 0.028	loss_act:0.028
+Batch: 148/149	loss: 0.032	loss_act:0.032
+Batch: 149/149	loss: 0.036	loss_act:0.036
+Epoch 31	Train Loss: 0.035	Val Acc: 0.996	Test Acc: 0.242
+Best Epoch: 29	Best Epoch Val Acc: 0.996	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 32********************
+Batch: 1/149	loss: 0.042	loss_act:0.042
+Batch: 8/149	loss: 0.020	loss_act:0.020
+Batch: 15/149	loss: 0.048	loss_act:0.048
+Batch: 22/149	loss: 0.018	loss_act:0.018
+Batch: 29/149	loss: 0.071	loss_act:0.071
+Batch: 36/149	loss: 0.035	loss_act:0.035
+Batch: 43/149	loss: 0.081	loss_act:0.081
+Batch: 50/149	loss: 0.021	loss_act:0.021
+Batch: 57/149	loss: 0.022	loss_act:0.022
+Batch: 64/149	loss: 0.027	loss_act:0.027
+Batch: 71/149	loss: 0.017	loss_act:0.017
+Batch: 78/149	loss: 0.057	loss_act:0.057
+Batch: 85/149	loss: 0.022	loss_act:0.022
+Batch: 92/149	loss: 0.041	loss_act:0.041
+Batch: 99/149	loss: 0.032	loss_act:0.032
+Batch: 106/149	loss: 0.063	loss_act:0.063
+Batch: 113/149	loss: 0.022	loss_act:0.022
+Batch: 120/149	loss: 0.029	loss_act:0.029
+Batch: 127/149	loss: 0.036	loss_act:0.036
+Batch: 134/149	loss: 0.020	loss_act:0.020
+Batch: 141/149	loss: 0.104	loss_act:0.104
+Batch: 148/149	loss: 0.034	loss_act:0.034
+Batch: 149/149	loss: 0.037	loss_act:0.037
+Epoch 32	Train Loss: 0.033	Val Acc: 0.997	Test Acc: 0.241
+Best Epoch: 32	Best Epoch Val Acc: 0.997	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 33********************
+Batch: 1/149	loss: 0.019	loss_act:0.019
+Batch: 8/149	loss: 0.139	loss_act:0.139
+Batch: 15/149	loss: 0.018	loss_act:0.018
+Batch: 22/149	loss: 0.049	loss_act:0.049
+Batch: 29/149	loss: 0.020	loss_act:0.020
+Batch: 36/149	loss: 0.037	loss_act:0.037
+Batch: 43/149	loss: 0.065	loss_act:0.065
+Batch: 50/149	loss: 0.014	loss_act:0.014
+Batch: 57/149	loss: 0.042	loss_act:0.042
+Batch: 64/149	loss: 0.022	loss_act:0.022
+Batch: 71/149	loss: 0.018	loss_act:0.018
+Batch: 78/149	loss: 0.020	loss_act:0.020
+Batch: 85/149	loss: 0.014	loss_act:0.014
+Batch: 92/149	loss: 0.017	loss_act:0.017
+Batch: 99/149	loss: 0.017	loss_act:0.017
+Batch: 106/149	loss: 0.052	loss_act:0.052
+Batch: 113/149	loss: 0.015	loss_act:0.015
+Batch: 120/149	loss: 0.026	loss_act:0.026
+Batch: 127/149	loss: 0.011	loss_act:0.011
+Batch: 134/149	loss: 0.015	loss_act:0.015
+Batch: 141/149	loss: 0.023	loss_act:0.023
+Batch: 148/149	loss: 0.077	loss_act:0.077
+Batch: 149/149	loss: 0.014	loss_act:0.014
+Epoch 33	Train Loss: 0.032	Val Acc: 0.997	Test Acc: 0.241
+Best Epoch: 33	Best Epoch Val Acc: 0.997	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 34********************
+Batch: 1/149	loss: 0.023	loss_act:0.023
+Batch: 8/149	loss: 0.022	loss_act:0.022
+Batch: 15/149	loss: 0.033	loss_act:0.033
+Batch: 22/149	loss: 0.027	loss_act:0.027
+Batch: 29/149	loss: 0.043	loss_act:0.043
+Batch: 36/149	loss: 0.048	loss_act:0.048
+Batch: 43/149	loss: 0.015	loss_act:0.015
+Batch: 50/149	loss: 0.024	loss_act:0.024
+Batch: 57/149	loss: 0.017	loss_act:0.017
+Batch: 64/149	loss: 0.012	loss_act:0.012
+Batch: 71/149	loss: 0.013	loss_act:0.013
+Batch: 78/149	loss: 0.010	loss_act:0.010
+Batch: 85/149	loss: 0.012	loss_act:0.012
+Batch: 92/149	loss: 0.034	loss_act:0.034
+Batch: 99/149	loss: 0.016	loss_act:0.016
+Batch: 106/149	loss: 0.020	loss_act:0.020
+Batch: 113/149	loss: 0.058	loss_act:0.058
+Batch: 120/149	loss: 0.037	loss_act:0.037
+Batch: 127/149	loss: 0.019	loss_act:0.019
+Batch: 134/149	loss: 0.016	loss_act:0.016
+Batch: 141/149	loss: 0.019	loss_act:0.019
+Batch: 148/149	loss: 0.028	loss_act:0.028
+Batch: 149/149	loss: 0.020	loss_act:0.020
+Epoch 34	Train Loss: 0.030	Val Acc: 0.997	Test Acc: 0.241
+Best Epoch: 34	Best Epoch Val Acc: 0.997	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 35********************
+Batch: 1/149	loss: 0.027	loss_act:0.027
+Batch: 8/149	loss: 0.032	loss_act:0.032
+Batch: 15/149	loss: 0.022	loss_act:0.022
+Batch: 22/149	loss: 0.014	loss_act:0.014
+Batch: 29/149	loss: 0.022	loss_act:0.022
+Batch: 36/149	loss: 0.013	loss_act:0.013
+Batch: 43/149	loss: 0.058	loss_act:0.058
+Batch: 50/149	loss: 0.016	loss_act:0.016
+Batch: 57/149	loss: 0.041	loss_act:0.041
+Batch: 64/149	loss: 0.030	loss_act:0.030
+Batch: 71/149	loss: 0.067	loss_act:0.067
+Batch: 78/149	loss: 0.012	loss_act:0.012
+Batch: 85/149	loss: 0.016	loss_act:0.016
+Batch: 92/149	loss: 0.009	loss_act:0.009
+Batch: 99/149	loss: 0.062	loss_act:0.062
+Batch: 106/149	loss: 0.017	loss_act:0.017
+Batch: 113/149	loss: 0.015	loss_act:0.015
+Batch: 120/149	loss: 0.016	loss_act:0.016
+Batch: 127/149	loss: 0.023	loss_act:0.023
+Batch: 134/149	loss: 0.016	loss_act:0.016
+Batch: 141/149	loss: 0.046	loss_act:0.046
+Batch: 148/149	loss: 0.014	loss_act:0.014
+Batch: 149/149	loss: 0.032	loss_act:0.032
+Epoch 35	Train Loss: 0.029	Val Acc: 0.998	Test Acc: 0.240
+Best Epoch: 35	Best Epoch Val Acc: 0.998	Best Epoch Test Acc: 0.240, Best Test Acc: 0.254
+
+********************Epoch: 36********************
+Batch: 1/149	loss: 0.031	loss_act:0.031
+Batch: 8/149	loss: 0.013	loss_act:0.013
+Batch: 15/149	loss: 0.027	loss_act:0.027
+Batch: 22/149	loss: 0.044	loss_act:0.044
+Batch: 29/149	loss: 0.038	loss_act:0.038
+Batch: 36/149	loss: 0.025	loss_act:0.025
+Batch: 43/149	loss: 0.027	loss_act:0.027
+Batch: 50/149	loss: 0.013	loss_act:0.013
+Batch: 57/149	loss: 0.015	loss_act:0.015
+Batch: 64/149	loss: 0.021	loss_act:0.021
+Batch: 71/149	loss: 0.016	loss_act:0.016
+Batch: 78/149	loss: 0.037	loss_act:0.037
+Batch: 85/149	loss: 0.021	loss_act:0.021
+Batch: 92/149	loss: 0.012	loss_act:0.012
+Batch: 99/149	loss: 0.015	loss_act:0.015
+Batch: 106/149	loss: 0.019	loss_act:0.019
+Batch: 113/149	loss: 0.013	loss_act:0.013
+Batch: 120/149	loss: 0.060	loss_act:0.060
+Batch: 127/149	loss: 0.017	loss_act:0.017
+Batch: 134/149	loss: 0.019	loss_act:0.019
+Batch: 141/149	loss: 0.018	loss_act:0.018
+Batch: 148/149	loss: 0.009	loss_act:0.009
+Batch: 149/149	loss: 0.021	loss_act:0.021
+Epoch 36	Train Loss: 0.027	Val Acc: 0.998	Test Acc: 0.241
+Best Epoch: 35	Best Epoch Val Acc: 0.998	Best Epoch Test Acc: 0.240, Best Test Acc: 0.254
+
+********************Epoch: 37********************
+Batch: 1/149	loss: 0.023	loss_act:0.023
+Batch: 8/149	loss: 0.011	loss_act:0.011
+Batch: 15/149	loss: 0.032	loss_act:0.032
+Batch: 22/149	loss: 0.044	loss_act:0.044
+Batch: 29/149	loss: 0.018	loss_act:0.018
+Batch: 36/149	loss: 0.055	loss_act:0.055
+Batch: 43/149	loss: 0.021	loss_act:0.021
+Batch: 50/149	loss: 0.023	loss_act:0.023
+Batch: 57/149	loss: 0.012	loss_act:0.012
+Batch: 64/149	loss: 0.036	loss_act:0.036
+Batch: 71/149	loss: 0.028	loss_act:0.028
+Batch: 78/149	loss: 0.037	loss_act:0.037
+Batch: 85/149	loss: 0.035	loss_act:0.035
+Batch: 92/149	loss: 0.020	loss_act:0.020
+Batch: 99/149	loss: 0.009	loss_act:0.009
+Batch: 106/149	loss: 0.030	loss_act:0.030
+Batch: 113/149	loss: 0.022	loss_act:0.022
+Batch: 120/149	loss: 0.014	loss_act:0.014
+Batch: 127/149	loss: 0.018	loss_act:0.018
+Batch: 134/149	loss: 0.019	loss_act:0.019
+Batch: 141/149	loss: 0.013	loss_act:0.013
+Batch: 148/149	loss: 0.017	loss_act:0.017
+Batch: 149/149	loss: 0.043	loss_act:0.043
+Epoch 37	Train Loss: 0.025	Val Acc: 0.997	Test Acc: 0.241
+Best Epoch: 35	Best Epoch Val Acc: 0.998	Best Epoch Test Acc: 0.240, Best Test Acc: 0.254
+
+********************Epoch: 38********************
+Batch: 1/149	loss: 0.017	loss_act:0.017
+Batch: 8/149	loss: 0.016	loss_act:0.016
+Batch: 15/149	loss: 0.009	loss_act:0.009
+Batch: 22/149	loss: 0.048	loss_act:0.048
+Batch: 29/149	loss: 0.016	loss_act:0.016
+Batch: 36/149	loss: 0.028	loss_act:0.028
+Batch: 43/149	loss: 0.017	loss_act:0.017
+Batch: 50/149	loss: 0.053	loss_act:0.053
+Batch: 57/149	loss: 0.010	loss_act:0.010
+Batch: 64/149	loss: 0.022	loss_act:0.022
+Batch: 71/149	loss: 0.017	loss_act:0.017
+Batch: 78/149	loss: 0.019	loss_act:0.019
+Batch: 85/149	loss: 0.014	loss_act:0.014
+Batch: 92/149	loss: 0.043	loss_act:0.043
+Batch: 99/149	loss: 0.015	loss_act:0.015
+Batch: 106/149	loss: 0.020	loss_act:0.020
+Batch: 113/149	loss: 0.016	loss_act:0.016
+Batch: 120/149	loss: 0.031	loss_act:0.031
+Batch: 127/149	loss: 0.077	loss_act:0.077
+Batch: 134/149	loss: 0.021	loss_act:0.021
+Batch: 141/149	loss: 0.013	loss_act:0.013
+Batch: 148/149	loss: 0.014	loss_act:0.014
+Batch: 149/149	loss: 0.016	loss_act:0.016
+Epoch 38	Train Loss: 0.024	Val Acc: 0.998	Test Acc: 0.241
+Best Epoch: 35	Best Epoch Val Acc: 0.998	Best Epoch Test Acc: 0.240, Best Test Acc: 0.254
+
+********************Epoch: 39********************
+Batch: 1/149	loss: 0.017	loss_act:0.017
+Batch: 8/149	loss: 0.012	loss_act:0.012
+Batch: 15/149	loss: 0.016	loss_act:0.016
+Batch: 22/149	loss: 0.014	loss_act:0.014
+Batch: 29/149	loss: 0.020	loss_act:0.020
+Batch: 36/149	loss: 0.045	loss_act:0.045
+Batch: 43/149	loss: 0.020	loss_act:0.020
+Batch: 50/149	loss: 0.015	loss_act:0.015
+Batch: 57/149	loss: 0.034	loss_act:0.034
+Batch: 64/149	loss: 0.012	loss_act:0.012
+Batch: 71/149	loss: 0.026	loss_act:0.026
+Batch: 78/149	loss: 0.007	loss_act:0.007
+Batch: 85/149	loss: 0.061	loss_act:0.061
+Batch: 92/149	loss: 0.011	loss_act:0.011
+Batch: 99/149	loss: 0.010	loss_act:0.010
+Batch: 106/149	loss: 0.032	loss_act:0.032
+Batch: 113/149	loss: 0.022	loss_act:0.022
+Batch: 120/149	loss: 0.033	loss_act:0.033
+Batch: 127/149	loss: 0.021	loss_act:0.021
+Batch: 134/149	loss: 0.033	loss_act:0.033
+Batch: 141/149	loss: 0.041	loss_act:0.041
+Batch: 148/149	loss: 0.012	loss_act:0.012
+Batch: 149/149	loss: 0.008	loss_act:0.008
+Epoch 39	Train Loss: 0.023	Val Acc: 0.998	Test Acc: 0.241
+Best Epoch: 35	Best Epoch Val Acc: 0.998	Best Epoch Test Acc: 0.240, Best Test Acc: 0.254
+
+********************Epoch: 40********************
+Batch: 1/149	loss: 0.030	loss_act:0.030
+Batch: 8/149	loss: 0.012	loss_act:0.012
+Batch: 15/149	loss: 0.007	loss_act:0.007
+Batch: 22/149	loss: 0.046	loss_act:0.046
+Batch: 29/149	loss: 0.012	loss_act:0.012
+Batch: 36/149	loss: 0.023	loss_act:0.023
+Batch: 43/149	loss: 0.014	loss_act:0.014
+Batch: 50/149	loss: 0.049	loss_act:0.049
+Batch: 57/149	loss: 0.009	loss_act:0.009
+Batch: 64/149	loss: 0.023	loss_act:0.023
+Batch: 71/149	loss: 0.013	loss_act:0.013
+Batch: 78/149	loss: 0.012	loss_act:0.012
+Batch: 85/149	loss: 0.008	loss_act:0.008
+Batch: 92/149	loss: 0.009	loss_act:0.009
+Batch: 99/149	loss: 0.015	loss_act:0.015
+Batch: 106/149	loss: 0.048	loss_act:0.048
+Batch: 113/149	loss: 0.012	loss_act:0.012
+Batch: 120/149	loss: 0.011	loss_act:0.011
+Batch: 127/149	loss: 0.014	loss_act:0.014
+Batch: 134/149	loss: 0.011	loss_act:0.011
+Batch: 141/149	loss: 0.017	loss_act:0.017
+Batch: 148/149	loss: 0.018	loss_act:0.018
+Batch: 149/149	loss: 0.013	loss_act:0.013
+Epoch 40	Train Loss: 0.022	Val Acc: 0.998	Test Acc: 0.241
+Best Epoch: 40	Best Epoch Val Acc: 0.998	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 41********************
+Batch: 1/149	loss: 0.014	loss_act:0.014
+Batch: 8/149	loss: 0.022	loss_act:0.022
+Batch: 15/149	loss: 0.016	loss_act:0.016
+Batch: 22/149	loss: 0.015	loss_act:0.015
+Batch: 29/149	loss: 0.027	loss_act:0.027
+Batch: 36/149	loss: 0.024	loss_act:0.024
+Batch: 43/149	loss: 0.011	loss_act:0.011
+Batch: 50/149	loss: 0.010	loss_act:0.010
+Batch: 57/149	loss: 0.012	loss_act:0.012
+Batch: 64/149	loss: 0.012	loss_act:0.012
+Batch: 71/149	loss: 0.017	loss_act:0.017
+Batch: 78/149	loss: 0.019	loss_act:0.019
+Batch: 85/149	loss: 0.037	loss_act:0.037
+Batch: 92/149	loss: 0.009	loss_act:0.009
+Batch: 99/149	loss: 0.040	loss_act:0.040
+Batch: 106/149	loss: 0.010	loss_act:0.010
+Batch: 113/149	loss: 0.008	loss_act:0.008
+Batch: 120/149	loss: 0.026	loss_act:0.026
+Batch: 127/149	loss: 0.013	loss_act:0.013
+Batch: 134/149	loss: 0.007	loss_act:0.007
+Batch: 141/149	loss: 0.010	loss_act:0.010
+Batch: 148/149	loss: 0.017	loss_act:0.017
+Batch: 149/149	loss: 0.009	loss_act:0.009
+Epoch 41	Train Loss: 0.022	Val Acc: 0.998	Test Acc: 0.241
+Best Epoch: 41	Best Epoch Val Acc: 0.998	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 42********************
+Batch: 1/149	loss: 0.017	loss_act:0.017
+Batch: 8/149	loss: 0.009	loss_act:0.009
+Batch: 15/149	loss: 0.031	loss_act:0.031
+Batch: 22/149	loss: 0.022	loss_act:0.022
+Batch: 29/149	loss: 0.006	loss_act:0.006
+Batch: 36/149	loss: 0.019	loss_act:0.019
+Batch: 43/149	loss: 0.012	loss_act:0.012
+Batch: 50/149	loss: 0.011	loss_act:0.011
+Batch: 57/149	loss: 0.086	loss_act:0.086
+Batch: 64/149	loss: 0.035	loss_act:0.035
+Batch: 71/149	loss: 0.013	loss_act:0.013
+Batch: 78/149	loss: 0.012	loss_act:0.012
+Batch: 85/149	loss: 0.017	loss_act:0.017
+Batch: 92/149	loss: 0.010	loss_act:0.010
+Batch: 99/149	loss: 0.013	loss_act:0.013
+Batch: 106/149	loss: 0.027	loss_act:0.027
+Batch: 113/149	loss: 0.014	loss_act:0.014
+Batch: 120/149	loss: 0.014	loss_act:0.014
+Batch: 127/149	loss: 0.007	loss_act:0.007
+Batch: 134/149	loss: 0.008	loss_act:0.008
+Batch: 141/149	loss: 0.012	loss_act:0.012
+Batch: 148/149	loss: 0.019	loss_act:0.019
+Batch: 149/149	loss: 0.008	loss_act:0.008
+Epoch 42	Train Loss: 0.020	Val Acc: 0.998	Test Acc: 0.241
+Best Epoch: 42	Best Epoch Val Acc: 0.998	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 43********************
+Batch: 1/149	loss: 0.011	loss_act:0.011
+Batch: 8/149	loss: 0.020	loss_act:0.020
+Batch: 15/149	loss: 0.045	loss_act:0.045
+Batch: 22/149	loss: 0.009	loss_act:0.009
+Batch: 29/149	loss: 0.013	loss_act:0.013
+Batch: 36/149	loss: 0.016	loss_act:0.016
+Batch: 43/149	loss: 0.007	loss_act:0.007
+Batch: 50/149	loss: 0.013	loss_act:0.013
+Batch: 57/149	loss: 0.010	loss_act:0.010
+Batch: 64/149	loss: 0.017	loss_act:0.017
+Batch: 71/149	loss: 0.033	loss_act:0.033
+Batch: 78/149	loss: 0.041	loss_act:0.041
+Batch: 85/149	loss: 0.056	loss_act:0.056
+Batch: 92/149	loss: 0.007	loss_act:0.007
+Batch: 99/149	loss: 0.035	loss_act:0.035
+Batch: 106/149	loss: 0.010	loss_act:0.010
+Batch: 113/149	loss: 0.034	loss_act:0.034
+Batch: 120/149	loss: 0.011	loss_act:0.011
+Batch: 127/149	loss: 0.011	loss_act:0.011
+Batch: 134/149	loss: 0.012	loss_act:0.012
+Batch: 141/149	loss: 0.021	loss_act:0.021
+Batch: 148/149	loss: 0.014	loss_act:0.014
+Batch: 149/149	loss: 0.008	loss_act:0.008
+Epoch 43	Train Loss: 0.019	Val Acc: 0.999	Test Acc: 0.241
+Best Epoch: 43	Best Epoch Val Acc: 0.999	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 44********************
+Batch: 1/149	loss: 0.010	loss_act:0.010
+Batch: 8/149	loss: 0.016	loss_act:0.016
+Batch: 15/149	loss: 0.016	loss_act:0.016
+Batch: 22/149	loss: 0.014	loss_act:0.014
+Batch: 29/149	loss: 0.020	loss_act:0.020
+Batch: 36/149	loss: 0.015	loss_act:0.015
+Batch: 43/149	loss: 0.008	loss_act:0.008
+Batch: 50/149	loss: 0.028	loss_act:0.028
+Batch: 57/149	loss: 0.030	loss_act:0.030
+Batch: 64/149	loss: 0.011	loss_act:0.011
+Batch: 71/149	loss: 0.009	loss_act:0.009
+Batch: 78/149	loss: 0.006	loss_act:0.006
+Batch: 85/149	loss: 0.038	loss_act:0.038
+Batch: 92/149	loss: 0.016	loss_act:0.016
+Batch: 99/149	loss: 0.008	loss_act:0.008
+Batch: 106/149	loss: 0.009	loss_act:0.009
+Batch: 113/149	loss: 0.010	loss_act:0.010
+Batch: 120/149	loss: 0.011	loss_act:0.011
+Batch: 127/149	loss: 0.013	loss_act:0.013
+Batch: 134/149	loss: 0.026	loss_act:0.026
+Batch: 141/149	loss: 0.017	loss_act:0.017
+Batch: 148/149	loss: 0.036	loss_act:0.036
+Batch: 149/149	loss: 0.008	loss_act:0.008
+Epoch 44	Train Loss: 0.018	Val Acc: 0.998	Test Acc: 0.241
+Best Epoch: 43	Best Epoch Val Acc: 0.999	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 45********************
+Batch: 1/149	loss: 0.015	loss_act:0.015
+Batch: 8/149	loss: 0.050	loss_act:0.050
+Batch: 15/149	loss: 0.021	loss_act:0.021
+Batch: 22/149	loss: 0.019	loss_act:0.019
+Batch: 29/149	loss: 0.014	loss_act:0.014
+Batch: 36/149	loss: 0.041	loss_act:0.041
+Batch: 43/149	loss: 0.011	loss_act:0.011
+Batch: 50/149	loss: 0.015	loss_act:0.015
+Batch: 57/149	loss: 0.024	loss_act:0.024
+Batch: 64/149	loss: 0.032	loss_act:0.032
+Batch: 71/149	loss: 0.014	loss_act:0.014
+Batch: 78/149	loss: 0.033	loss_act:0.033
+Batch: 85/149	loss: 0.033	loss_act:0.033
+Batch: 92/149	loss: 0.015	loss_act:0.015
+Batch: 99/149	loss: 0.014	loss_act:0.014
+Batch: 106/149	loss: 0.011	loss_act:0.011
+Batch: 113/149	loss: 0.014	loss_act:0.014
+Batch: 120/149	loss: 0.008	loss_act:0.008
+Batch: 127/149	loss: 0.031	loss_act:0.031
+Batch: 134/149	loss: 0.009	loss_act:0.009
+Batch: 141/149	loss: 0.015	loss_act:0.015
+Batch: 148/149	loss: 0.042	loss_act:0.042
+Batch: 149/149	loss: 0.005	loss_act:0.005
+Epoch 45	Train Loss: 0.018	Val Acc: 0.999	Test Acc: 0.241
+Best Epoch: 45	Best Epoch Val Acc: 0.999	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 46********************
+Batch: 1/149	loss: 0.007	loss_act:0.007
+Batch: 8/149	loss: 0.007	loss_act:0.007
+Batch: 15/149	loss: 0.012	loss_act:0.012
+Batch: 22/149	loss: 0.009	loss_act:0.009
+Batch: 29/149	loss: 0.013	loss_act:0.013
+Batch: 36/149	loss: 0.018	loss_act:0.018
+Batch: 43/149	loss: 0.008	loss_act:0.008
+Batch: 50/149	loss: 0.022	loss_act:0.022
+Batch: 57/149	loss: 0.012	loss_act:0.012
+Batch: 64/149	loss: 0.006	loss_act:0.006
+Batch: 71/149	loss: 0.043	loss_act:0.043
+Batch: 78/149	loss: 0.007	loss_act:0.007
+Batch: 85/149	loss: 0.014	loss_act:0.014
+Batch: 92/149	loss: 0.010	loss_act:0.010
+Batch: 99/149	loss: 0.019	loss_act:0.019
+Batch: 106/149	loss: 0.035	loss_act:0.035
+Batch: 113/149	loss: 0.011	loss_act:0.011
+Batch: 120/149	loss: 0.011	loss_act:0.011
+Batch: 127/149	loss: 0.015	loss_act:0.015
+Batch: 134/149	loss: 0.026	loss_act:0.026
+Batch: 141/149	loss: 0.005	loss_act:0.005
+Batch: 148/149	loss: 0.018	loss_act:0.018
+Batch: 149/149	loss: 0.021	loss_act:0.021
+Epoch 46	Train Loss: 0.017	Val Acc: 0.999	Test Acc: 0.241
+Best Epoch: 45	Best Epoch Val Acc: 0.999	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 47********************
+Batch: 1/149	loss: 0.023	loss_act:0.023
+Batch: 8/149	loss: 0.009	loss_act:0.009
+Batch: 15/149	loss: 0.005	loss_act:0.005
+Batch: 22/149	loss: 0.023	loss_act:0.023
+Batch: 29/149	loss: 0.015	loss_act:0.015
+Batch: 36/149	loss: 0.011	loss_act:0.011
+Batch: 43/149	loss: 0.010	loss_act:0.010
+Batch: 50/149	loss: 0.020	loss_act:0.020
+Batch: 57/149	loss: 0.012	loss_act:0.012
+Batch: 64/149	loss: 0.022	loss_act:0.022
+Batch: 71/149	loss: 0.011	loss_act:0.011
+Batch: 78/149	loss: 0.010	loss_act:0.010
+Batch: 85/149	loss: 0.050	loss_act:0.050
+Batch: 92/149	loss: 0.010	loss_act:0.010
+Batch: 99/149	loss: 0.011	loss_act:0.011
+Batch: 106/149	loss: 0.007	loss_act:0.007
+Batch: 113/149	loss: 0.004	loss_act:0.004
+Batch: 120/149	loss: 0.022	loss_act:0.022
+Batch: 127/149	loss: 0.023	loss_act:0.023
+Batch: 134/149	loss: 0.021	loss_act:0.021
+Batch: 141/149	loss: 0.022	loss_act:0.022
+Batch: 148/149	loss: 0.045	loss_act:0.045
+Batch: 149/149	loss: 0.011	loss_act:0.011
+Epoch 47	Train Loss: 0.016	Val Acc: 0.999	Test Acc: 0.241
+Best Epoch: 45	Best Epoch Val Acc: 0.999	Best Epoch Test Acc: 0.241, Best Test Acc: 0.254
+
+********************Epoch: 48********************
+Batch: 1/149	loss: 0.007	loss_act:0.007
+Batch: 8/149	loss: 0.005	loss_act:0.005
+Batch: 15/149	loss: 0.040	loss_act:0.040
+Batch: 22/149	loss: 0.009	loss_act:0.009
+Batch: 29/149	loss: 0.009	loss_act:0.009
+Batch: 36/149	loss: 0.012	loss_act:0.012
+Batch: 43/149	loss: 0.008	loss_act:0.008
+Batch: 50/149	loss: 0.005	loss_act:0.005
+Batch: 57/149	loss: 0.007	loss_act:0.007
+Batch: 64/149	loss: 0.010	loss_act:0.010
+Batch: 71/149	loss: 0.024	loss_act:0.024
+Batch: 78/149	loss: 0.007	loss_act:0.007
+Batch: 85/149	loss: 0.017	loss_act:0.017
+Batch: 92/149	loss: 0.010	loss_act:0.010
+Batch: 99/149	loss: 0.019	loss_act:0.019
+Batch: 106/149	loss: 0.013	loss_act:0.013
+Batch: 113/149	loss: 0.011	loss_act:0.011
+Batch: 120/149	loss: 0.009	loss_act:0.009
+Batch: 127/149	loss: 0.056	loss_act:0.056
+Batch: 134/149	loss: 0.035	loss_act:0.035
+Batch: 141/149	loss: 0.010	loss_act:0.010
+Batch: 148/149	loss: 0.008	loss_act:0.008
+Batch: 149/149	loss: 0.008	loss_act:0.008
+Epoch 48	Train Loss: 0.015	Val Acc: 0.999	Test Acc: 0.240
+Best Epoch: 48	Best Epoch Val Acc: 0.999	Best Epoch Test Acc: 0.240, Best Test Acc: 0.254
+
+********************Epoch: 49********************
+Batch: 1/149	loss: 0.048	loss_act:0.048
+Batch: 8/149	loss: 0.005	loss_act:0.005
+Batch: 15/149	loss: 0.012	loss_act:0.012
+Batch: 22/149	loss: 0.011	loss_act:0.011
+Batch: 29/149	loss: 0.006	loss_act:0.006
+Batch: 36/149	loss: 0.009	loss_act:0.009
+Batch: 43/149	loss: 0.023	loss_act:0.023
+Batch: 50/149	loss: 0.005	loss_act:0.005
+Batch: 57/149	loss: 0.009	loss_act:0.009
+Batch: 64/149	loss: 0.009	loss_act:0.009
+Batch: 71/149	loss: 0.012	loss_act:0.012
+Batch: 78/149	loss: 0.012	loss_act:0.012
+Batch: 85/149	loss: 0.009	loss_act:0.009
+Batch: 92/149	loss: 0.004	loss_act:0.004
+Batch: 99/149	loss: 0.013	loss_act:0.013
+Batch: 106/149	loss: 0.016	loss_act:0.016
+Batch: 113/149	loss: 0.007	loss_act:0.007
+Batch: 120/149	loss: 0.008	loss_act:0.008
+Batch: 127/149	loss: 0.018	loss_act:0.018
+Batch: 134/149	loss: 0.008	loss_act:0.008
+Batch: 141/149	loss: 0.006	loss_act:0.006
+Batch: 148/149	loss: 0.009	loss_act:0.009
+Batch: 149/149	loss: 0.005	loss_act:0.005
+Epoch 49	Train Loss: 0.015	Val Acc: 0.999	Test Acc: 0.241
+Best Epoch: 48	Best Epoch Val Acc: 0.999	Best Epoch Test Acc: 0.240, Best Test Acc: 0.254
+
+********************Epoch: 50********************
+Batch: 1/149	loss: 0.006	loss_act:0.006
+Batch: 8/149	loss: 0.006	loss_act:0.006
+Batch: 15/149	loss: 0.013	loss_act:0.013
+Batch: 22/149	loss: 0.012	loss_act:0.012
+Batch: 29/149	loss: 0.006	loss_act:0.006
+Batch: 36/149	loss: 0.020	loss_act:0.020
+Batch: 43/149	loss: 0.007	loss_act:0.007
+Batch: 50/149	loss: 0.007	loss_act:0.007
+Batch: 57/149	loss: 0.032	loss_act:0.032
+Batch: 64/149	loss: 0.020	loss_act:0.020
+Batch: 71/149	loss: 0.014	loss_act:0.014
+Batch: 78/149	loss: 0.008	loss_act:0.008
+Batch: 85/149	loss: 0.010	loss_act:0.010
+Batch: 92/149	loss: 0.022	loss_act:0.022
+Batch: 99/149	loss: 0.019	loss_act:0.019
+Batch: 106/149	loss: 0.005	loss_act:0.005
+Batch: 113/149	loss: 0.013	loss_act:0.013
+Batch: 120/149	loss: 0.005	loss_act:0.005
+Batch: 127/149	loss: 0.005	loss_act:0.005
+Batch: 134/149	loss: 0.009	loss_act:0.009
+Batch: 141/149	loss: 0.005	loss_act:0.005
+Batch: 148/149	loss: 0.011	loss_act:0.011
+Batch: 149/149	loss: 0.019	loss_act:0.019
+Epoch 50	Train Loss: 0.013	Val Acc: 0.999	Test Acc: 0.241
+Best Epoch: 48	Best Epoch Val Acc: 0.999	Best Epoch Test Acc: 0.240, Best Test Acc: 0.254
+
+********************Epoch: 51********************
+Batch: 1/149	loss: 0.011	loss_act:0.011
+Batch: 8/149	loss: 0.009	loss_act:0.009
+Batch: 15/149	loss: 0.012	loss_act:0.012
+Batch: 22/149	loss: 0.020	loss_act:0.020
+Batch: 29/149	loss: 0.004	loss_act:0.004
+Batch: 36/149	loss: 0.005	loss_act:0.005
+Batch: 43/149	loss: 0.014	loss_act:0.014
+Batch: 50/149	loss: 0.009	loss_act:0.009
+Batch: 57/149	loss: 0.009	loss_act:0.009
+Batch: 64/149	loss: 0.005	loss_act:0.005
+Batch: 71/149	loss: 0.015	loss_act:0.015
+Batch: 78/149	loss: 0.016	loss_act:0.016
+Batch: 85/149	loss: 0.005	loss_act:0.005
+Batch: 92/149	loss: 0.010	loss_act:0.010
+Batch: 99/149	loss: 0.011	loss_act:0.011
+Batch: 106/149	loss: 0.004	loss_act:0.004
+Batch: 113/149	loss: 0.009	loss_act:0.009
+Batch: 120/149	loss: 0.006	loss_act:0.006
+Batch: 127/149	loss: 0.027	loss_act:0.027
+Batch: 134/149	loss: 0.013	loss_act:0.013
+Batch: 141/149	loss: 0.005	loss_act:0.005
+Batch: 148/149	loss: 0.017	loss_act:0.017
+Batch: 149/149	loss: 0.022	loss_act:0.022
+Epoch 51	Train Loss: 0.014	Val Acc: 0.999	Test Acc: 0.241
+Best Epoch: 48	Best Epoch Val Acc: 0.999	Best Epoch Test Acc: 0.240, Best Test Acc: 0.254
+
+********************Epoch: 52********************
+Batch: 1/149	loss: 0.020	loss_act:0.020
+Batch: 8/149	loss: 0.005	loss_act:0.005
+Batch: 15/149	loss: 0.008	loss_act:0.008
+Batch: 22/149	loss: 0.007	loss_act:0.007
+Batch: 29/149	loss: 0.011	loss_act:0.011
+Batch: 36/149	loss: 0.005	loss_act:0.005
+Batch: 43/149	loss: 0.008	loss_act:0.008
+Batch: 50/149	loss: 0.019	loss_act:0.019
+Batch: 57/149	loss: 0.005	loss_act:0.005
+Batch: 64/149	loss: 0.007	loss_act:0.007
+Batch: 71/149	loss: 0.032	loss_act:0.032
+Batch: 78/149	loss: 0.005	loss_act:0.005
+Batch: 85/149	loss: 0.066	loss_act:0.066
+Batch: 92/149	loss: 0.023	loss_act:0.023
+Batch: 99/149	loss: 0.013	loss_act:0.013
+Batch: 106/149	loss: 0.015	loss_act:0.015
+Batch: 113/149	loss: 0.007	loss_act:0.007
+Batch: 120/149	loss: 0.011	loss_act:0.011
+Batch: 127/149	loss: 0.013	loss_act:0.013
+Batch: 134/149	loss: 0.008	loss_act:0.008
+Batch: 141/149	loss: 0.009	loss_act:0.009
+Batch: 148/149	loss: 0.024	loss_act:0.024
+Batch: 149/149	loss: 0.012	loss_act:0.012
+Epoch 52	Train Loss: 0.013	Val Acc: 0.999	Test Acc: 0.241
+Best Epoch: 48	Best Epoch Val Acc: 0.999	Best Epoch Test Acc: 0.240, Best Test Acc: 0.254
+
+********************Epoch: 53********************
+Batch: 1/149	loss: 0.005	loss_act:0.005
+Batch: 8/149	loss: 0.020	loss_act:0.020
+Batch: 15/149	loss: 0.006	loss_act:0.006
+Batch: 22/149	loss: 0.014	loss_act:0.014
+Batch: 29/149	loss: 0.009	loss_act:0.009
+Batch: 36/149	loss: 0.006	loss_act:0.006
+Batch: 43/149	loss: 0.005	loss_act:0.005
+Batch: 50/149	loss: 0.009	loss_act:0.009
+Batch: 57/149	loss: 0.006	loss_act:0.006
+Batch: 64/149	loss: 0.028	loss_act:0.028
+Batch: 71/149	loss: 0.020	loss_act:0.020
+Batch: 78/149	loss: 0.008	loss_act:0.008
+Batch: 85/149	loss: 0.004	loss_act:0.004
+Batch: 92/149	loss: 0.003	loss_act:0.003
+Batch: 99/149	loss: 0.017	loss_act:0.017
+Batch: 106/149	loss: 0.026	loss_act:0.026
+Batch: 113/149	loss: 0.005	loss_act:0.005
+Batch: 120/149	loss: 0.019	loss_act:0.019
+Batch: 127/149	loss: 0.004	loss_act:0.004
+Batch: 134/149	loss: 0.004	loss_act:0.004
+Batch: 141/149	loss: 0.009	loss_act:0.009
+Batch: 148/149	loss: 0.038	loss_act:0.038
+Batch: 149/149	loss: 0.008	loss_act:0.008
+Epoch 53	Train Loss: 0.012	Val Acc: 0.999	Test Acc: 0.241
+Best Epoch: 48	Best Epoch Val Acc: 0.999	Best Epoch Test Acc: 0.240, Best Test Acc: 0.254
+
+********************Epoch: 54********************
+Batch: 1/149	loss: 0.012	loss_act:0.012
+Batch: 8/149	loss: 0.020	loss_act:0.020
+Batch: 15/149	loss: 0.003	loss_act:0.003
+Batch: 22/149	loss: 0.037	loss_act:0.037
+Batch: 29/149	loss: 0.014	loss_act:0.014
+Batch: 36/149	loss: 0.027	loss_act:0.027
+Batch: 43/149	loss: 0.012	loss_act:0.012
+Batch: 50/149	loss: 0.008	loss_act:0.008
+Batch: 57/149	loss: 0.003	loss_act:0.003
+Batch: 64/149	loss: 0.008	loss_act:0.008
+Batch: 71/149	loss: 0.005	loss_act:0.005
+Batch: 78/149	loss: 0.009	loss_act:0.009
+Batch: 85/149	loss: 0.004	loss_act:0.004
+Batch: 92/149	loss: 0.005	loss_act:0.005
+Batch: 99/149	loss: 0.011	loss_act:0.011
+Batch: 106/149	loss: 0.004	loss_act:0.004
+Batch: 113/149	loss: 0.007	loss_act:0.007
+Batch: 120/149	loss: 0.006	loss_act:0.006
+Batch: 127/149	loss: 0.014	loss_act:0.014
+Batch: 134/149	loss: 0.014	loss_act:0.014
+Batch: 141/149	loss: 0.010	loss_act:0.010
+Batch: 148/149	loss: 0.023	loss_act:0.023
+Batch: 149/149	loss: 0.006	loss_act:0.006
+Epoch 54	Train Loss: 0.011	Val Acc: 0.999	Test Acc: 0.241
+Best Epoch: 48	Best Epoch Val Acc: 0.999	Best Epoch Test Acc: 0.240, Best Test Acc: 0.254
+
+********************Epoch: 55********************
+Batch: 1/149	loss: 0.012	loss_act:0.012
+Batch: 8/149	loss: 0.003	loss_act:0.003
+Batch: 15/149	loss: 0.007	loss_act:0.007
+Batch: 22/149	loss: 0.007	loss_act:0.007
+Batch: 29/149	loss: 0.009	loss_act:0.009
+Batch: 36/149	loss: 0.004	loss_act:0.004
+Batch: 43/149	loss: 0.032	loss_act:0.032
+Batch: 50/149	loss: 0.005	loss_act:0.005
+Batch: 57/149	loss: 0.020	loss_act:0.020
+Batch: 64/149	loss: 0.014	loss_act:0.014
+Batch: 71/149	loss: 0.011	loss_act:0.011
+Batch: 78/149	loss: 0.007	loss_act:0.007
+Batch: 85/149	loss: 0.009	loss_act:0.009
+Batch: 92/149	loss: 0.004	loss_act:0.004
+Batch: 99/149	loss: 0.008	loss_act:0.008
+Batch: 106/149	loss: 0.004	loss_act:0.004
+Batch: 113/149	loss: 0.005	loss_act:0.005
+Batch: 120/149	loss: 0.028	loss_act:0.028
+Batch: 127/149	loss: 0.008	loss_act:0.008
+Batch: 134/149	loss: 0.006	loss_act:0.006
+Batch: 141/149	loss: 0.005	loss_act:0.005
+Batch: 148/149	loss: 0.010	loss_act:0.010
+Batch: 149/149	loss: 0.012	loss_act:0.012
+Epoch 55	Train Loss: 0.012	Val Acc: 0.998	Test Acc: 0.241
+Best Epoch: 48	Best Epoch Val Acc: 0.999	Best Epoch Test Acc: 0.240, Best Test Acc: 0.254
+
+********************Epoch: 56********************
+Batch: 1/149	loss: 0.006	loss_act:0.006
+Batch: 8/149	loss: 0.007	loss_act:0.007
+Batch: 15/149	loss: 0.005	loss_act:0.005
+Batch: 22/149	loss: 0.006	loss_act:0.006
+Batch: 29/149	loss: 0.007	loss_act:0.007
+Batch: 36/149	loss: 0.011	loss_act:0.011
+Batch: 43/149	loss: 0.015	loss_act:0.015
+Batch: 50/149	loss: 0.039	loss_act:0.039
+Batch: 57/149	loss: 0.007	loss_act:0.007
+Batch: 64/149	loss: 0.012	loss_act:0.012
+Batch: 71/149	loss: 0.018	loss_act:0.018
+Batch: 78/149	loss: 0.017	loss_act:0.017
+Batch: 85/149	loss: 0.004	loss_act:0.004
+Batch: 92/149	loss: 0.011	loss_act:0.011
+Batch: 99/149	loss: 0.005	loss_act:0.005
+Batch: 106/149	loss: 0.018	loss_act:0.018
+Batch: 113/149	loss: 0.005	loss_act:0.005
+Batch: 120/149	loss: 0.008	loss_act:0.008
+Batch: 127/149	loss: 0.006	loss_act:0.006
+Batch: 134/149	loss: 0.005	loss_act:0.005
+Batch: 141/149	loss: 0.002	loss_act:0.002
+Batch: 148/149	loss: 0.004	loss_act:0.004
+Batch: 149/149	loss: 0.015	loss_act:0.015
+Epoch 56	Train Loss: 0.011	Val Acc: 0.999	Test Acc: 0.241
+Best Epoch: 48	Best Epoch Val Acc: 0.999	Best Epoch Test Acc: 0.240, Best Test Acc: 0.254
+
+********************Epoch: 57********************
+Batch: 1/149	loss: 0.010	loss_act:0.010
+Batch: 8/149	loss: 0.020	loss_act:0.020
+Batch: 15/149	loss: 0.011	loss_act:0.011
+Batch: 22/149	loss: 0.010	loss_act:0.010
+Batch: 29/149	loss: 0.047	loss_act:0.047
+Batch: 36/149	loss: 0.021	loss_act:0.021
+Batch: 43/149	loss: 0.013	loss_act:0.013
+Batch: 50/149	loss: 0.008	loss_act:0.008
+Batch: 57/149	loss: 0.004	loss_act:0.004
+Batch: 64/149	loss: 0.005	loss_act:0.005
+Batch: 71/149	loss: 0.010	loss_act:0.010
+Batch: 78/149	loss: 0.014	loss_act:0.014
+Batch: 85/149	loss: 0.005	loss_act:0.005
+Batch: 92/149	loss: 0.008	loss_act:0.008
+Batch: 99/149	loss: 0.004	loss_act:0.004
+Batch: 106/149	loss: 0.006	loss_act:0.006
+Batch: 113/149	loss: 0.005	loss_act:0.005
+Batch: 120/149	loss: 0.007	loss_act:0.007
+Batch: 127/149	loss: 0.005	loss_act:0.005
+Batch: 134/149	loss: 0.003	loss_act:0.003
+Batch: 141/149	loss: 0.007	loss_act:0.007
+Batch: 148/149	loss: 0.003	loss_act:0.003
+Batch: 149/149	loss: 0.005	loss_act:0.005
+Epoch 57	Train Loss: 0.010	Val Acc: 0.998	Test Acc: 0.241
+Best Epoch: 48	Best Epoch Val Acc: 0.999	Best Epoch Test Acc: 0.240, Best Test Acc: 0.254
+
+********************Epoch: 58********************
+Batch: 1/149	loss: 0.003	loss_act:0.003
+Batch: 8/149	loss: 0.037	loss_act:0.037
+Batch: 15/149	loss: 0.007	loss_act:0.007
+Batch: 22/149	loss: 0.008	loss_act:0.008
+Batch: 29/149	loss: 0.005	loss_act:0.005
+Batch: 36/149	loss: 0.004	loss_act:0.004
+Batch: 43/149	loss: 0.005	loss_act:0.005
+Batch: 50/149	loss: 0.005	loss_act:0.005
+Batch: 57/149	loss: 0.023	loss_act:0.023
+Batch: 64/149	loss: 0.009	loss_act:0.009
+Batch: 71/149	loss: 0.010	loss_act:0.010
+Batch: 78/149	loss: 0.004	loss_act:0.004
+Batch: 85/149	loss: 0.005	loss_act:0.005
+Batch: 92/149	loss: 0.009	loss_act:0.009
+Batch: 99/149	loss: 0.006	loss_act:0.006
+Batch: 106/149	loss: 0.045	loss_act:0.045
+Batch: 113/149	loss: 0.013	loss_act:0.013
+Batch: 120/149	loss: 0.005	loss_act:0.005
+Batch: 127/149	loss: 0.003	loss_act:0.003
+Batch: 134/149	loss: 0.024	loss_act:0.024
+Batch: 141/149	loss: 0.004	loss_act:0.004
+Batch: 148/149	loss: 0.003	loss_act:0.003
+Batch: 149/149	loss: 0.015	loss_act:0.015
+Epoch 58	Train Loss: 0.010	Val Acc: 0.999	Test Acc: 0.240
+Best Epoch: 48	Best Epoch Val Acc: 0.999	Best Epoch Test Acc: 0.240, Best Test Acc: 0.254
+
+Saving the best checkpoint....
+Test Acc: 0.240
