@@ -3,7 +3,7 @@ import numpy as np
 
 # Read data from the CSV file
 train_data = []
-with open('data/sgd/train.csv', 'r') as csvfile:
+with open('train.csv', 'r') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         train_data.append(row)
